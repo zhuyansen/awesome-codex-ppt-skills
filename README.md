@@ -2,7 +2,7 @@
 
 [中文](README.zh-CN.md)
 
-Open-source skills and tools that let **Codex, Claude Code and other coding agents make slides**: editable PPTX, image-first decks, web slides, consulting-style decks, documents to slides. 132 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
+Open-source skills and tools that let **Codex, Claude Code and other coding agents make slides**: editable PPTX, image-first decks, web slides, consulting-style decks, documents to slides. 133 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
 
 Live page with filters: **[https://agentskillshub.top/best/ppt-presentation/](https://agentskillshub.top/best/ppt-presentation/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
@@ -10,7 +10,7 @@ Live page with filters: **[https://agentskillshub.top/best/ppt-presentation/](ht
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>🧱 Frameworks & toolkits</b><br><sub>13 repos</sub><br><br><a href="https://github.com/StarryKit/starry-slides"><img src="assets/previews/StarryKit__starry-slides.gif" width="260" alt="StarryKit/starry-slides"></a><br><sub>Large toolkits and multi-agent systems that make many kinds of decks.</sub><br><a href="#type-general"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🧱 Frameworks & toolkits</b><br><sub>14 repos</sub><br><br><a href="https://github.com/StarryKit/starry-slides"><img src="assets/previews/StarryKit__starry-slides.gif" width="260" alt="StarryKit/starry-slides"></a><br><sub>Large toolkits and multi-agent systems that make many kinds of decks.</sub><br><a href="#type-general"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>📝 Editable PPTX</b><br><sub>56 repos</sub><br><br><a href="https://github.com/icip-cas/PPTAgent"><img src="assets/previews/icip-cas__PPTAgent.gif" width="260" alt="icip-cas/PPTAgent"></a><br><sub>Real .pptx files you can open and edit in PowerPoint.</sub><br><a href="#type-pptx"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🖼 Image-first decks</b><br><sub>5 repos</sub><br><br><a href="https://github.com/uuoov/ppt-image-share-builder"><img src="assets/previews/uuoov__ppt-image-share-builder.gif" width="260" alt="uuoov/ppt-image-share-builder"></a><br><sub>Each slide is a generated image: striking, but the text is fixed.</sub><br><a href="#type-image"><b>View the list →</b></a></td>
 </tr>
@@ -23,7 +23,7 @@ Live page with filters: **[https://agentskillshub.top/best/ppt-presentation/](ht
 
 ## Contents
 
-- [🧱 Frameworks & toolkits](#type-general) (13)
+- [🧱 Frameworks & toolkits](#type-general) (14)
 - [📝 Editable PPTX](#type-pptx) (56)
 - [🖼 Image-first decks](#type-image) (5)
 - [🌐 Web slides](#type-html) (28)
@@ -46,8 +46,8 @@ The questions are answered by a decision model reading each README, not by hand.
 
 <table><tr>
 <td align="center" valign="top"><a href="https://github.com/wuyoscar/GPT-Image2-Skill"><img src="assets/previews/wuyoscar__GPT-Image2-Skill.jpg" width="260" alt="wuyoscar/GPT-Image2-Skill"></a><br><sub><a href="https://github.com/wuyoscar/GPT-Image2-Skill">wuyoscar/GPT-Image2-Skill</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/minorun365/minorun-marp-skill"><img src="assets/previews/minorun365__minorun-marp-skill.jpg" width="260" alt="minorun365/minorun-marp-skill"></a><br><sub><a href="https://github.com/minorun365/minorun-marp-skill">minorun365/minorun-marp-skill</a></sub></td>
 <td align="center" valign="top"><a href="https://github.com/gnipbao/knowledge-cat-ppt-skill"><img src="assets/previews/gnipbao__knowledge-cat-ppt-skill.jpg" width="260" alt="gnipbao/knowledge-cat-ppt-skill"></a><br><sub><a href="https://github.com/gnipbao/knowledge-cat-ppt-skill">gnipbao/knowledge-cat-ppt-skill</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/ConnorRX56/presentation-delivery-skills"><img src="assets/previews/ConnorRX56__presentation-delivery-skills.jpg" width="260" alt="ConnorRX56/presentation-delivery-skills"></a><br><sub><a href="https://github.com/ConnorRX56/presentation-delivery-skills">ConnorRX56/presentation-delivery-skills</a></sub></td>
 </tr></table>
 
 | Repo | Stars | What it does | Security |
@@ -57,6 +57,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 835 | Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support | [SAFE](https://agentskillshub.top/skill/tfriedel/claude-office-skills/?utm_source=github&utm_medium=awesome-list) |
 | [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) | 644 | 渐进交互式ppt生成skill | [SAFE](https://agentskillshub.top/skill/mucsbr/ppt-agent-workflow-san/?utm_source=github&utm_medium=awesome-list) |
 | [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) | 599 | 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance,… | [SAFE](https://agentskillshub.top/skill/minhnv0807/ai-business-skills/?utm_source=github&utm_medium=awesome-list) |
+| [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) | 400 | Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | [SAFE](https://agentskillshub.top/skill/minorun365/minorun-marp-skill/?utm_source=github&utm_medium=awesome-list) |
 | [rsrohan99/presenter](https://github.com/rsrohan99/presenter) | 186 | A Multi-Agent AI Tool that creates beautiful presentations with voice-overs 🎦🔥 | [SAFE](https://agentskillshub.top/skill/rsrohan99/presenter/?utm_source=github&utm_medium=awesome-list) |
 | [Sven-LI-sankyuu/presentation-skills](https://github.com/Sven-LI-sankyuu/presentation-skills) | 174 | 面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering edi… | [SAFE](https://agentskillshub.top/skill/Sven-LI-sankyuu/presentation-skills/?utm_source=github&utm_medium=awesome-list) |
 | [StarryKit/starry-slides](https://github.com/StarryKit/starry-slides) | 95 | Free AI presentation maker & free AI poster maker for Codex, Claude Code, Cursor, and more—create editable slides, decks, posters, and social graphic… | [SAFE](https://agentskillshub.top/skill/StarryKit/starry-slides/?utm_source=github&utm_medium=awesome-list) |
@@ -183,7 +184,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [arifszn/slide-wright](https://github.com/arifszn/slide-wright) | 48 | AI agent skill to generate beautiful, unique slide decks with reveal.js - new design for every prompt. | [SAFE](https://agentskillshub.top/skill/arifszn/slide-wright/?utm_source=github&utm_medium=awesome-list) |
 | [dososo/blcaptain-ppt-skill](https://github.com/dososo/blcaptain-ppt-skill) | 32 | AI 原生·单文件 HTML 演示 Skill：7 套锚定公认设计体系的视觉人格，好看（WCAG/间距/32 维审计）与诚实（反伪造）都由机器强制，零依赖。 \| AI-native single-file HTML presentation skill — 7 design-system-anc… | [SAFE](https://agentskillshub.top/skill/dososo/blcaptain-ppt-skill/?utm_source=github&utm_medium=awesome-list) |
 | [gongnyang/awesome-html-scrolline-deck](https://github.com/gongnyang/awesome-html-scrolline-deck) | 28 | Scrolline Deck — scroll-driven cinematic HTML presentations (scrollytelling decks) as a Claude Code skill: 12 scene techniques, enter/hold/exit chore… | [SAFE](https://agentskillshub.top/skill/gongnyang/awesome-html-scrolline-deck/?utm_source=github&utm_medium=awesome-list) |
-| [sharptoolbox/consulting-html-ppt](https://github.com/sharptoolbox/consulting-html-ppt) | 19 | 咨询公司风格 HTML + SVG 演示页生成技能（Agent Skill）· McKinsey/BCG 风格 PPT · 三形态判定 + 双模板库 + ECharts | [SAFE](https://agentskillshub.top/skill/sharptoolbox/consulting-html-ppt/?utm_source=github&utm_medium=awesome-list) |
+| [sharptoolbox/consulting-html-ppt](https://github.com/sharptoolbox/consulting-html-ppt) | 20 | 咨询公司风格 HTML + SVG 演示页生成技能（Agent Skill）· McKinsey/BCG 风格 PPT · 三形态判定 + 双模板库 + ECharts | [SAFE](https://agentskillshub.top/skill/sharptoolbox/consulting-html-ppt/?utm_source=github&utm_medium=awesome-list) |
 | [yevvonlim/kai-presentation](https://github.com/yevvonlim/kai-presentation) | 16 | Claude Code skill for KAI presentation design in HTML | [SAFE](https://agentskillshub.top/skill/yevvonlim/kai-presentation/?utm_source=github&utm_medium=awesome-list) |
 | [shawnzam/keynot](https://github.com/shawnzam/keynot) | 15 | A Claude Code skill that turns any prompt into a polished, self-contained HTML slide deck — no Keynote or PowerPoint required. | [SAFE](https://agentskillshub.top/skill/shawnzam/keynot/?utm_source=github&utm_medium=awesome-list) |
 | [masaki39/marp-mcp](https://github.com/masaki39/marp-mcp) | 12 | MCP server that lets AI agents build and edit Marp slide decks via structured tools. | [SAFE](https://agentskillshub.top/skill/masaki39/marp-mcp/?utm_source=github&utm_medium=awesome-list) |
@@ -210,7 +211,7 @@ The questions are answered by a decision model reading each README, not by hand.
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [gozen3ji/consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 888 | AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック | [SAFE](https://agentskillshub.top/skill/gozen3ji/consulting-pptx-skill/?utm_source=github&utm_medium=awesome-list) |
+| [gozen3ji/consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 901 | AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック | [SAFE](https://agentskillshub.top/skill/gozen3ji/consulting-pptx-skill/?utm_source=github&utm_medium=awesome-list) |
 | [seulee26/mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by… | [SAFE](https://agentskillshub.top/skill/seulee26/mckinsey-pptx/?utm_source=github&utm_medium=awesome-list) |
 | [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | Consulting deck skill with editable options for Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/?utm_source=github&utm_medium=awesome-list) |
 | [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 293 | Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。 | [SAFE](https://agentskillshub.top/skill/likaku/Mck-ppt-design-skill/?utm_source=github&utm_medium=awesome-list) |
@@ -235,7 +236,7 @@ The questions are answered by a decision model reading each README, not by hand.
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57.4k | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on dema… | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/?utm_source=github&utm_medium=awesome-list) |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 57.5k | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on dema… | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/?utm_source=github&utm_medium=awesome-list) |
 | [chuspeeism/dashiAI-ppt-skill](https://github.com/chuspeeism/dashiAI-ppt-skill) | 9.1k | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. | [SAFE](https://agentskillshub.top/skill/chuspeeism/dashiAI-ppt-skill/?utm_source=github&utm_medium=awesome-list) |
 | [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) | 3.3k | NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放 | [CAUTION](https://agentskillshub.top/skill/op7418/NanoBanana-PPT-Skills/?utm_source=github&utm_medium=awesome-list) |
 | [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1.8k | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 | [SAFE](https://agentskillshub.top/skill/crazyykhllc-bit/CyberPPT/?utm_source=github&utm_medium=awesome-list) |
@@ -244,12 +245,12 @@ The questions are answered by a decision model reading each README, not by hand.
 | [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) | 362 | A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scori… | [SAFE](https://agentskillshub.top/skill/Noi1r/beamer-skill/?utm_source=github&utm_medium=awesome-list) |
 | [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 306 | 一键从论文生成高质量学术答辩PPT \| AI-powered thesis defense slides generator \| Claude Code & Codex Skill | [SAFE](https://agentskillshub.top/skill/Faust-Donf/beamer-academic/?utm_source=github&utm_medium=awesome-list) |
 | [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) | 258 | ppt-svg-generator 是一个 Skill，帮助你将 Markdown 文稿快速转化PPT 或 PDF，并支持多种预设风格选择，效果美观且可控。 使用流程参考公众号：懂点儿 AI 👇 | [SAFE](https://agentskillshub.top/skill/vigorX777/ppt-svg-generator/?utm_source=github&utm_medium=awesome-list) |
-| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 222 | Turn papers into editable academic PPTX decks | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/?utm_source=github&utm_medium=awesome-list) |
+| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 223 | Turn papers into editable academic PPTX decks | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/?utm_source=github&utm_medium=awesome-list) |
 | [mujingquan835/dashiai-ppt-skill](https://github.com/mujingquan835/dashiai-ppt-skill) | 180 | 大师 PPT：由 @大师的AI小灶 维护的可编辑 PPTX 生成、网页编辑与安全返工 Skill | [SAFE](https://agentskillshub.top/skill/mujingquan835/dashiai-ppt-skill/?utm_source=github&utm_medium=awesome-list) |
 | [fangyuanopus/literature-report-ppt-builder](https://github.com/fangyuanopus/literature-report-ppt-builder) | 110 | Open-source Codex skill for academic literature-report PPT generation | [SAFE](https://agentskillshub.top/skill/fangyuanopus/literature-report-ppt-builder/?utm_source=github&utm_medium=awesome-list) |
 | [deathcats4/scholar-ppt-cn](https://github.com/deathcats4/scholar-ppt-cn) | 47 | AI academic PPT workflow skill for Codex / ChatGPT: paper-to-editable PowerPoint, planning table, mockup family, and PPTX generation. | [SAFE](https://agentskillshub.top/skill/deathcats4/scholar-ppt-cn/?utm_source=github&utm_medium=awesome-list) |
-| [helloo1568/image-ppt](https://github.com/helloo1568/image-ppt) | 37 | 视觉优先的 AI PPT Skill｜适用于挑战杯（大挑/小挑）、中国国际大学生创新大赛、全国大学生交通运输科技大赛（交科赛）、三创赛、正大杯、大创等竞赛，也适合学术汇报、论文答辩、项目路演与课程展示｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/image-ppt/?utm_source=github&utm_medium=awesome-list) |
-| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 37 | 视觉优先的 AI PPT Skill｜适用于挑战杯（大挑/小挑）、中国国际大学生创新大赛、全国大学生交通运输科技大赛（交科赛）、三创赛、正大杯、大创等竞赛，也适合学术汇报、论文答辩、项目路演与课程展示｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/?utm_source=github&utm_medium=awesome-list) |
+| [helloo1568/image-ppt](https://github.com/helloo1568/image-ppt) | 38 | 视觉优先的 AI PPT Skill｜适用于挑战杯（大挑/小挑）、中国国际大学生创新大赛、全国大学生交通运输科技大赛（交科赛）、三创赛、正大杯、大创等竞赛，也适合学术汇报、论文答辩、项目路演与课程展示｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/image-ppt/?utm_source=github&utm_medium=awesome-list) |
+| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 38 | 视觉优先的 AI PPT Skill｜适用于挑战杯（大挑/小挑）、中国国际大学生创新大赛、全国大学生交通运输科技大赛（交科赛）、三创赛、正大杯、大创等竞赛，也适合学术汇报、论文答辩、项目路演与课程展示｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/?utm_source=github&utm_medium=awesome-list) |
 | [joeseesun/qiaomu-ppt](https://github.com/joeseesun/qiaomu-ppt) | 35 | 中文优先的 PPT 生成工作流：URL/PDF/NotebookLM/HTML Deck 到可编辑、可验证演示文稿 \| Chinese-first source-to-slide workflow. | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-ppt/?utm_source=github&utm_medium=awesome-list) |
 | [hanlulong/econ-slides-skill](https://github.com/hanlulong/econ-slides-skill) | 19 | Turn an economics paper into a seminar-ready Beamer talk with a timed speaker script — conference, job-market and discussant slides. Agent Skill for… | [SAFE](https://agentskillshub.top/skill/hanlulong/econ-slides-skill/?utm_source=github&utm_medium=awesome-list) |
 | [FA-T-T/codex-skill-academic-slides](https://github.com/FA-T-T/codex-skill-academic-slides) | 7 | Codex skill for academic slides, posters, proofsheets, and architecture diagrams via GPT Image 2 | [SAFE](https://agentskillshub.top/skill/FA-T-T/codex-skill-academic-slides/?utm_source=github&utm_medium=awesome-list) |

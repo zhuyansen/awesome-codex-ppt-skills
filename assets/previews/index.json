@@ -519,6 +519,16 @@
   "file": "liustack__pptwise.jpg",
   "still": "liustack__pptwise.jpg"
  },
+ "minorun365/minorun-marp-skill": {
+  "repo": "minorun365/minorun-marp-skill",
+  "url": "https://raw.githubusercontent.com/minorun365/minorun-marp-skill/HEAD/examples/sample/preview.png",
+  "alt": "見本デッキ",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 279375,
+  "file": "minorun365__minorun-marp-skill.jpg",
+  "still": "minorun365__minorun-marp-skill.jpg"
+ },
  "moongiadventures-dev/handdrawn-ppt": {
   "repo": "moongiadventures-dev/handdrawn-ppt",
   "url": "https://raw.githubusercontent.com/moongiadventures-dev/handdrawn-ppt/HEAD/docs/demo_slide_chart.png",
