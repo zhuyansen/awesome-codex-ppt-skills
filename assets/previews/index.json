@@ -1,0 +1,742 @@
+{
+ "2slides/mcp-2slides": {
+  "repo": "2slides/mcp-2slides",
+  "url": "https://2slides.com/images/og_2slides.webp",
+  "alt": "2slides",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 101308,
+  "file": "2slides__mcp-2slides.jpg",
+  "still": "2slides__mcp-2slides.jpg"
+ },
+ "ABYR1206/claude-skill-hand-drawn-slides": {
+  "repo": "ABYR1206/claude-skill-hand-drawn-slides",
+  "url": "https://raw.githubusercontent.com/ABYR1206/claude-skill-hand-drawn-slides/HEAD/examples/preview.png",
+  "alt": "Preview of five generated chapter slides",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 270188,
+  "file": "ABYR1206__claude-skill-hand-drawn-slides.jpg",
+  "still": "ABYR1206__claude-skill-hand-drawn-slides.jpg"
+ },
+ "AIPMAndy/PPTskill": {
+  "repo": "AIPMAndy/PPTskill",
+  "url": "https://raw.githubusercontent.com/AIPMAndy/PPTskill/HEAD/docs/assets/screenshots/preview_magazine_garden.png",
+  "alt": "PPTskill Demo",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 1535839,
+  "file": "AIPMAndy__PPTskill.jpg",
+  "still": "AIPMAndy__PPTskill.jpg"
+ },
+ "Aham-AIAPP/aham-ppt": {
+  "repo": "Aham-AIAPP/aham-ppt",
+  "url": "https://raw.githubusercontent.com/Aham-AIAPP/aham-ppt/HEAD/assets/social-preview.png",
+  "alt": "Aham PPT — 克制的 AI PPT 制作技能",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 84628,
+  "file": "Aham-AIAPP__aham-ppt.jpg",
+  "still": "Aham-AIAPP__aham-ppt.jpg"
+ },
+ "Akxan/ppt-agent-skill": {
+  "repo": "Akxan/ppt-agent-skill",
+  "url": "https://raw.githubusercontent.com/Akxan/ppt-agent-skill/HEAD/assets/hero-all.png",
+  "alt": "26 风格预览",
+  "score": -1.35,
+  "type": "image/png",
+  "bytes": 429913,
+  "file": "Akxan__ppt-agent-skill.jpg",
+  "still": "Akxan__ppt-agent-skill.jpg"
+ },
+ "Changhooo/ppt-image-redraw-skill": {
+  "repo": "Changhooo/ppt-image-redraw-skill",
+  "url": "https://raw.githubusercontent.com/Changhooo/ppt-image-redraw-skill/HEAD/docs/images/02-segmentation-preview.png",
+  "alt": "分割确认预览",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 546835,
+  "file": "Changhooo__ppt-image-redraw-skill.jpg",
+  "still": "Changhooo__ppt-image-redraw-skill.jpg"
+ },
+ "ConnorRX56/presentation-delivery-skills": {
+  "repo": "ConnorRX56/presentation-delivery-skills",
+  "url": "https://raw.githubusercontent.com/ConnorRX56/presentation-delivery-skills/HEAD/demos/agent-skill-harness-hermes/previews/01-cover.png",
+  "alt": "Cover of the Agent, Skill, Harness, and Hermes presentation",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 48861,
+  "file": "ConnorRX56__presentation-delivery-skills.jpg",
+  "still": "ConnorRX56__presentation-delivery-skills.jpg"
+ },
+ "DSY-Xueai/image2editable": {
+  "repo": "DSY-Xueai/image2editable",
+  "url": "https://raw.githubusercontent.com/DSY-Xueai/image2editable/HEAD/docs/images/demo-source-1.png",
+  "alt": "原图 1",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 1053714,
+  "file": "DSY-Xueai__image2editable.jpg",
+  "still": "DSY-Xueai__image2editable.jpg"
+ },
+ "Faust-Donf/beamer-academic": {
+  "repo": "Faust-Donf/beamer-academic",
+  "url": "https://raw.githubusercontent.com/Faust-Donf/beamer-academic/HEAD/docs/toc.png",
+  "alt": "",
+  "score": -0.3,
+  "type": "image/png",
+  "bytes": 42859,
+  "file": "Faust-Donf__beamer-academic.jpg",
+  "still": "Faust-Donf__beamer-academic.jpg"
+ },
+ "GZPengyuyan/PengyuyanPPT": {
+  "repo": "GZPengyuyan/PengyuyanPPT",
+  "url": "https://raw.githubusercontent.com/GZPengyuyan/PengyuyanPPT/HEAD/assets/readme/tech-style-light.png",
+  "alt": "科技方案浅色风格",
+  "score": 1.7,
+  "type": "image/png",
+  "bytes": 1383035,
+  "file": "GZPengyuyan__PengyuyanPPT.jpg",
+  "still": "GZPengyuyan__PengyuyanPPT.jpg"
+ },
+ "GongRzhe/Office-PowerPoint-MCP-Server": {
+  "repo": "GongRzhe/Office-PowerPoint-MCP-Server",
+  "url": "https://github.com/user-attachments/assets/90633c97-f373-4c85-bc9c-a1d7b891c344",
+  "alt": "650f4cc5d0f1ea4f3b1580800cb0deb",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 561207,
+  "file": "GongRzhe__Office-PowerPoint-MCP-Server.jpg",
+  "still": "GongRzhe__Office-PowerPoint-MCP-Server.jpg"
+ },
+ "Hasasasa/claude-skill-html-to-pptx": {
+  "repo": "Hasasasa/claude-skill-html-to-pptx",
+  "url": "https://raw.githubusercontent.com/Hasasasa/claude-skill-html-to-pptx/HEAD/assets/compare/yanshi2_ours_grid.png",
+  "alt": "html-to-pptx output rendered in PowerPoint",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 571646,
+  "file": "Hasasasa__claude-skill-html-to-pptx.jpg",
+  "still": "Hasasasa__claude-skill-html-to-pptx.jpg"
+ },
+ "Hasasasa/html-to-editable-pptx": {
+  "repo": "Hasasasa/html-to-editable-pptx",
+  "url": "https://raw.githubusercontent.com/Hasasasa/html-to-editable-pptx/HEAD/assets/compare/yanshi2_ours_grid.png",
+  "alt": "html-to-pptx output rendered in PowerPoint",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 571646,
+  "file": "Hasasasa__html-to-editable-pptx.jpg",
+  "still": "Hasasasa__html-to-editable-pptx.jpg"
+ },
+ "JuneYaooo/gpt-image2-ppt-skills": {
+  "repo": "JuneYaooo/gpt-image2-ppt-skills",
+  "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
+  "alt": "generated output",
+  "score": 1.7,
+  "type": "image/jpeg",
+  "bytes": 376410,
+  "file": "JuneYaooo__gpt-image2-ppt-skills.jpg",
+  "still": "JuneYaooo__gpt-image2-ppt-skills.jpg"
+ },
+ "Kevinyyy1/image-to-editable-pptx-v2": {
+  "repo": "Kevinyyy1/image-to-editable-pptx-v2",
+  "url": "https://raw.githubusercontent.com/Kevinyyy1/image-to-editable-pptx-v2/HEAD/examples/images/example-1.png",
+  "alt": "Example 1: Brand storytelling image converted to editable PowerPoint",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 3048368,
+  "file": "Kevinyyy1__image-to-editable-pptx-v2.jpg",
+  "still": "Kevinyyy1__image-to-editable-pptx-v2.jpg"
+ },
+ "LearnAIHubC/LearnDeck": {
+  "repo": "LearnAIHubC/LearnDeck",
+  "url": "https://raw.githubusercontent.com/LearnAIHubC/LearnDeck/HEAD/assets/learn-deck-cover-en.png",
+  "alt": "LearnDeck editable PPT showcase template",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 214976,
+  "file": "LearnAIHubC__LearnDeck.jpg",
+  "still": "LearnAIHubC__LearnDeck.jpg"
+ },
+ "M1n-n9/academic-ppt-master": {
+  "repo": "M1n-n9/academic-ppt-master",
+  "url": "https://raw.githubusercontent.com/M1n-n9/academic-ppt-master/HEAD/assets/previews/attention_demo_01_06.png",
+  "alt": "Attention paper deck preview, slides 1 to 6",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 9063422,
+  "file": "M1n-n9__academic-ppt-master.jpg",
+  "still": "M1n-n9__academic-ppt-master.jpg"
+ },
+ "NomiciAI/mbb-page-maker": {
+  "repo": "NomiciAI/mbb-page-maker",
+  "url": "https://raw.githubusercontent.com/NomiciAI/mbb-page-maker/HEAD/assets/media/readme/ai-erp-saas-lop.gif",
+  "alt": "AI Product Operating Plan for an ERP SaaS Incumbent",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 59738,
+  "file": "NomiciAI__mbb-page-maker.gif",
+  "still": "NomiciAI__mbb-page-maker.jpg"
+ },
+ "NyxTides/ppt-image-first": {
+  "repo": "NyxTides/ppt-image-first",
+  "url": "https://raw.githubusercontent.com/NyxTides/ppt-image-first/HEAD/docs/images/sample-meteorology-defense-deck.png",
+  "alt": "气象答辩首页示例",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 261381,
+  "file": "NyxTides__ppt-image-first.jpg",
+  "still": "NyxTides__ppt-image-first.jpg"
+ },
+ "Pikapika260214/rw-consulting-ppt": {
+  "repo": "Pikapika260214/rw-consulting-ppt",
+  "url": "https://raw.githubusercontent.com/Pikapika260214/rw-consulting-ppt/HEAD/skills/rw-consulting-ppt/assets/xiaohongshu-contact.jpg",
+  "alt": "作者小红书主页二维码",
+  "score": -0.25,
+  "type": "image/jpeg",
+  "bytes": 118233,
+  "file": "Pikapika260214__rw-consulting-ppt.jpg",
+  "still": "Pikapika260214__rw-consulting-ppt.jpg"
+ },
+ "StarryKit/starry-slides": {
+  "repo": "StarryKit/starry-slides",
+  "url": "https://raw.githubusercontent.com/StarryKit/starry-slides/HEAD/assets/demos/event-design.gif",
+  "alt": "StarryKit creating an editable event poster",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 2394819,
+  "file": "StarryKit__starry-slides.gif",
+  "still": "StarryKit__starry-slides.jpg"
+ },
+ "YingYveltal/bento-ppt-skill": {
+  "repo": "YingYveltal/bento-ppt-skill",
+  "url": "https://raw.githubusercontent.com/YingYveltal/bento-ppt-skill/HEAD/examples/dify-intro/shots/01-cover.png",
+  "alt": "cover",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 377323,
+  "file": "YingYveltal__bento-ppt-skill.jpg",
+  "still": "YingYveltal__bento-ppt-skill.jpg"
+ },
+ "addsumtech/slides_maker": {
+  "repo": "addsumtech/slides_maker",
+  "url": "https://slides.addsum.top/docs/assets/screenshots/preview_en_quarterly-review.png",
+  "alt": "Quarterly Review / Business Update template preview",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 64211,
+  "file": "addsumtech__slides_maker.jpg",
+  "still": "addsumtech__slides_maker.jpg"
+ },
+ "alohays/paper2pr": {
+  "repo": "alohays/paper2pr",
+  "url": "https://raw.githubusercontent.com/alohays/paper2pr/HEAD/assets/slide-types.png",
+  "alt": "Six slide types on the shared theme: title slide, section divider, full-bleed\nvi",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 158264,
+  "file": "alohays__paper2pr.jpg",
+  "still": "alohays__paper2pr.jpg"
+ },
+ "archlizheng/frontend-slides-editable": {
+  "repo": "archlizheng/frontend-slides-editable",
+  "url": "https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/HEAD/docs/preset-previews/block-frame-mid.png",
+  "alt": "BlockFrame — mid slide",
+  "score": 0.6,
+  "type": "image/png",
+  "bytes": 8063,
+  "file": "archlizheng__frontend-slides-editable.jpg",
+  "still": "archlizheng__frontend-slides-editable.jpg"
+ },
+ "arifszn/slide-wright": {
+  "repo": "arifszn/slide-wright",
+  "url": "https://github.com/user-attachments/assets/6839eba2-a228-4324-8dc0-983e235991f7",
+  "alt": "ClickHouse example slide 1",
+  "score": 2.0,
+  "type": "image/webp",
+  "bytes": 61214,
+  "file": "arifszn__slide-wright.jpg",
+  "still": "arifszn__slide-wright.jpg"
+ },
+ "code-on-sunday/slide-deck-generator": {
+  "repo": "code-on-sunday/slide-deck-generator",
+  "url": "https://raw.githubusercontent.com/code-on-sunday/slide-deck-generator/HEAD/examples/en-context-engineering.png",
+  "alt": "en-context-engineering",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 98925,
+  "file": "code-on-sunday__slide-deck-generator.jpg",
+  "still": "code-on-sunday__slide-deck-generator.jpg"
+ },
+ "crazyykhllc-bit/CyberPPT": {
+  "repo": "crazyykhllc-bit/CyberPPT",
+  "url": "https://raw.githubusercontent.com/crazyykhllc-bit/CyberPPT/HEAD/assets/palette-samples/palette-01.png",
+  "alt": "Palette 01",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 1506033,
+  "file": "crazyykhllc-bit__CyberPPT.jpg",
+  "still": "crazyykhllc-bit__CyberPPT.jpg"
+ },
+ "daniel-style/magic-slide": {
+  "repo": "daniel-style/magic-slide",
+  "url": "https://raw.githubusercontent.com/daniel-style/magic-slide/HEAD/assets/readme/magic-slide-promo.png",
+  "alt": "Magic Slide promotional artwork",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 1315520,
+  "file": "daniel-style__magic-slide.jpg",
+  "still": "daniel-style__magic-slide.jpg"
+ },
+ "demoolight/academic-image-ppt": {
+  "repo": "demoolight/academic-image-ppt",
+  "url": "https://raw.githubusercontent.com/demoolight/academic-image-ppt/HEAD/skills/academic-image-ppt/assets/reference-thumbnails/readme-reference-01.png",
+  "alt": "Academic Image PPT reference gallery - rural finance style preview",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 1863929,
+  "file": "demoolight__academic-image-ppt.jpg",
+  "still": "demoolight__academic-image-ppt.jpg"
+ },
+ "fangyuanopus/literature-report-ppt-builder": {
+  "repo": "fangyuanopus/literature-report-ppt-builder",
+  "url": "https://raw.githubusercontent.com/fangyuanopus/literature-report-ppt-builder/HEAD/docs/images/demo-slide-01-title.jpg",
+  "alt": "Image2 示例封面",
+  "score": 1.85,
+  "type": "image/jpeg",
+  "bytes": 137292,
+  "file": "fangyuanopus__literature-report-ppt-builder.jpg",
+  "still": "fangyuanopus__literature-report-ppt-builder.jpg"
+ },
+ "fengting124/paper-figure-pptx-skill": {
+  "repo": "fengting124/paper-figure-pptx-skill",
+  "url": "https://raw.githubusercontent.com/fengting124/paper-figure-pptx-skill/HEAD/docs/assets/effect-comparison.png",
+  "alt": "Effect comparison showing source figure and LibreOffice-rendered PPTX reconstruc",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 2035070,
+  "file": "fengting124__paper-figure-pptx-skill.jpg",
+  "still": "fengting124__paper-figure-pptx-skill.jpg"
+ },
+ "floflo11/mbb-decks": {
+  "repo": "floflo11/mbb-decks",
+  "url": "https://raw.githubusercontent.com/floflo11/mbb-decks/HEAD/examples/data-center-landscape/compare-agenda.png",
+  "alt": "Agenda comparison",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 161320,
+  "file": "floflo11__mbb-decks.jpg",
+  "still": "floflo11__mbb-decks.jpg"
+ },
+ "gnipbao/knowledge-cat-ppt-skill": {
+  "repo": "gnipbao/knowledge-cat-ppt-skill",
+  "url": "https://raw.githubusercontent.com/gnipbao/knowledge-cat-ppt-skill/HEAD/docs/images/mode-native-pptx.png",
+  "alt": "Native PPTX mode preview",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 59610,
+  "file": "gnipbao__knowledge-cat-ppt-skill.jpg",
+  "still": "gnipbao__knowledge-cat-ppt-skill.jpg"
+ },
+ "gnuhpc/ppt-master-plus": {
+  "repo": "gnuhpc/ppt-master-plus",
+  "url": "https://raw.githubusercontent.com/gnuhpc/ppt-master-plus/HEAD/assets/ppt-master-plus-cover.png",
+  "alt": "PPT Master Plus 扁平手绘宣传图",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 533537,
+  "file": "gnuhpc__ppt-master-plus.jpg",
+  "still": "gnuhpc__ppt-master-plus.jpg"
+ },
+ "hanlulong/econ-slides-skill": {
+  "repo": "hanlulong/econ-slides-skill",
+  "url": "https://raw.githubusercontent.com/hanlulong/econ-slides-skill/HEAD/docs/images/sample-punchline.png",
+  "alt": "Punchline slide from an AI-built Beamer talk: the main result, one supporting he",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 90274,
+  "file": "hanlulong__econ-slides-skill.jpg",
+  "still": "hanlulong__econ-slides-skill.jpg"
+ },
+ "helloo1568/image-ppt": {
+  "repo": "helloo1568/image-ppt",
+  "url": "https://raw.githubusercontent.com/helloo1568/image-ppt/HEAD/showcase/preview/snowline-watch-01.webp",
+  "alt": "雪线守望：冰川、巡检人员与无人机组成的项目封面",
+  "score": -0.25,
+  "type": "image/webp",
+  "bytes": 267406,
+  "file": "helloo1568__image-ppt.jpg",
+  "still": "helloo1568__image-ppt.jpg"
+ },
+ "helloo1568/slidemuse": {
+  "repo": "helloo1568/slidemuse",
+  "url": "https://raw.githubusercontent.com/helloo1568/slidemuse/HEAD/showcase/preview/snowline-watch-01.webp",
+  "alt": "雪线守望：冰川、巡检人员与无人机组成的项目封面",
+  "score": -0.25,
+  "type": "image/webp",
+  "bytes": 267406,
+  "file": "helloo1568__slidemuse.jpg",
+  "still": "helloo1568__slidemuse.jpg"
+ },
+ "hugohe3/ppt-master": {
+  "repo": "hugohe3/ppt-master",
+  "url": "https://raw.githubusercontent.com/hugohe3/ppt-master/HEAD/docs/assets/screenshots/preview_pixel_breakfast_atlas.webp",
+  "alt": "Pixel art — Chinese breakfast atlas",
+  "score": 1.4,
+  "type": "image/webp",
+  "bytes": 31850,
+  "file": "hugohe3__ppt-master.jpg",
+  "still": "hugohe3__ppt-master.jpg"
+ },
+ "icip-cas/PPTAgent": {
+  "repo": "icip-cas/PPTAgent",
+  "url": "https://raw.githubusercontent.com/icip-cas/PPTAgent/HEAD/resource/pptagent-demo.gif",
+  "alt": "PPTAgent demo",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 7132018,
+  "file": "icip-cas__PPTAgent.gif",
+  "still": "icip-cas__PPTAgent.jpg"
+ },
+ "jiadizhunine/deepPPT": {
+  "repo": "jiadizhunine/deepPPT",
+  "url": "https://raw.githubusercontent.com/jiadizhunine/deepPPT/HEAD/assets/previews/deepPPT_intro_zh_contact_sheet.png",
+  "alt": "中文最新样例预览",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 212816,
+  "file": "jiadizhunine__deepPPT.jpg",
+  "still": "jiadizhunine__deepPPT.jpg"
+ },
+ "jinwyp/open-ppt-skill": {
+  "repo": "jinwyp/open-ppt-skill",
+  "url": "https://raw.githubusercontent.com/jinwyp/open-ppt-skill/HEAD/docs/images/example-yu7-pptx.png",
+  "alt": "小米 YU7 导出 PPTX",
+  "score": 1.85,
+  "type": "image/png",
+  "bytes": 2840759,
+  "file": "jinwyp__open-ppt-skill.jpg",
+  "still": "jinwyp__open-ppt-skill.jpg"
+ },
+ "joeseesun/qiaomu-bento-ppt": {
+  "repo": "joeseesun/qiaomu-bento-ppt",
+  "url": "https://raw.githubusercontent.com/joeseesun/qiaomu-bento-ppt/HEAD/docs/assets/qiaomu-bento-ppt-hero.png",
+  "alt": "qiaomu-bento-ppt 真实生成的 bento 演示文稿",
+  "score": -0.75,
+  "type": "image/png",
+  "bytes": 51964,
+  "file": "joeseesun__qiaomu-bento-ppt.jpg",
+  "still": "joeseesun__qiaomu-bento-ppt.jpg"
+ },
+ "johnson7788/MultiAgentPPT": {
+  "repo": "johnson7788/MultiAgentPPT",
+  "url": "https://raw.githubusercontent.com/johnson7788/MultiAgentPPT/HEAD/docs%2Fweichat.png",
+  "alt": "weichat.png",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 155003,
+  "file": "johnson7788__MultiAgentPPT.jpg",
+  "still": "johnson7788__MultiAgentPPT.jpg"
+ },
+ "kimsh-1/deck-factory": {
+  "repo": "kimsh-1/deck-factory",
+  "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",
+  "alt": "deck-factory in motion",
+  "score": 0.3,
+  "type": "image/gif",
+  "bytes": 6800910,
+  "file": "kimsh-1__deck-factory.gif",
+  "still": "kimsh-1__deck-factory.jpg"
+ },
+ "knight6669/knight-imagetopptx-skill": {
+  "repo": "knight6669/knight-imagetopptx-skill",
+  "url": "https://raw.githubusercontent.com/knight6669/knight-imagetopptx-skill/HEAD/assets/reference-slide-01.png",
+  "alt": "Source slide 1",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 1640992,
+  "file": "knight6669__knight-imagetopptx-skill.jpg",
+  "still": "knight6669__knight-imagetopptx-skill.jpg"
+ },
+ "lanceli93/aws-html-slides": {
+  "repo": "lanceli93/aws-html-slides",
+  "url": "https://raw.githubusercontent.com/lanceli93/aws-html-slides/HEAD/docs/layouts/neon-title.png",
+  "alt": "Neon kinetic title over WebGL aurora",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 294125,
+  "file": "lanceli93__aws-html-slides.jpg",
+  "still": "lanceli93__aws-html-slides.jpg"
+ },
+ "lewislulu/html-ppt-skill": {
+  "repo": "lewislulu/html-ppt-skill",
+  "url": "https://raw.githubusercontent.com/lewislulu/html-ppt-skill/HEAD/docs/readme/layouts-live.gif",
+  "alt": "36 layouts auto-cycling through real template files",
+  "score": 2.75,
+  "type": "image/gif",
+  "bytes": 569121,
+  "file": "lewislulu__html-ppt-skill.gif",
+  "still": "lewislulu__html-ppt-skill.jpg"
+ },
+ "likaku/Mck-ppt-design-skill": {
+  "repo": "likaku/Mck-ppt-design-skill",
+  "url": "https://github.com/user-attachments/assets/3b25f071-8a81-48e3-a62b-9d9be9026f2e",
+  "alt": "Content",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 281009,
+  "file": "likaku__Mck-ppt-design-skill.jpg",
+  "still": "likaku__Mck-ppt-design-skill.jpg"
+ },
+ "liustack/pptfast": {
+  "repo": "liustack/pptfast",
+  "url": "https://raw.githubusercontent.com/liustack/pptfast/HEAD/assets/gallery/data-charts-02.png",
+  "alt": "Grouped bar chart of revenue against target by quarter",
+  "score": -0.35,
+  "type": "image/png",
+  "bytes": 34995,
+  "file": "liustack__pptfast.jpg",
+  "still": "liustack__pptfast.jpg"
+ },
+ "liustack/pptpress": {
+  "repo": "liustack/pptpress",
+  "url": "https://raw.githubusercontent.com/liustack/pptpress/HEAD/assets/gallery/data-charts-02.png",
+  "alt": "Grouped bar chart of revenue against target by quarter",
+  "score": -0.35,
+  "type": "image/png",
+  "bytes": 34995,
+  "file": "liustack__pptpress.jpg",
+  "still": "liustack__pptpress.jpg"
+ },
+ "liustack/pptwise": {
+  "repo": "liustack/pptwise",
+  "url": "https://raw.githubusercontent.com/liustack/pptwise/HEAD/assets/gallery/data-charts-02.png",
+  "alt": "Grouped bar chart of revenue against target by quarter",
+  "score": -0.35,
+  "type": "image/png",
+  "bytes": 34995,
+  "file": "liustack__pptwise.jpg",
+  "still": "liustack__pptwise.jpg"
+ },
+ "moongiadventures-dev/handdrawn-ppt": {
+  "repo": "moongiadventures-dev/handdrawn-ppt",
+  "url": "https://raw.githubusercontent.com/moongiadventures-dev/handdrawn-ppt/HEAD/docs/demo_slide_chart.png",
+  "alt": "",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 382727,
+  "file": "moongiadventures-dev__handdrawn-ppt.jpg",
+  "still": "moongiadventures-dev__handdrawn-ppt.jpg"
+ },
+ "ningzimu/codex-ppt-skill": {
+  "repo": "ningzimu/codex-ppt-skill",
+  "url": "https://raw.githubusercontent.com/ningzimu/codex-ppt-skill/HEAD/assets/slides_example.png",
+  "alt": "生成 PPT 效果示例",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 1879778,
+  "file": "ningzimu__codex-ppt-skill.jpg",
+  "still": "ningzimu__codex-ppt-skill.jpg"
+ },
+ "ningzimu/image-to-editable-ppt-skill": {
+  "repo": "ningzimu/image-to-editable-ppt-skill",
+  "url": "https://raw.githubusercontent.com/ningzimu/image-to-editable-ppt-skill/HEAD/assets/showcase-origin-investment-platform.png",
+  "alt": "投资平台信息图原图",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 1558154,
+  "file": "ningzimu__image-to-editable-ppt-skill.jpg",
+  "still": "ningzimu__image-to-editable-ppt-skill.jpg"
+ },
+ "opitaru-sys/deck-dna": {
+  "repo": "opitaru-sys/deck-dna",
+  "url": "https://raw.githubusercontent.com/opitaru-sys/deck-dna/HEAD/examples/before-template.jpg",
+  "alt": "before",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 157683,
+  "file": "opitaru-sys__deck-dna.jpg",
+  "still": "opitaru-sys__deck-dna.jpg"
+ },
+ "rocsgh/ppt-zen": {
+  "repo": "rocsgh/ppt-zen",
+  "url": "https://raw.githubusercontent.com/rocsgh/ppt-zen/HEAD/assets/hero-portolan.jpg",
+  "alt": "",
+  "score": -2.7,
+  "type": "image/jpeg",
+  "bytes": 348410,
+  "file": "rocsgh__ppt-zen.jpg",
+  "still": "rocsgh__ppt-zen.jpg"
+ },
+ "shawnzam/keynot": {
+  "repo": "shawnzam/keynot",
+  "url": "https://raw.githubusercontent.com/shawnzam/keynot/HEAD/assets/zombies-preview.png",
+  "alt": "Live demo: Keynot for Zombies",
+  "score": 1.8,
+  "type": "image/png",
+  "bytes": 180184,
+  "file": "shawnzam__keynot.jpg",
+  "still": "shawnzam__keynot.jpg"
+ },
+ "siril9/presentation-skill": {
+  "repo": "siril9/presentation-skill",
+  "url": "https://raw.githubusercontent.com/siril9/presentation-skill/HEAD/examples/v0.13_showcase.jpg",
+  "alt": "Six editable slides: lab evidence, editorial analysis, and operations decisions",
+  "score": -0.7,
+  "type": "image/jpeg",
+  "bytes": 1521407,
+  "file": "siril9__presentation-skill.jpg",
+  "still": "siril9__presentation-skill.jpg"
+ },
+ "sunchaokun/PPT-Design-Skill": {
+  "repo": "sunchaokun/PPT-Design-Skill",
+  "url": "https://raw.githubusercontent.com/sunchaokun/PPT-Design-Skill/HEAD/examples/site/assets/ai-agent-operating-system/slide01.png",
+  "alt": "",
+  "score": -0.2,
+  "type": "image/png",
+  "bytes": 37687,
+  "file": "sunchaokun__PPT-Design-Skill.jpg",
+  "still": "sunchaokun__PPT-Design-Skill.jpg"
+ },
+ "thmsgo18/presentation-forge": {
+  "repo": "thmsgo18/presentation-forge",
+  "url": "https://raw.githubusercontent.com/thmsgo18/presentation-forge/HEAD/docs/screenshots/presenter-mode.png",
+  "alt": "Presenter mode: speaker notes, timer and next-slide preview",
+  "score": 1.75,
+  "type": "image/png",
+  "bytes": 153861,
+  "file": "thmsgo18__presentation-forge.jpg",
+  "still": "thmsgo18__presentation-forge.jpg"
+ },
+ "tjxj/dsh-wanghong-handwritten-ppt": {
+  "repo": "tjxj/dsh-wanghong-handwritten-ppt",
+  "url": "https://raw.githubusercontent.com/tjxj/dsh-wanghong-handwritten-ppt/HEAD/skills/wanghong-handwritten-ppt/assets/preview-cover.png",
+  "alt": "Cover preview",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 62846,
+  "file": "tjxj__dsh-wanghong-handwritten-ppt.jpg",
+  "still": "tjxj__dsh-wanghong-handwritten-ppt.jpg"
+ },
+ "tomacco/deckadence": {
+  "repo": "tomacco/deckadence",
+  "url": "https://raw.githubusercontent.com/tomacco/deckadence/HEAD/assets/edit-mode/proposal.jpg",
+  "alt": "Edit mode: a comment thread on a slide, with Claude",
+  "score": -0.05,
+  "type": "image/jpeg",
+  "bytes": 148162,
+  "file": "tomacco__deckadence.jpg",
+  "still": "tomacco__deckadence.jpg"
+ },
+ "uuoov/ppt-image-share-builder": {
+  "repo": "uuoov/ppt-image-share-builder",
+  "url": "https://raw.githubusercontent.com/uuoov/ppt-image-share-builder/HEAD/assets/demo.gif",
+  "alt": "Demo animation",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 4221878,
+  "file": "uuoov__ppt-image-share-builder.gif",
+  "still": "uuoov__ppt-image-share-builder.jpg"
+ },
+ "vigorX777/ppt-svg-generator": {
+  "repo": "vigorX777/ppt-svg-generator",
+  "url": "https://github.com/user-attachments/assets/2454e688-d3b8-40a2-a3f8-893bbe5060ee",
+  "alt": "image",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 6967364,
+  "file": "vigorX777__ppt-svg-generator.jpg",
+  "still": "vigorX777__ppt-svg-generator.jpg"
+ },
+ "w1163222589-coder/slide-image-to-editable-pptx": {
+  "repo": "w1163222589-coder/slide-image-to-editable-pptx",
+  "url": "https://raw.githubusercontent.com/w1163222589-coder/slide-image-to-editable-pptx/HEAD/assets/screenshots/10.jpg?v=20260607-1302",
+  "alt": "Classification logic preview",
+  "score": 1.8,
+  "type": "image/jpeg",
+  "bytes": 1180176,
+  "file": "w1163222589-coder__slide-image-to-editable-pptx.jpg",
+  "still": "w1163222589-coder__slide-image-to-editable-pptx.jpg"
+ },
+ "wiltonesten-web/codeximage-to-editable-ppt-v1": {
+  "repo": "wiltonesten-web/codeximage-to-editable-ppt-v1",
+  "url": "https://raw.githubusercontent.com/wiltonesten-web/codeximage-to-editable-ppt-v1/HEAD/examples/csh-nep-editable-slide/original-flattened-slide.png",
+  "alt": "原始扁平化科学演示幻灯片",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 2277899,
+  "file": "wiltonesten-web__codeximage-to-editable-ppt-v1.jpg",
+  "still": "wiltonesten-web__codeximage-to-editable-ppt-v1.jpg"
+ },
+ "wiltonesten-web/codeximage-to-editable-ppt-v2-1": {
+  "repo": "wiltonesten-web/codeximage-to-editable-ppt-v2-1",
+  "url": "https://raw.githubusercontent.com/wiltonesten-web/codeximage-to-editable-ppt-v2-1/HEAD/examples/case-01-csh-neuroevolution-slide/original-slide.png",
+  "alt": "原始扁平化学术幻灯片",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 2277899,
+  "file": "wiltonesten-web__codeximage-to-editable-ppt-v2-1.jpg",
+  "still": "wiltonesten-web__codeximage-to-editable-ppt-v2-1.jpg"
+ },
+ "wuyoscar/GPT-Image2-Skill": {
+  "repo": "wuyoscar/GPT-Image2-Skill",
+  "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png",
+  "alt": "ImageGen result generated from the reverse-engineered prompt",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 2593838,
+  "file": "wuyoscar__GPT-Image2-Skill.jpg",
+  "still": "wuyoscar__GPT-Image2-Skill.jpg"
+ },
+ "wwe-dog/ppt-image2-editable-rebuild": {
+  "repo": "wwe-dog/ppt-image2-editable-rebuild",
+  "url": "https://raw.githubusercontent.com/wwe-dog/ppt-image2-editable-rebuild/HEAD/examples/reference-images/slide04_reference.png",
+  "alt": "推荐示例：第二章绿色主题参考图",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 1526501,
+  "file": "wwe-dog__ppt-image2-editable-rebuild.jpg",
+  "still": "wwe-dog__ppt-image2-editable-rebuild.jpg"
+ },
+ "xdmlxdml/beamer2pptx": {
+  "repo": "xdmlxdml/beamer2pptx",
+  "url": "https://raw.githubusercontent.com/xdmlxdml/beamer2pptx/HEAD/docs/pdf-vs-pptx.png",
+  "alt": "Original Beamer PDF versus Microsoft PowerPoint output",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 140889,
+  "file": "xdmlxdml__beamer2pptx.jpg",
+  "still": "xdmlxdml__beamer2pptx.jpg"
+ },
+ "xukp20/build-beamer-slides": {
+  "repo": "xukp20/build-beamer-slides",
+  "url": "https://raw.githubusercontent.com/xukp20/build-beamer-slides/HEAD/gallery/experiment.png",
+  "alt": "Experimental results example",
+  "score": 1.5,
+  "type": "image/png",
+  "bytes": 71764,
+  "file": "xukp20__build-beamer-slides.jpg",
+  "still": "xukp20__build-beamer-slides.jpg"
+ },
+ "zarazhangrui/frontend-slides": {
+  "repo": "zarazhangrui/frontend-slides",
+  "url": "https://img.youtube.com/vi/372Iksaz8b0/maxresdefault.jpg",
+  "alt": "Watch the Frontend Slides walkthrough and tutorial on YouTube",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 80964,
+  "file": "zarazhangrui__frontend-slides.jpg",
+  "still": "zarazhangrui__frontend-slides.jpg"
+ },
+ "zouchenzhen/thesis-defense-pptx-skill": {
+  "repo": "zouchenzhen/thesis-defense-pptx-skill",
+  "url": "https://raw.githubusercontent.com/zouchenzhen/thesis-defense-pptx-skill/HEAD/examples/minimal_markdown/expected/detail_slide_01.png",
+  "alt": "封面细节",
+  "score": -0.4,
+  "type": "image/png",
+  "bytes": 93918,
+  "file": "zouchenzhen__thesis-defense-pptx-skill.jpg",
+  "still": "zouchenzhen__thesis-defense-pptx-skill.jpg"
+ }
+}
