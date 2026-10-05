@@ -1,4 +1,14 @@
 {
+ "2654400439/Paper2Seminar": {
+  "repo": "2654400439/Paper2Seminar",
+  "url": "https://raw.githubusercontent.com/2654400439/Paper2Seminar/HEAD/examples/gallery/beyond-rtt-results.png",
+  "alt": "Beyond RTT 数据重绘页面",
+  "score": 1.6,
+  "type": "image/png",
+  "bytes": 187568,
+  "file": "2654400439__Paper2Seminar.jpg",
+  "still": "2654400439__Paper2Seminar.jpg"
+ },
  "2slides/mcp-2slides": {
   "repo": "2slides/mcp-2slides",
   "url": "https://2slides.com/images/og_2slides.webp",
@@ -169,6 +179,16 @@
   "file": "Hasasasa__html-to-editable-pptx.jpg",
   "still": "Hasasasa__html-to-editable-pptx.jpg"
  },
+ "HututuWorks/sci-diagram-pptx": {
+  "repo": "HututuWorks/sci-diagram-pptx",
+  "url": "https://raw.githubusercontent.com/HututuWorks/sci-diagram-pptx/HEAD/docs/cases/municipal-solid-waste-ghg-accounting-framework.png",
+  "alt": "04 · 城市固废管理与温室气体核算框架",
+  "score": 1.65,
+  "type": "image/png",
+  "bytes": 385804,
+  "file": "HututuWorks__sci-diagram-pptx.jpg",
+  "still": "HututuWorks__sci-diagram-pptx.jpg"
+ },
  "JuneYaooo/gpt-image2-ppt-skills": {
   "repo": "JuneYaooo/gpt-image2-ppt-skills",
   "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
@@ -258,16 +278,6 @@
   "bytes": 1564385,
   "file": "Ronnie2025__codex-ppt-skill.jpg",
   "still": "Ronnie2025__codex-ppt-skill.jpg"
- },
- "SciToolsmith/sci-diagram-pptx": {
-  "repo": "SciToolsmith/sci-diagram-pptx",
-  "url": "https://raw.githubusercontent.com/SciToolsmith/sci-diagram-pptx/HEAD/docs/cases/municipal-solid-waste-ghg-accounting-framework.png",
-  "alt": "04 · 城市固废管理与温室气体核算框架",
-  "score": 1.65,
-  "type": "image/png",
-  "bytes": 385804,
-  "file": "SciToolsmith__sci-diagram-pptx.jpg",
-  "still": "SciToolsmith__sci-diagram-pptx.jpg"
  },
  "SkillMelody/PPT-Smith": {
   "repo": "SkillMelody/PPT-Smith",
@@ -469,6 +479,16 @@
   "file": "embabel__decker.jpg",
   "still": "embabel__decker.jpg"
  },
+ "ewkzcz/bili-2-ppt": {
+  "repo": "ewkzcz/bili-2-ppt",
+  "url": "https://raw.githubusercontent.com/ewkzcz/bili-2-ppt/HEAD/assets/template-cryo-academic.webp",
+  "alt": "Cryo_Academic 模版原件里的一页",
+  "score": -0.2,
+  "type": "image/webp",
+  "bytes": 59812,
+  "file": "ewkzcz__bili-2-ppt.jpg",
+  "still": "ewkzcz__bili-2-ppt.jpg"
+ },
  "fangyuanopus/literature-report-ppt-builder": {
   "repo": "fangyuanopus/literature-report-ppt-builder",
   "url": "https://raw.githubusercontent.com/fangyuanopus/literature-report-ppt-builder/HEAD/docs/images/demo-slide-01-title.jpg",
@@ -558,6 +578,16 @@
   "bytes": 267406,
   "file": "helloo1568__slidemuse.jpg",
   "still": "helloo1568__slidemuse.jpg"
+ },
+ "henryhyw/slidepoise": {
+  "repo": "henryhyw/slidepoise",
+  "url": "https://raw.githubusercontent.com/henryhyw/slidepoise/HEAD/examples/consulting-ai-transformation/assets/s05-investment-decision-render.png",
+  "alt": "Consulting slide showing an investment model, sensitivity table and native chart",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 183218,
+  "file": "henryhyw__slidepoise.jpg",
+  "still": "henryhyw__slidepoise.jpg"
  },
  "hugohe3/ppt-master": {
   "repo": "hugohe3/ppt-master",
@@ -938,6 +968,16 @@
   "bytes": 2277899,
   "file": "wiltonesten-web__codeximage-to-editable-ppt-v2-1.jpg",
   "still": "wiltonesten-web__codeximage-to-editable-ppt-v2-1.jpg"
+ },
+ "wp-a/paper2ppt": {
+  "repo": "wp-a/paper2ppt",
+  "url": "https://raw.githubusercontent.com/wp-a/paper2ppt/HEAD/examples/showcase/slide-05-results.png",
+  "alt": "主要结果页",
+  "score": 1.7,
+  "type": "image/png",
+  "bytes": 130976,
+  "file": "wp-a__paper2ppt.jpg",
+  "still": "wp-a__paper2ppt.jpg"
  },
  "wuyoscar/GPT-Image2-Skill": {
   "repo": "wuyoscar/GPT-Image2-Skill",
