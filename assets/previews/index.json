@@ -179,16 +179,6 @@
   "file": "Hasasasa__html-to-editable-pptx.jpg",
   "still": "Hasasasa__html-to-editable-pptx.jpg"
  },
- "HututuWorks/sci-diagram-pptx": {
-  "repo": "HututuWorks/sci-diagram-pptx",
-  "url": "https://raw.githubusercontent.com/HututuWorks/sci-diagram-pptx/HEAD/docs/cases/municipal-solid-waste-ghg-accounting-framework.png",
-  "alt": "04 · 城市固废管理与温室气体核算框架",
-  "score": 1.65,
-  "type": "image/png",
-  "bytes": 385804,
-  "file": "HututuWorks__sci-diagram-pptx.jpg",
-  "still": "HututuWorks__sci-diagram-pptx.jpg"
- },
  "JuneYaooo/gpt-image2-ppt-skills": {
   "repo": "JuneYaooo/gpt-image2-ppt-skills",
   "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
@@ -298,6 +288,16 @@
   "bytes": 7939838,
   "file": "SlideSpeak__slide-design-skill.gif",
   "still": "SlideSpeak__slide-design-skill.jpg"
+ },
+ "StarryKit/starry-slides": {
+  "repo": "StarryKit/starry-slides",
+  "url": "https://raw.githubusercontent.com/StarryKit/starry-slides/HEAD/assets/demos/event-design.gif",
+  "alt": "StarryKit creating an editable event poster",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 2394819,
+  "file": "StarryKit__starry-slides.gif",
+  "still": "StarryKit__starry-slides.jpg"
  },
  "TianLin0509/img2ppt-lite": {
   "repo": "TianLin0509/img2ppt-lite",
@@ -678,6 +678,16 @@
   "bytes": 155003,
   "file": "johnson7788__MultiAgentPPT.jpg",
   "still": "johnson7788__MultiAgentPPT.jpg"
+ },
+ "kimsh-1/deck-factory": {
+  "repo": "kimsh-1/deck-factory",
+  "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",
+  "alt": "deck-factory in motion",
+  "score": 0.3,
+  "type": "image/gif",
+  "bytes": 6800910,
+  "file": "kimsh-1__deck-factory.gif",
+  "still": "kimsh-1__deck-factory.jpg"
  },
  "knight6669/knight-imagetopptx-skill": {
   "repo": "knight6669/knight-imagetopptx-skill",
