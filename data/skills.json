@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05",
+ "generated": "2026-10-06",
  "source": "https://agentskillshub.top/best/ppt-presentation/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "wuyoscar/GPT-Image2-Skill",
    "path": null,
-   "stars": 5630,
+   "stars": 5632,
    "description": "GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
    "kind": "general",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "tfriedel/claude-office-skills",
    "path": null,
-   "stars": 835,
+   "stars": 834,
    "description": "Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support",
    "kind": "general",
    "security_grade": "safe",
@@ -83,7 +83,7 @@
   {
    "repo_full_name": "minhnv0807/ai-business-skills",
    "path": null,
-   "stars": 603,
+   "stars": 606,
    "description": "138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions (US/EU/SEA/LATAM) + Vietnam 2025-2026. Companion: opa-kit.",
    "kind": "general",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "minorun365/minorun-marp-skill",
    "path": null,
-   "stars": 401,
+   "stars": 402,
    "description": "Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
    "kind": "general",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "Sven-LI-sankyuu/presentation-skills",
    "path": null,
-   "stars": 174,
+   "stars": 175,
    "description": "面向 Codex CLI 的演示工作流 skills 集合，包括商业级可编辑 PPT 协作与网页 demo 配音视频合成等可复盘、可复用流程。A Codex CLI skill collection for reusable presentation workflows, covering editable PPT diagram collaboration and end-to-end web demo video synthesis.",
    "kind": "general",
    "security_grade": "safe",
@@ -166,7 +166,7 @@
    "stars": 41,
    "description": "AI skills for presentation slides generation with Typst and Touying",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Typst",
    "license": "MIT"
   },
@@ -176,7 +176,7 @@
    "stars": 37,
    "description": "Agents skill — convert guizang-ppt-skill HTML decks to PDF + PPTX for offline presentations ·  guizang-ppt-skill 的横向翻页 HTML deck 转成 PDF + PPTX(图片型),供线下演讲",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -186,7 +186,7 @@
    "stars": 16,
    "description": "Capability-aware, audience-ready presentation agent skill for PPTX, HTML slides, PDF, and deck planning.",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -206,7 +206,7 @@
    "stars": 11,
    "description": "从 guizang-ppt-skill + Open Design 蒸馏而来的 PPT 设计系统，5套主题 × 10种布局，支持 HTML/PPTX 双格式输出",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -216,7 +216,7 @@
    "stars": 10,
    "description": "PPT 专家团：AI 做 PPT 不是生成问题，是工作流问题。八步流程 Claude/Codex skill——从文章、口播稿到可编辑 HTML PPT / 图片版 / PPTX，六套原创风格+风格选择器+12套免费商用字体。",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "CSS",
    "license": "NOASSERTION"
   },
@@ -236,14 +236,14 @@
    "stars": 6,
    "description": "SOIL-style teaching slide skill for PPTX, NotebookLM, and offline HTML decks",
    "kind": "general",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
    "repo_full_name": "icip-cas/PPTAgent",
    "path": null,
-   "stars": 5088,
+   "stars": 5089,
    "description": "An Agentic Framework for Reflective PowerPoint Generation",
    "kind": "pptx",
    "security_grade": "safe",
@@ -253,7 +253,7 @@
   {
    "repo_full_name": "GordenSun/GordenPPTSkill",
    "path": null,
-   "stars": 3182,
+   "stars": 3183,
    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
    "kind": "pptx",
    "security_grade": "safe",
@@ -263,7 +263,7 @@
   {
    "repo_full_name": "ningzimu/image-to-editable-ppt-skill",
    "path": null,
-   "stars": 2775,
+   "stars": 2781,
    "description": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
    "kind": "pptx",
    "security_grade": "safe",
@@ -303,7 +303,7 @@
   {
    "repo_full_name": "JuneYaooo/gpt-image2-ppt-skills",
    "path": null,
-   "stars": 1327,
+   "stars": 1328,
    "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. ",
    "kind": "pptx",
    "security_grade": "safe",
@@ -313,7 +313,7 @@
   {
    "repo_full_name": "sunbigfly/ppt-agent-skills",
    "path": null,
-   "stars": 902,
+   "stars": 904,
    "description": "A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。",
    "kind": "pptx",
    "security_grade": "safe",
@@ -353,7 +353,7 @@
   {
    "repo_full_name": "sunchaokun/PPT-Design-Skill",
    "path": null,
-   "stars": 299,
+   "stars": 302,
    "description": "Precision PPT design skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect Build Mode control, AI image generation, and fully editable PPTX. 面向专业演示设计场景，帮助用户从需求分析、视觉方向选择到原生可编辑 PPTX 交付，打造高质量、可持续修改的演示文稿。",
    "kind": "pptx",
    "security_grade": "safe",
@@ -523,7 +523,7 @@
   {
    "repo_full_name": "wiltonesten-web/codeximage-to-editable-ppt-v2-1",
    "path": null,
-   "stars": 64,
+   "stars": 65,
    "description": "能将基于图片的 PPT/PPTX 幻灯片，精准还原为忠于原版的可编辑演示文稿。该技能支持语义化元素分离，生成可编辑的文本与原生形状，具备裁切与背景审查、渲染幻灯片质检，以及‘遇错即止’的交付验证功能。属于v2高精度版，搭配GPT6 Astra 轻度，效果足以。",
    "kind": "pptx",
    "security_grade": "caution",
@@ -533,7 +533,7 @@
   {
    "repo_full_name": "gnuhpc/ppt-master-plus",
    "path": null,
-   "stars": 60,
+   "stars": 62,
    "description": "PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates",
    "kind": "pptx",
    "security_grade": "safe",
@@ -566,7 +566,7 @@
    "stars": 48,
    "description": "Turn a slide mockup image into an editable PPTX: native text + semantic draggable sprites + inpainted background. Agent-as-VLM skill for Claude Code / Codex / any CLI agent.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -576,7 +576,7 @@
    "stars": 43,
    "description": null,
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "PowerShell",
    "license": null
   },
@@ -596,7 +596,7 @@
    "stars": 41,
    "description": null,
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -606,7 +606,7 @@
    "stars": 38,
    "description": null,
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -641,6 +641,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "HututuWorks/sci-diagram-pptx",
+   "path": null,
+   "stars": 26,
+   "description": "Reconstruct scientific frameworks, mechanisms, and flow diagrams as native editable PowerPoint—with provenance-bound, fail-closed QA for Codex.",
+   "kind": "pptx",
+   "security_grade": "unknown",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "LearnAIHubC/LearnDeck",
    "path": null,
    "stars": 26,
@@ -656,7 +666,7 @@
    "stars": 26,
    "description": "Reusable skill for creating clear, evidence-based journal club presentations from research papers.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -666,7 +676,7 @@
    "stars": 25,
    "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -686,7 +696,7 @@
    "stars": 24,
    "description": "根据一句话主题、Markdown 或已有文稿生成结构化 PPT，并支持自然语言修改页面与组件后导出为可编辑 PPT。适用于需要生成大纲、创建逐页布局、维护 deck.json、渲染 HTML 预览和导出 .pptx 的场景。",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
@@ -696,7 +706,7 @@
    "stars": 23,
    "description": "水课PPT——大学生的救命稻草。给个课题，直接出双稿。明天要上台？忘了准备？小组甩锅？打开Claude Code说一句\"帮我做个XX的PPT\"，分分钟后桌面躺着presentation.pptx和speech.docx。图表自动生成，每页排版不重样，五种风格自动匹配，水课可以水 PPT不能水。",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -706,7 +716,7 @@
    "stars": 22,
    "description": "bili-2-ppt：这是一个可以把一条 B 站视频做成学习笔记PPT等格式文档的 Skills",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -716,7 +726,7 @@
    "stars": 18,
    "description": null,
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -746,7 +756,7 @@
    "stars": 14,
    "description": "Agent skill for generating professional PowerPoint decks. 7 composable skills and a purpose-built CLI.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -786,7 +796,7 @@
    "stars": 12,
    "description": "Teach an agent to turn HTML pages into downloadable, editable PowerPoint decks with @artifact-kit/pptxgenjs-jsx",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
   },
@@ -806,7 +816,7 @@
    "stars": 10,
    "description": "ChatGPT Skill + portable PageIR/PptxGenJS workflow for rebuilding flattened slide images into source-faithful editable PowerPoint files.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -816,7 +826,7 @@
    "stars": 10,
    "description": "把html页面转成可编辑ppt格式的skill",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
@@ -836,7 +846,7 @@
    "stars": 10,
    "description": "Claude Code 复刻 Codex 的『可编辑 PPTX』skill：把文案/整页PPT图重建成对象级可编辑的 PowerPoint（原生文本框+形状，非整页截图）。出图需自备 OpenAI gpt-image-2 (Image 2) API key。Ported from ningzimu's Codex skills (MIT).",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -856,7 +866,7 @@
    "stars": 8,
    "description": "Agent-agnostic skill that generates beautiful, static .pptx decks driven by storytelling + instructional design. Works with any LLM.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -866,7 +876,7 @@
    "stars": 7,
    "description": "Kimi PPT Skills",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -896,7 +906,7 @@
    "stars": 7,
    "description": "让传统 PPT 制作技艺在 AI 时代继续发光：一个生成与翻新千禧年风格演示稿的 AI Skill。",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -906,7 +916,7 @@
    "stars": 7,
    "description": "一个专为 AI 编程 Agent 设计的 PPT 生成 Skill，让 openclaw 能够根据你的需求，从零开始用代码生成专业级 PowerPoint 演示文稿。",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -916,7 +926,7 @@
    "stars": 7,
    "description": "0628-这是一个能做概念方案预演的ppt skill",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -926,7 +936,7 @@
    "stars": 7,
    "description": "Visual Scene Graph for PowerPoint. Extracts structured layout data from PPTX files, enabling AI agents to parse element positions, understand spatial relationships, and detect layout patterns. Exposes bounding boxes, z-order, and spatial relations that humans see but machines couldn’t access. Built on python-pptx. MIT licensed.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -946,7 +956,7 @@
    "stars": 6,
    "description": "ppt skill",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -966,7 +976,7 @@
    "stars": 6,
    "description": "Codex plugin for rebuilding reference images as editable native PowerPoint slides, developed by the BDSmart Artificial Intelligence Group.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -976,7 +986,7 @@
    "stars": 6,
    "description": "The strongest practical Codex skill workflow for high-fidelity image-to-editable-PPTX reconstruction.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1016,7 +1026,7 @@
    "stars": 5,
    "description": "Review agent-made slides in the browser and export them to PowerPoint.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1026,7 +1036,7 @@
    "stars": 5,
    "description": "Slide decks as code, built for AI agents.",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": null
   },
@@ -1036,7 +1046,7 @@
    "stars": 5,
    "description": "deckforge — agent 可自行安装调用的 PPT 生成 CLI",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "unsafe",
    "language": "PowerShell",
    "license": "NOASSERTION"
   },
@@ -1046,7 +1056,7 @@
    "stars": 5,
    "description": "用于生成实验室技术或学术汇报PPTX的SKILLS",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
   },
@@ -1056,14 +1066,14 @@
    "stars": 5,
    "description": "Agent skill: 基于你自己的 PPTX 模板生成演示文稿 | Fill YOUR PowerPoint template with AI — layout-preserving, placeholder-free templates supported",
    "kind": "pptx",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
    "repo_full_name": "ningzimu/codex-ppt-skill",
    "path": null,
-   "stars": 6343,
+   "stars": 6354,
    "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
    "kind": "image",
    "security_grade": "safe",
@@ -1096,7 +1106,7 @@
    "stars": 7,
    "description": null,
    "kind": "image",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1123,7 +1133,7 @@
   {
    "repo_full_name": "zarazhangrui/frontend-slides",
    "path": null,
-   "stars": 30158,
+   "stars": 30187,
    "description": "Create beautiful slides on the web using a coding agent's frontend skills",
    "kind": "html",
    "security_grade": "safe",
@@ -1133,7 +1143,7 @@
   {
    "repo_full_name": "op7418/guizang-ppt-skill",
    "path": null,
-   "stars": 27257,
+   "stars": 27277,
    "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
    "kind": "html",
    "security_grade": "safe",
@@ -1143,7 +1153,7 @@
   {
    "repo_full_name": "chuspeeism/dashi-ppt-skill",
    "path": null,
-   "stars": 9154,
+   "stars": 9174,
    "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
    "kind": "html",
    "security_grade": "safe",
@@ -1153,7 +1163,7 @@
   {
    "repo_full_name": "lewislulu/html-ppt-skill",
    "path": null,
-   "stars": 8577,
+   "stars": 8588,
    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
    "kind": "html",
    "security_grade": "safe",
@@ -1183,7 +1193,7 @@
   {
    "repo_full_name": "robonuggets/marp-slides",
    "path": null,
-   "stars": 318,
+   "stars": 320,
    "description": "MARP presentation skill for Claude Code — 22 curated example decks, SVG charts, dark/light themes, dashboard components",
    "kind": "html",
    "security_grade": "safe",
@@ -1256,7 +1266,7 @@
    "stars": 47,
    "description": "细瘦风格的ppt ，html形式，内置了白无常原创字体，是一个免费字体 可以免费商用。   调用这个skill 会做两份ppt，一份html形式，一份ppt形式，ppt里面可以修改文字 方便后期修改。 This slim-style PPT skill integrates the original Bai Wuchang font, a free typeface available for commercial use at no cost. When this skill is invoked, two versions of presentation materials will be generated: one in HTML。",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
   },
@@ -1266,7 +1276,7 @@
    "stars": 43,
    "description": "  A slide-writing skill for generating enterprise HTML presentations from ideas, outlines, documents, and speech drafts.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1296,7 +1306,7 @@
    "stars": 30,
    "description": "PPT-Design-DNA is a Design-DNA-driven HTML presentation skill that turns reference images into reusable visual systems, saves them as Design Profiles, and applies those styles to high-quality presentation decks. Not a template filler, but an AI visual system designer for PPTs.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "Apache-2.0"
   },
@@ -1306,7 +1316,7 @@
    "stars": 29,
    "description": "演讲脚本 + PPT 一键生成器。支持62种品牌级设计风格，基于 awesome-design-md。输入主题即可生成可播放的HTML幻灯片。",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -1326,7 +1336,7 @@
    "stars": 25,
    "description": "AI presentation engine. Describe your deck and the look, it derives a bespoke style and renders polished 1920x1080 HTML slides with real charts, tables and imagery. Agent skill: npx skills add SlideSpeak/slide-design-skill",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1346,7 +1356,7 @@
    "stars": 20,
    "description": "Turn any outline into a neon-dark HTML slide deck. A Claude Skill for technical livestreams and landing pages.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1366,7 +1376,7 @@
    "stars": 15,
    "description": "claude code   ai-ppt-tutorial",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
   },
@@ -1386,7 +1396,7 @@
    "stars": 14,
    "description": "CyberBin PPT Skill for generating local HTML slide decks",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "AGPL-3.0"
   },
@@ -1396,7 +1406,7 @@
    "stars": 13,
    "description": "归藏 PPT Skill - 研究学习用",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "AGPL-3.0"
   },
@@ -1416,7 +1426,7 @@
    "stars": 11,
    "description": "AI skill that turns 'make a PPT about X' into a Sketch Notes–style deck: one self-contained HTML file, no build step.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "CSS",
    "license": "MIT"
   },
@@ -1426,7 +1436,7 @@
    "stars": 11,
    "description": "歸藏 PPT Skill：網頁 PPT / 配圖 / 常用社群平台封面生成（支援繁簡中文）",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1436,7 +1446,7 @@
    "stars": 11,
    "description": "A Claude Code skill that produces presentations worth sending — research-first, narrative-driven 5-phase workflow inspired by Genspark AI Slides. ",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1476,7 +1486,7 @@
    "stars": 10,
    "description": "复旦大学PPT模版skill",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1486,7 +1496,7 @@
    "stars": 10,
    "description": null,
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1496,7 +1506,7 @@
    "stars": 9,
    "description": "An agentic skill for making RevealJS slides with Quarto",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "SCSS",
    "license": "MIT"
   },
@@ -1506,7 +1516,7 @@
    "stars": 9,
    "description": "Agent to create slide decks",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Kotlin",
    "license": "Apache-2.0"
   },
@@ -1516,7 +1526,7 @@
    "stars": 9,
    "description": "Claude Code skill for generating stunning Arabic/English bilingual HTML presentations with RTL support, animations, and professional dark theme",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1526,7 +1536,7 @@
    "stars": 9,
    "description": "Make your AI agent answer with interactive diagrams and slide decks instead of markdown — and attach them to your PRs",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1546,7 +1556,7 @@
    "stars": 8,
    "description": "Agent-first slide deck rendering engine. Author slides as HTML/CSS/JS, get a shareable viewer URL.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1556,7 +1566,7 @@
    "stars": 8,
    "description": "纯 HTML/CSS/JS 演示文稿引擎 + AI 生成协议",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1566,7 +1576,7 @@
    "stars": 8,
    "description": "Self-contained HTML slide templates with metadata and AGENTS.md instructions for AI agents to create finished presentation decks.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -1576,7 +1586,7 @@
    "stars": 7,
    "description": "Vela Slides - AI Powered presentation App and Agent Skill",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "NOASSERTION"
   },
@@ -1626,7 +1636,7 @@
    "stars": 5,
    "description": "An Agent Skill that builds animated, morphing slide presentations ",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1636,7 +1646,7 @@
    "stars": 5,
    "description": "Claude Code skills plugin featuring Slidev presentations and developer productivity tools",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "Apache-2.0"
   },
@@ -1646,7 +1656,7 @@
    "stars": 5,
    "description": "Convert PowerPoint .pptx into faithful HTML bundles - live Chart.js charts, SVG shapes, embedded fonts, animations. Python agent skill.",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -1666,14 +1676,14 @@
    "stars": 5,
    "description": "中国色汇报演示 Agent Skill",
    "kind": "html",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
   {
    "repo_full_name": "gozen3ji/consulting-pptx-skill",
    "path": null,
-   "stars": 1083,
+   "stars": 1113,
    "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
    "kind": "business",
    "security_grade": "safe",
@@ -1703,7 +1713,7 @@
   {
    "repo_full_name": "likaku/Mck-ppt-design-skill",
    "path": null,
-   "stars": 293,
+   "stars": 295,
    "description": "Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。",
    "kind": "business",
    "security_grade": "safe",
@@ -1751,23 +1761,23 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "abxxvrv/spacex-ppt-skill",
+   "path": null,
+   "stars": 31,
+   "description": null,
+   "kind": "business",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": null
+  },
+  {
    "repo_full_name": "shenxiaofeng-pro/jiarui-svg-skills",
    "path": null,
    "stars": 31,
    "description": "伽睿风格的PPT图片制作技能包，可以生成带有公司logo，主体颜色及逻辑结构完善的svg图片，并可通过取消组合变成PPT图片",
    "kind": "business",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
-   "license": null
-  },
-  {
-   "repo_full_name": "abxxvrv/spacex-ppt-skill",
-   "path": null,
-   "stars": 30,
-   "description": null,
-   "kind": "business",
-   "security_grade": "unknown",
-   "language": "HTML",
    "license": null
   },
   {
@@ -1813,7 +1823,7 @@
   {
    "repo_full_name": "hugohe3/ppt-master",
    "path": null,
-   "stars": 57721,
+   "stars": 57780,
    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
    "kind": "convert",
    "security_grade": "safe",
@@ -1843,7 +1853,7 @@
   {
    "repo_full_name": "Gabberflast/academic-pptx-skill",
    "path": null,
-   "stars": 1109,
+   "stars": 1114,
    "description": "A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and communication-first design. Works alongside Anthropic's built-in PPTX skill.",
    "kind": "convert",
    "security_grade": "safe",
@@ -1873,7 +1883,7 @@
   {
    "repo_full_name": "Faust-Donf/beamer-academic",
    "path": null,
-   "stars": 307,
+   "stars": 306,
    "description": "一键从论文生成高质量学术答辩PPT | AI-powered thesis defense slides generator | Claude Code & Codex Skill",
    "kind": "convert",
    "security_grade": "safe",
@@ -1893,7 +1903,7 @@
   {
    "repo_full_name": "M1n-n9/academic-ppt-master",
    "path": null,
-   "stars": 224,
+   "stars": 225,
    "description": "Turn papers into editable academic PPTX decks",
    "kind": "convert",
    "security_grade": "safe",
@@ -1933,7 +1943,7 @@
   {
    "repo_full_name": "helloo1568/slidemuse",
    "path": null,
-   "stars": 42,
+   "stars": 43,
    "description": "视觉优先的 AI PPT Skill｜适用于挑战杯（大挑/小挑）、中国国际大学生创新大赛、全国大学生交通运输科技大赛（交科赛）、三创赛、正大杯、大创等竞赛，也适合学术汇报、论文答辩、项目路演与课程展示｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX",
    "kind": "convert",
    "security_grade": "safe",
@@ -1953,7 +1963,7 @@
   {
    "repo_full_name": "hanlulong/econ-slides-skill",
    "path": null,
-   "stars": 19,
+   "stars": 20,
    "description": "Turn an economics paper into a seminar-ready Beamer talk with a timed speaker script — conference, job-market and discussant slides. Agent Skill for Claude Code & Codex.",
    "kind": "convert",
    "security_grade": "safe",
@@ -1966,7 +1976,7 @@
    "stars": 12,
    "description": null,
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1976,7 +1986,7 @@
    "stars": 11,
    "description": "输入一个paper，输出一个能在组会上汇报的带讲稿的PPT",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1986,7 +1996,7 @@
    "stars": 10,
    "description": "Claude Code skill for creating Deckset presentations with markdown. Includes 29 documentation files, 3 example presentations, and auto-scraper.",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1996,7 +2006,7 @@
    "stars": 8,
    "description": "MeowClaw PPT Smith — model-agnostic presentation compiler skill",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
   },
@@ -2006,7 +2016,7 @@
    "stars": 8,
    "description": "SVG-first slide generation toolkit with intelligent content planning and domain-specific layouts",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -2026,7 +2036,7 @@
    "stars": 7,
    "description": "面向学术综述的高质量 PPT 生成 Skill，可将综述初稿、论文资料与模板转化为结构严谨、引用清晰、图表公式可解释、并经过导出校验的学术汇报稿。",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -2036,7 +2046,7 @@
    "stars": 7,
    "description": "Claude Code skill for MD → Slides; AI makes Markdown great again!",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "caution",
    "language": null,
    "license": null
   },
@@ -2045,6 +2055,16 @@
    "path": null,
    "stars": 5,
    "description": "An Agent Skill for turning research papers into complete, editable, seminar-ready PPTX decks.",
+   "kind": "convert",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "SHALINS428/Academic-PPT-Skill",
+   "path": null,
+   "stars": 5,
+   "description": "Open-source skill for turning thesis materials into rigorous, editable academic defense PPTs with planning, validation, and source-aware slide generation.",
    "kind": "convert",
    "security_grade": "unknown",
    "language": "Python",
@@ -2066,7 +2086,7 @@
    "stars": 5,
    "description": "将学术论文转为可编辑、可溯源的中文 PPTX，兼容 Codex 与 Claude Code。",
    "kind": "convert",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   }

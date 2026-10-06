@@ -179,6 +179,16 @@
   "file": "Hasasasa__html-to-editable-pptx.jpg",
   "still": "Hasasasa__html-to-editable-pptx.jpg"
  },
+ "HututuWorks/sci-diagram-pptx": {
+  "repo": "HututuWorks/sci-diagram-pptx",
+  "url": "https://raw.githubusercontent.com/HututuWorks/sci-diagram-pptx/HEAD/docs/cases/municipal-solid-waste-ghg-accounting-framework.png",
+  "alt": "04 · 城市固废管理与温室气体核算框架",
+  "score": 1.65,
+  "type": "image/png",
+  "bytes": 385804,
+  "file": "HututuWorks__sci-diagram-pptx.jpg",
+  "still": "HututuWorks__sci-diagram-pptx.jpg"
+ },
  "JuneYaooo/gpt-image2-ppt-skills": {
   "repo": "JuneYaooo/gpt-image2-ppt-skills",
   "url": "https://raw.githubusercontent.com/JuneYaooo/gpt-image2-ppt-skills/HEAD/docs/assets/template-demo-output.jpg",
@@ -251,11 +261,11 @@
  },
  "Pikapika260214/rw-consulting-ppt": {
   "repo": "Pikapika260214/rw-consulting-ppt",
-  "url": "https://raw.githubusercontent.com/Pikapika260214/rw-consulting-ppt/HEAD/skills/rw-consulting-ppt/assets/xiaohongshu-contact.jpg",
-  "alt": "作者小红书主页二维码",
-  "score": -0.25,
-  "type": "image/jpeg",
-  "bytes": 118233,
+  "url": "https://raw.githubusercontent.com/Pikapika260214/rw-consulting-ppt/HEAD/skills/rw-consulting-ppt/assets/readme-hero.png",
+  "alt": "RW Consulting PPT 工作流",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1755916,
   "file": "Pikapika260214__rw-consulting-ppt.jpg",
   "still": "Pikapika260214__rw-consulting-ppt.jpg"
  },
@@ -268,6 +278,16 @@
   "bytes": 1564385,
   "file": "Ronnie2025__codex-ppt-skill.jpg",
   "still": "Ronnie2025__codex-ppt-skill.jpg"
+ },
+ "SHALINS428/Academic-PPT-Skill": {
+  "repo": "SHALINS428/Academic-PPT-Skill",
+  "url": "https://raw.githubusercontent.com/SHALINS428/Academic-PPT-Skill/HEAD/examples/twibot20/montage.png",
+  "alt": "Example montage",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 226711,
+  "file": "SHALINS428__Academic-PPT-Skill.jpg",
+  "still": "SHALINS428__Academic-PPT-Skill.jpg"
  },
  "SkillMelody/PPT-Smith": {
   "repo": "SkillMelody/PPT-Smith",
@@ -671,11 +691,11 @@
  },
  "johnson7788/MultiAgentPPT": {
   "repo": "johnson7788/MultiAgentPPT",
-  "url": "https://raw.githubusercontent.com/johnson7788/MultiAgentPPT/HEAD/docs%2Fweichat.png",
-  "alt": "weichat.png",
-  "score": 0.0,
+  "url": "https://raw.githubusercontent.com/johnson7788/MultiAgentPPT/HEAD/docs/process_detail1.png",
+  "alt": "process_detail1.png",
+  "score": -0.25,
   "type": "image/png",
-  "bytes": 155003,
+  "bytes": 611303,
   "file": "johnson7788__MultiAgentPPT.jpg",
   "still": "johnson7788__MultiAgentPPT.jpg"
  },
