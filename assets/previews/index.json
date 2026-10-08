@@ -119,16 +119,6 @@
   "file": "DSY-Xueai__image2editable.jpg",
   "still": "DSY-Xueai__image2editable.jpg"
  },
- "E1nzbern/open-kimi-ppt-skill": {
-  "repo": "E1nzbern/open-kimi-ppt-skill",
-  "url": "https://raw.githubusercontent.com/E1nzbern/open-kimi-ppt-skill/HEAD/docs/images/example-yu7-pptx.png",
-  "alt": "小米 YU7 导出 PPTX",
-  "score": 1.85,
-  "type": "image/png",
-  "bytes": 2840759,
-  "file": "E1nzbern__open-kimi-ppt-skill.jpg",
-  "still": "E1nzbern__open-kimi-ppt-skill.jpg"
- },
  "Faust-Donf/beamer-academic": {
   "repo": "Faust-Donf/beamer-academic",
   "url": "https://raw.githubusercontent.com/Faust-Donf/beamer-academic/HEAD/docs/toc.png",
@@ -378,6 +368,16 @@
   "bytes": 158264,
   "file": "alohays__paper2pr.jpg",
   "still": "alohays__paper2pr.jpg"
+ },
+ "andyluu98/slidefly": {
+  "repo": "andyluu98/slidefly",
+  "url": "https://raw.githubusercontent.com/andyluu98/slidefly/HEAD/docs/gallery.jpg",
+  "alt": "Thư viện style",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 161552,
+  "file": "andyluu98__slidefly.jpg",
+  "still": "andyluu98__slidefly.jpg"
  },
  "archlizheng/frontend-slides-editable": {
   "repo": "archlizheng/frontend-slides-editable",
@@ -878,6 +878,16 @@
   "bytes": 1521407,
   "file": "siril9__presentation-skill.jpg",
   "still": "siril9__presentation-skill.jpg"
+ },
+ "sujunmin/agy-ppt": {
+  "repo": "sujunmin/agy-ppt",
+  "url": "https://raw.githubusercontent.com/sujunmin/agy-ppt/HEAD/assets/agy-ppt-teaser.gif",
+  "alt": "agy-ppt 實際輸出預覽",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 7294806,
+  "file": "sujunmin__agy-ppt.gif",
+  "still": "sujunmin__agy-ppt.jpg"
  },
  "sunchaokun/PPT-Design-Skill": {
   "repo": "sunchaokun/PPT-Design-Skill",
