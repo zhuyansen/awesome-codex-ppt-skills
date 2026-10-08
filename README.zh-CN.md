@@ -23,6 +23,7 @@
 
 ## 目录
 
+- [🧪 端到端实测](#tested)
 - [🧱 综合工具与框架](#type-general) (20)
 - [📝 可编辑 PPTX](#type-pptx) (83)
 - [🖼 图片式 PPT](#type-image) (7)
@@ -38,6 +39,45 @@
 4. 50 星及以上只看是否切题;50 星以下还要过 README 质量线(展示成品、一条命令上手、说清产出、文档完整),并且至少 5 星。
 
 这些问题由决策模型逐个读 README 回答,不是人工挑选。卡在线上的仓库可能判到任一边,归错了请提 issue。
+
+<a id="tested"></a>
+## 🧪 端到端实测
+
+2026-10-07 我们实跑了其中 31 个,跑成 27 个:每个在用完即删的沙箱里按同一份测试题做 deck,由 Claude Code (Claude Opus 5.5) 调用,gpt-6-astra 逐页评审。按效果排序。
+
+| Skill | ★ | 交付物 | 交付前 | 设计 | 分钟 | |
+|---|---|---|---|---|---|---|
+| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | 浏览器里可改 | 小修 | 5/5 | 6.2 | [证据](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
+| [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | 原生可编辑 PPTX | 小修 | 5/5 | 16.2 | [证据](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
+| [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | PDF | 小修 | 4/5 | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
+| [ppt-master](https://github.com/hugohe3/ppt-master) | 57,780 | 原生可编辑 PPTX | 小修 | 4/5 | 11.0 | [证据](https://agentskillshub.top/best-runs/ppt/hugohe3__ppt-master.jpg) |
+| [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | 原生可编辑 PPTX | 小修 | 4/5 | 8.3 | [证据](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
+| [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | 原生可编辑 PPTX | 小修 | 4/5 | 3.2 | [证据](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
+| [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | 浏览器里可改 | 小修 | 4/5 | 10.3 | [证据](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
+| [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | 浏览器里可改 | 小修 | 4/5 | 4.9 | [证据](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
+| [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | 整页图片 | 小修 | 4/5 | 2.8 | [证据](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
+| [magic-slide](https://github.com/daniel-style/magic-slide) | 172 | 浏览器里可改 | 小修 | 4/5 | 5.1 | [证据](https://agentskillshub.top/best-runs/ppt/daniel-style__magic-slide.jpg) |
+| [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | 原生可编辑 PPTX | 小修 | 4/5 | 4.6 | [证据](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
+| [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 3,183 | 原生可编辑 PPTX | 小修 | 4/5 | 3.5 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenPPTSkill.jpg) |
+| [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | 图片底 + 可编辑文字 | 小修 | 4/5 | 14.0 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
+| [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | 原生可编辑 PPTX | 小修 | 4/5 | 6.7 | [证据](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
+| [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | 原生可编辑 PPTX | 改一轮 | 4/5 | 1.9 | [证据](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
+| [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | 整页图片 | 改一轮 | 4/5 | 8.7 | [证据](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
+| [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | 原生可编辑 PPTX | 改一轮 | 4/5 | 2.4 | [证据](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
+| [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | 整页图片 | 改一轮 | 4/5 | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
+| [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | 浏览器里可改 | 改一轮 | 4/5 | 14.3 | [证据](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
+| [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | 浏览器里可改 | 改一轮 | 4/5 | 3.9 | [证据](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
+| [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 527 | 浏览器里可改 | 改一轮 | 4/5 | 4.3 | [证据](https://agentskillshub.top/best-runs/ppt/archlizheng__frontend-slides-editable.jpg) |
+| [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | 整页图片 | 改一轮 | 4/5 | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
+| [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | 原生可编辑 PPTX | 改一轮 | 4/5 | 7.5 | [证据](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
+| [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | 原生可编辑 PPTX | 改一轮 | 3/5 | 2.6 | [证据](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
+| [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | 整页图片 | 大改 | 4/5 | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
+| [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | 整页图片 | 大改 | 4/5 | 9.6 | [证据](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
+| [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | 原生可编辑 PPTX | 小修 | 5/5 | 10.1 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
+
+**未能实测:** NanoBanana-PPT-Skills (需要 Google Gemini 的图片 key，未测。); open-kimi-ppt-skill (仓库已被作者以版权为由清空，只剩一个 README。); codex-ppt (只能在 Codex 里用：要用 Codex 内置的画图工具。); MultiAgentPPT (是一个独立的 Web 应用，里面的 agent 需要自己的模型 API key，不是 Claude Code 的 skill。)
+
+[全部结果、提示词和脚本](https://github.com/zhuyansen/agent-skills-hub/blob/main/ops/ppt-runs/RESULTS.md) · [https://agentskillshub.top/best/ppt-presentation/#test-results](https://agentskillshub.top/best/ppt-presentation/?utm_source=github&utm_medium=awesome-list#test-results)
 
 <a id="type-general"></a>
 ## 🧱 综合工具与框架
