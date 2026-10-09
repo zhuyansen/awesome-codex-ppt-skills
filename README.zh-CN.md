@@ -45,6 +45,14 @@
 
 2026-10-07 我们实跑了其中 31 个,跑成 27 个:每个在用完即删的沙箱里按同一份测试题做 deck,由 Claude Code (Claude Opus 5.5) 调用。按 PresentBench 的是/否检查单打分([arXiv 2603.07244](https://arxiv.org/abs/2603.07244),gpt-6-astra 核对),可编辑性按 SlidesGen-Bench 的 PEI 分级([arXiv 2601.09487](https://arxiv.org/abs/2601.09487),解析文件得出)。先按交付前返工程度,再按可编辑性,最后按内容检查单排序。
 
+[![The same slide from every deck: "205 PPT skills, three routes", with the same numbers in all 26. In the table's order; under each, rework, editability level and content rubric.](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)
+
+*每份 deck 的同一页："205 个 PPT skill、三条路线"，26 份用的是同一组数字。顺序同下表；每张下面是返工程度、可编辑性等级和内容检查单得分。*
+
+[![The cover slide of every deck, in the same order.](https://agentskillshub.top/best-runs/ppt/compare-covers.jpg)](https://agentskillshub.top/best-runs/ppt/compare-covers.jpg)
+
+*每份 deck 的封面页，顺序相同。*
+
 | Skill | ★ | 交付前 | 可编辑性(PEI) | 内容检查单 | 分钟 | |
 |---|---|---|---|---|---|---|
 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | 小修 | L5 + 动画 | 100% | 10.3 | [证据](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |

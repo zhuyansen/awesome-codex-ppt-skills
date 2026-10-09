@@ -45,6 +45,14 @@ The questions are answered by a decision model reading each README, not by hand.
 
 On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the same brief in a throwaway sandbox, driven by Claude Code (Claude Opus 5.5). Editability is a level after SlidesGen-Bench's PEI ([arXiv 2601.09487](https://arxiv.org/abs/2601.09487)), parsed from the file; the content rubric is yes/no items after PresentBench ([arXiv 2603.07244](https://arxiv.org/abs/2603.07244)), checked by gpt-6-astra three times and reviewed by hand. Ranked by rework before handing over, then editability, then the rubric.
 
+[![The same slide from every deck: "205 PPT skills, three routes", with the same numbers in all 26. In the table's order; under each, rework, editability level and content rubric.](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)
+
+*The same slide from every deck: "205 PPT skills, three routes", with the same numbers in all 26. In the table's order; under each, rework, editability level and content rubric.*
+
+[![The cover slide of every deck, in the same order.](https://agentskillshub.top/best-runs/ppt/compare-covers.jpg)](https://agentskillshub.top/best-runs/ppt/compare-covers.jpg)
+
+*The cover slide of every deck, in the same order.*
+
 | Skill | ★ | Before handing over | Editability (PEI) | Content rubric | Min | |
 |---|---|---|---|---|---|---|
 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | touch-ups | L5 + animation | 100% | 10.3 | [evidence](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
