@@ -6,6 +6,23 @@ Open-source skills and tools that let **Codex, Claude Code and other coding agen
 
 Live page with filters: **[https://agentskillshub.top/best/ppt-presentation/](https://agentskillshub.top/best/ppt-presentation/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to install
+
+We ran 31 of these end to end (27 gave a result). This is what we would pick; the [full test](#tested) is below.
+
+- 🥇 **For a PowerPoint file a colleague will edit: [ppt-master](https://github.com/hugohe3/ppt-master)**  
+  A native, structured PPTX (editability L3) that needed only touch-ups and scored 100% on the content rubric; 11 minutes. For the same in 3 minutes with simpler structure, claude-office-skills (L2, 100%).
+- 🥈 **For slides you present yourself, in a browser: [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)**  
+  Web slides with native tables and animation (L5), touch-ups only, 100% on content. You edit them in code, not in PowerPoint.
+- 🥉 **For visual impact: [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt)**  
+  Image-first slides that scored 100% on content, but every slide is a picture (L0), so changing a word means a round of rework. image-to-editable-ppt-skill turned such a deck back into editable text in our test.
+
+**Not if you will need to change the text:** gpt-image2-ppt-skills (all images, needed substantial rework); codex-ppt-skill (all images, needed substantial rework).
+
+Content was not where decks differed: 10 of 26 scored 100% on the rubric. Pick by whether you can edit the result.
+
+*Ranked by rework before handing the deck over, then editability level (PEI), then the content rubric.*
+
 ## What these tools make
 
 <table>
@@ -53,35 +70,35 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 
 *The cover slide of every deck, in the same order.*
 
-| Skill | ★ | Before handing over | Editability (PEI) | Content rubric | Min | |
-|---|---|---|---|---|---|---|
-| [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | touch-ups | L5 + animation | 100% | 10.3 | [evidence](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
-| [ppt-master](https://github.com/hugohe3/ppt-master) | 57,780 | touch-ups | L3 + structure | 100% | 11.0 | [evidence](https://agentskillshub.top/best-runs/ppt/hugohe3__ppt-master.jpg) |
-| [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 527 | touch-ups | L3 + structure | 100% | 4.3 | [evidence](https://agentskillshub.top/best-runs/ppt/archlizheng__frontend-slides-editable.jpg) |
-| [magic-slide](https://github.com/daniel-style/magic-slide) | 172 | touch-ups | L3 + structure | 96% | 5.1 | [evidence](https://agentskillshub.top/best-runs/ppt/daniel-style__magic-slide.jpg) |
-| [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 3,183 | touch-ups | L3 + structure | 89% | 3.5 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenPPTSkill.jpg) |
-| [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | touch-ups | L2 + shapes | 100% | 3.2 | [evidence](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
-| [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | touch-ups | L2 + shapes | 100% | 4.6 | [evidence](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
-| [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | touch-ups | L2 + shapes | 96% | 16.2 | [evidence](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
-| [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | touch-ups | L2 + shapes | 92% | 8.3 | [evidence](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
-| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | touch-ups | L1 text | 100% | 6.2 | [evidence](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
-| [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | touch-ups | L1 text | 97% | 14.0 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
-| [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | touch-ups | L1 text | 93% | 4.9 | [evidence](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
-| [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | touch-ups | L1 text | 93% | 6.7 | [evidence](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
-| [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | touch-ups | L0 nothing editable | 100% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
-| [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | touch-ups | L0 nothing editable | 93% | 2.8 | [evidence](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
-| [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | one round | L3 + structure | 94% | 14.3 | [evidence](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
-| [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | one round | L2 + shapes | 100% | 2.4 | [evidence](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
-| [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | one round | L2 + shapes | 97% | 2.6 | [evidence](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
-| [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | one round | L2 + shapes | 93% | 1.9 | [evidence](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
-| [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | one round | L2 + shapes | 89% | 7.5 | [evidence](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
-| [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | one round | L1 text | 96% | 3.9 | [evidence](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
-| [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | one round | L0 nothing editable | 100% | 8.7 | [evidence](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
-| [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | one round | L0 nothing editable | 100% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
-| [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | one round | L0 nothing editable | 96% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
-| [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | substantial | L0 nothing editable | 96% | 9.6 | [evidence](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
-| [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | substantial | L0 nothing editable | 93% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
-| [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | touch-ups | L2 + shapes | 96% | 10.1 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
+| # | Skill | ★ | Before handing over | Editability (PEI) | Content rubric | Min | |
+|---|---|---|---|---|---|---|---|
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | touch-ups | L5 + animation | 100% | 10.3 | [evidence](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
+| 2 | [ppt-master](https://github.com/hugohe3/ppt-master) | 57,780 | touch-ups | L3 + structure | 100% | 11.0 | [evidence](https://agentskillshub.top/best-runs/ppt/hugohe3__ppt-master.jpg) |
+| 3 | [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 527 | touch-ups | L3 + structure | 100% | 4.3 | [evidence](https://agentskillshub.top/best-runs/ppt/archlizheng__frontend-slides-editable.jpg) |
+| 4 | [magic-slide](https://github.com/daniel-style/magic-slide) | 172 | touch-ups | L3 + structure | 96% | 5.1 | [evidence](https://agentskillshub.top/best-runs/ppt/daniel-style__magic-slide.jpg) |
+| 5 | [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 3,183 | touch-ups | L3 + structure | 89% | 3.5 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenPPTSkill.jpg) |
+| 6 | [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | touch-ups | L2 + shapes | 100% | 3.2 | [evidence](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
+| 7 | [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | touch-ups | L2 + shapes | 100% | 4.6 | [evidence](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
+| 8 | [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | touch-ups | L2 + shapes | 96% | 16.2 | [evidence](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
+| 9 | [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | touch-ups | L2 + shapes | 92% | 8.3 | [evidence](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
+| 10 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | touch-ups | L1 text | 100% | 6.2 | [evidence](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
+| 11 | [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | touch-ups | L1 text | 97% | 14.0 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
+| 12 | [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | touch-ups | L1 text | 93% | 4.9 | [evidence](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
+| 13 | [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | touch-ups | L1 text | 93% | 6.7 | [evidence](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
+| 14 | [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | touch-ups | L0 nothing editable | 100% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
+| 15 | [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | touch-ups | L0 nothing editable | 93% | 2.8 | [evidence](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
+| 16 | [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | one round | L3 + structure | 94% | 14.3 | [evidence](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
+| 17 | [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | one round | L2 + shapes | 100% | 2.4 | [evidence](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
+| 18 | [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | one round | L2 + shapes | 97% | 2.6 | [evidence](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
+| 19 | [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | one round | L2 + shapes | 93% | 1.9 | [evidence](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
+| 20 | [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | one round | L2 + shapes | 89% | 7.5 | [evidence](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
+| 21 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | one round | L1 text | 96% | 3.9 | [evidence](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
+| 22 | [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | one round | L0 nothing editable | 100% | 8.7 | [evidence](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
+| 23 | [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | one round | L0 nothing editable | 100% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
+| 24 | [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | one round | L0 nothing editable | 96% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
+| 25 | [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | substantial | L0 nothing editable | 96% | 9.6 | [evidence](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
+| 26 | [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | substantial | L0 nothing editable | 93% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
+| 27 | [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | touch-ups | L2 + shapes | 96% | 10.1 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
 
 **Could not run:** NanoBanana-PPT-Skills (Needs a Google Gemini image key; not attempted.); open-kimi-ppt-skill (Repository emptied by its author for copyright reasons; only a README is left.); codex-ppt (Codex only: needs Codex's built-in image tool.); MultiAgentPPT (A standalone web app whose agents need their own LLM API key; not a Claude Code skill.)
 

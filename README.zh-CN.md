@@ -6,6 +6,23 @@
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/ppt-presentation/](https://agentskillshub.top/best/ppt-presentation/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
+## 到底装哪个
+
+我们实跑了其中 31 个(27 个出了结果),结论如下。[完整实测结果](#tested)在下面。
+
+- 🥇 **要一份同事能接着改的 PowerPoint: [ppt-master](https://github.com/hugohe3/ppt-master)**  
+  原生、结构化的 PPTX（可编辑性 L3），小修即可交付，内容检查单 100%；用时 11 分钟。想 3 分钟出一份、结构简单些，选 claude-office-skills（L2，100%）。
+- 🥈 **自己在浏览器里上台讲: [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)**  
+  网页幻灯片，带原生表格和动画（L5），小修即可，内容 100%。要改得改代码，不是在 PowerPoint 里改。
+- 🥉 **要视觉冲击: [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt)**  
+  图片优先的幻灯片，内容 100%，但每页都是一张图（L0），改一个字就要返工一轮。实测里 image-to-editable-ppt-skill 能把这种 deck 转回可编辑文字。
+
+**之后还要改字的话别选:** gpt-image2-ppt-skills (整页图片，要大改); codex-ppt-skill (整页图片，要大改).
+
+内容不是拉开差距的地方：26 份里 10 份检查单满分。按"之后能不能改"来选。
+
+*排名规则：先看交付前要返工多少，再看可编辑性等级（PEI），最后看内容检查单。*
+
 ## 这些工具能做出什么
 
 <table>
@@ -53,35 +70,35 @@
 
 *每份 deck 的封面页，顺序相同。*
 
-| Skill | ★ | 交付前 | 可编辑性(PEI) | 内容检查单 | 分钟 | |
-|---|---|---|---|---|---|---|
-| [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | 小修 | L5 + 动画 | 100% | 10.3 | [证据](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
-| [ppt-master](https://github.com/hugohe3/ppt-master) | 57,780 | 小修 | L3 + 结构化 | 100% | 11.0 | [证据](https://agentskillshub.top/best-runs/ppt/hugohe3__ppt-master.jpg) |
-| [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 527 | 小修 | L3 + 结构化 | 100% | 4.3 | [证据](https://agentskillshub.top/best-runs/ppt/archlizheng__frontend-slides-editable.jpg) |
-| [magic-slide](https://github.com/daniel-style/magic-slide) | 172 | 小修 | L3 + 结构化 | 96% | 5.1 | [证据](https://agentskillshub.top/best-runs/ppt/daniel-style__magic-slide.jpg) |
-| [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 3,183 | 小修 | L3 + 结构化 | 89% | 3.5 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenPPTSkill.jpg) |
-| [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | 小修 | L2 + 矢量图形 | 100% | 3.2 | [证据](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
-| [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | 小修 | L2 + 矢量图形 | 100% | 4.6 | [证据](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
-| [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | 小修 | L2 + 矢量图形 | 96% | 16.2 | [证据](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
-| [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | 小修 | L2 + 矢量图形 | 92% | 8.3 | [证据](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
-| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | 小修 | L1 文字可改 | 100% | 6.2 | [证据](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
-| [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | 小修 | L1 文字可改 | 97% | 14.0 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
-| [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | 小修 | L1 文字可改 | 93% | 4.9 | [证据](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
-| [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | 小修 | L1 文字可改 | 93% | 6.7 | [证据](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
-| [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | 小修 | L0 不可编辑 | 100% | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
-| [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | 小修 | L0 不可编辑 | 93% | 2.8 | [证据](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
-| [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | 改一轮 | L3 + 结构化 | 94% | 14.3 | [证据](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
-| [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | 改一轮 | L2 + 矢量图形 | 100% | 2.4 | [证据](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
-| [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | 改一轮 | L2 + 矢量图形 | 97% | 2.6 | [证据](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
-| [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | 改一轮 | L2 + 矢量图形 | 93% | 1.9 | [证据](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
-| [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | 改一轮 | L2 + 矢量图形 | 89% | 7.5 | [证据](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
-| [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | 改一轮 | L1 文字可改 | 96% | 3.9 | [证据](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
-| [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | 改一轮 | L0 不可编辑 | 100% | 8.7 | [证据](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
-| [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | 改一轮 | L0 不可编辑 | 100% | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
-| [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | 改一轮 | L0 不可编辑 | 96% | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
-| [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | 大改 | L0 不可编辑 | 96% | 9.6 | [证据](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
-| [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | 大改 | L0 不可编辑 | 93% | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
-| [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | 小修 | L2 + 矢量图形 | 96% | 10.1 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
+| # | Skill | ★ | 交付前 | 可编辑性(PEI) | 内容检查单 | 分钟 | |
+|---|---|---|---|---|---|---|---|
+| 1 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,277 | 小修 | L5 + 动画 | 100% | 10.3 | [证据](https://agentskillshub.top/best-runs/ppt/op7418__guizang-ppt-skill.jpg) |
+| 2 | [ppt-master](https://github.com/hugohe3/ppt-master) | 57,780 | 小修 | L3 + 结构化 | 100% | 11.0 | [证据](https://agentskillshub.top/best-runs/ppt/hugohe3__ppt-master.jpg) |
+| 3 | [frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 527 | 小修 | L3 + 结构化 | 100% | 4.3 | [证据](https://agentskillshub.top/best-runs/ppt/archlizheng__frontend-slides-editable.jpg) |
+| 4 | [magic-slide](https://github.com/daniel-style/magic-slide) | 172 | 小修 | L3 + 结构化 | 96% | 5.1 | [证据](https://agentskillshub.top/best-runs/ppt/daniel-style__magic-slide.jpg) |
+| 5 | [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) | 3,183 | 小修 | L3 + 结构化 | 89% | 3.5 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenPPTSkill.jpg) |
+| 6 | [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | 小修 | L2 + 矢量图形 | 100% | 3.2 | [证据](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
+| 7 | [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | 小修 | L2 + 矢量图形 | 100% | 4.6 | [证据](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
+| 8 | [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | 小修 | L2 + 矢量图形 | 96% | 16.2 | [证据](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
+| 9 | [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | 小修 | L2 + 矢量图形 | 92% | 8.3 | [证据](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
+| 10 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | 小修 | L1 文字可改 | 100% | 6.2 | [证据](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
+| 11 | [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | 小修 | L1 文字可改 | 97% | 14.0 | [证据](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
+| 12 | [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | 小修 | L1 文字可改 | 93% | 4.9 | [证据](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
+| 13 | [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | 小修 | L1 文字可改 | 93% | 6.7 | [证据](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
+| 14 | [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | 小修 | L0 不可编辑 | 100% | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
+| 15 | [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | 小修 | L0 不可编辑 | 93% | 2.8 | [证据](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
+| 16 | [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | 改一轮 | L3 + 结构化 | 94% | 14.3 | [证据](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
+| 17 | [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | 改一轮 | L2 + 矢量图形 | 100% | 2.4 | [证据](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
+| 18 | [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | 改一轮 | L2 + 矢量图形 | 97% | 2.6 | [证据](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
+| 19 | [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | 改一轮 | L2 + 矢量图形 | 93% | 1.9 | [证据](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
+| 20 | [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | 改一轮 | L2 + 矢量图形 | 89% | 7.5 | [证据](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
+| 21 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | 改一轮 | L1 文字可改 | 96% | 3.9 | [证据](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
+| 22 | [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | 改一轮 | L0 不可编辑 | 100% | 8.7 | [证据](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
+| 23 | [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | 改一轮 | L0 不可编辑 | 100% | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
+| 24 | [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | 改一轮 | L0 不可编辑 | 96% | 8.1 | [证据](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
+| 25 | [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | 大改 | L0 不可编辑 | 96% | 9.6 | [证据](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
+| 26 | [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | 大改 | L0 不可编辑 | 93% | 4.5 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
+| 27 | [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | 小修 | L2 + 矢量图形 | 96% | 10.1 | [证据](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
 
 **未能实测:** NanoBanana-PPT-Skills (需要 Google Gemini 的图片 key，未测。); open-kimi-ppt-skill (仓库已被作者以版权为由清空，只剩一个 README。); codex-ppt (只能在 Codex 里用：要用 Codex 内置的画图工具。); MultiAgentPPT (是一个独立的 Web 应用，里面的 agent 需要自己的模型 API key，不是 Claude Code 的 skill。)
 
