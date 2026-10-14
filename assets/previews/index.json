@@ -759,16 +759,6 @@
   "file": "lirunjie0510__ppt-visual-reconstruction.jpg",
   "still": "lirunjie0510__ppt-visual-reconstruction.jpg"
  },
- "liustack/pptwise": {
-  "repo": "liustack/pptwise",
-  "url": "https://raw.githubusercontent.com/liustack/pptwise/HEAD/assets/gallery/data-charts-02.png",
-  "alt": "Grouped bar chart of revenue against target by quarter",
-  "score": -0.35,
-  "type": "image/png",
-  "bytes": 34995,
-  "file": "liustack__pptwise.jpg",
-  "still": "liustack__pptwise.jpg"
- },
  "minorun365/minorun-marp-skill": {
   "repo": "minorun365/minorun-marp-skill",
   "url": "https://raw.githubusercontent.com/minorun365/minorun-marp-skill/HEAD/examples/sample/preview.png",
