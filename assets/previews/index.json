@@ -419,6 +419,16 @@
   "file": "bjoern2000__deckpipe.jpg",
   "still": "bjoern2000__deckpipe.jpg"
  },
+ "chengzi2333/html-report-skill": {
+  "repo": "chengzi2333/html-report-skill",
+  "url": "https://raw.githubusercontent.com/chengzi2333/html-report-skill/HEAD/assets/hero.png",
+  "alt": "HTML Report Skill 示例",
+  "score": -0.65,
+  "type": "image/png",
+  "bytes": 391872,
+  "file": "chengzi2333__html-report-skill.jpg",
+  "still": "chengzi2333__html-report-skill.jpg"
+ },
  "chenyangji666/html-ppt-skill": {
   "repo": "chenyangji666/html-ppt-skill",
   "url": "https://raw.githubusercontent.com/chenyangji666/html-ppt-skill/HEAD/screenshot_cover.png",
@@ -1058,6 +1068,16 @@
   "bytes": 29518,
   "file": "zhenwusw__orca-ppt-skill.jpg",
   "still": "zhenwusw__orca-ppt-skill.jpg"
+ },
+ "zhouwei713/luobo-ppt": {
+  "repo": "zhouwei713/luobo-ppt",
+  "url": "https://raw.githubusercontent.com/zhouwei713/luobo-ppt/HEAD/docs/images/one-deck-three-styles.jpg",
+  "alt": "同一份原稿换三种风格",
+  "score": 1.65,
+  "type": "image/jpeg",
+  "bytes": 184505,
+  "file": "zhouwei713__luobo-ppt.jpg",
+  "still": "zhouwei713__luobo-ppt.jpg"
  },
  "zouchenzhen/thesis-defense-pptx-skill": {
   "repo": "zouchenzhen/thesis-defense-pptx-skill",
