@@ -419,6 +419,16 @@
   "file": "bjoern2000__deckpipe.jpg",
   "still": "bjoern2000__deckpipe.jpg"
  },
+ "bvb6417/ppt-studio": {
+  "repo": "bvb6417/ppt-studio",
+  "url": "https://raw.githubusercontent.com/bvb6417/ppt-studio/HEAD/docs/showcase/ink_showcase_sheet.jpg",
+  "alt": "水墨风科研汇报",
+  "score": 1.85,
+  "type": "image/jpeg",
+  "bytes": 201021,
+  "file": "bvb6417__ppt-studio.jpg",
+  "still": "bvb6417__ppt-studio.jpg"
+ },
  "chengzi2333/html-report-skill": {
   "repo": "chengzi2333/html-report-skill",
   "url": "https://raw.githubusercontent.com/chengzi2333/html-report-skill/HEAD/assets/hero.png",
@@ -699,6 +709,26 @@
   "file": "johnson7788__MultiAgentPPT.jpg",
   "still": "johnson7788__MultiAgentPPT.jpg"
  },
+ "keanu77/htmlpptskill": {
+  "repo": "keanu77/htmlpptskill",
+  "url": "https://raw.githubusercontent.com/keanu77/htmlpptskill/HEAD/docs/demo.gif",
+  "alt": "一句話 → Demo 操作 → 逐頁 QA → HTML、PDF、PPTX 三種交付",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 5498799,
+  "file": "keanu77__htmlpptskill.gif",
+  "still": "keanu77__htmlpptskill.jpg"
+ },
+ "kgraph57/mckinsey-style-visualization-skill": {
+  "repo": "kgraph57/mckinsey-style-visualization-skill",
+  "url": "https://raw.githubusercontent.com/kgraph57/mckinsey-style-visualization-skill/HEAD/assets/readme/decision-story-demo-frameless.gif",
+  "alt": "Watch the English interactive decision story demo",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 8434795,
+  "file": "kgraph57__mckinsey-style-visualization-skill.gif",
+  "still": "kgraph57__mckinsey-style-visualization-skill.jpg"
+ },
  "kimsh-1/deck-factory": {
   "repo": "kimsh-1/deck-factory",
   "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",
@@ -758,6 +788,16 @@
   "bytes": 691140,
   "file": "lirunjie0510__ppt-visual-reconstruction.jpg",
   "still": "lirunjie0510__ppt-visual-reconstruction.jpg"
+ },
+ "mathruffian-dot/soil-motion-deck": {
+  "repo": "mathruffian-dot/soil-motion-deck",
+  "url": "https://raw.githubusercontent.com/mathruffian-dot/soil-motion-deck/HEAD/docs/film-sheet.png",
+  "alt": "影片審查截圖",
+  "score": 1.9,
+  "type": "image/png",
+  "bytes": 267185,
+  "file": "mathruffian-dot__soil-motion-deck.jpg",
+  "still": "mathruffian-dot__soil-motion-deck.jpg"
  },
  "minorun365/minorun-marp-skill": {
   "repo": "minorun365/minorun-marp-skill",
