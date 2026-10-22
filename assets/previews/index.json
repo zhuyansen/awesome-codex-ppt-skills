@@ -119,6 +119,16 @@
   "file": "DSY-Xueai__image2editable.jpg",
   "still": "DSY-Xueai__image2editable.jpg"
  },
+ "Delicious-Cao/Delicious-PPT": {
+  "repo": "Delicious-Cao/Delicious-PPT",
+  "url": "https://raw.githubusercontent.com/Delicious-Cao/Delicious-PPT/HEAD/examples/chatgpt-reading/preview/slide-01.png",
+  "alt": "校园阅读空间样张",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 2404220,
+  "file": "Delicious-Cao__Delicious-PPT.jpg",
+  "still": "Delicious-Cao__Delicious-PPT.jpg"
+ },
  "Faust-Donf/beamer-academic": {
   "repo": "Faust-Donf/beamer-academic",
   "url": "https://raw.githubusercontent.com/Faust-Donf/beamer-academic/HEAD/docs/toc.png",
