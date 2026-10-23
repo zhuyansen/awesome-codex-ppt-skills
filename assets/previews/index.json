@@ -379,6 +379,16 @@
   "file": "alohays__paper2pr.jpg",
   "still": "alohays__paper2pr.jpg"
  },
+ "ancarmona/keystone": {
+  "repo": "ancarmona/keystone",
+  "url": "https://raw.githubusercontent.com/ancarmona/keystone/HEAD/library/layouts/list/thumb.png",
+  "alt": "List slide",
+  "score": 1.9,
+  "type": "image/png",
+  "bytes": 56183,
+  "file": "ancarmona__keystone.jpg",
+  "still": "ancarmona__keystone.jpg"
+ },
  "andyluu98/slidefly": {
   "repo": "andyluu98/slidefly",
   "url": "https://raw.githubusercontent.com/andyluu98/slidefly/HEAD/docs/gallery.jpg",
@@ -759,16 +769,6 @@
   "file": "knight6669__knight-imagetopptx-skill.jpg",
   "still": "knight6669__knight-imagetopptx-skill.jpg"
  },
- "lanceli93/aws-html-slides": {
-  "repo": "lanceli93/aws-html-slides",
-  "url": "https://raw.githubusercontent.com/lanceli93/aws-html-slides/HEAD/docs/layouts/neon-title.png",
-  "alt": "Neon kinetic title over WebGL aurora",
-  "score": 0.0,
-  "type": "image/png",
-  "bytes": 294125,
-  "file": "lanceli93__aws-html-slides.jpg",
-  "still": "lanceli93__aws-html-slides.jpg"
- },
  "lewislulu/html-ppt-skill": {
   "repo": "lewislulu/html-ppt-skill",
   "url": "https://raw.githubusercontent.com/lewislulu/html-ppt-skill/HEAD/docs/readme/layouts-live.gif",
@@ -978,6 +978,16 @@
   "bytes": 62846,
   "file": "tjxj__dsh-wanghong-handwritten-ppt.jpg",
   "still": "tjxj__dsh-wanghong-handwritten-ppt.jpg"
+ },
+ "tokuhn/confidential-html-deck": {
+  "repo": "tokuhn/confidential-html-deck",
+  "url": "https://raw.githubusercontent.com/tokuhn/confidential-html-deck/HEAD/docs/viewer-dark.png",
+  "alt": "The deck viewer with the data panel open",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 317896,
+  "file": "tokuhn__confidential-html-deck.jpg",
+  "still": "tokuhn__confidential-html-deck.jpg"
  },
  "tomacco/deckadence": {
   "repo": "tomacco/deckadence",
