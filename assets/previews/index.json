@@ -899,6 +899,16 @@
   "file": "rocsgh__ppt-zen.jpg",
   "still": "rocsgh__ppt-zen.jpg"
  },
+ "sharptoolbox/code-walkthrough-ppt-video": {
+  "repo": "sharptoolbox/code-walkthrough-ppt-video",
+  "url": "https://raw.githubusercontent.com/sharptoolbox/code-walkthrough-ppt-video/HEAD/media/ppt01.png",
+  "alt": "PPT 产品功能讲解效果",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 207479,
+  "file": "sharptoolbox__code-walkthrough-ppt-video.jpg",
+  "still": "sharptoolbox__code-walkthrough-ppt-video.jpg"
+ },
  "shawnzam/keynot": {
   "repo": "shawnzam/keynot",
   "url": "https://raw.githubusercontent.com/shawnzam/keynot/HEAD/assets/zombies-preview.png",
