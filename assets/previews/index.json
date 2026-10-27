@@ -69,6 +69,16 @@
   "file": "Angel-Gril__Kimi-PPT-Skills.jpg",
   "still": "Angel-Gril__Kimi-PPT-Skills.jpg"
  },
+ "Arinin77/image2editable-ppt": {
+  "repo": "Arinin77/image2editable-ppt",
+  "url": "https://raw.githubusercontent.com/Arinin77/image2editable-ppt/HEAD/examples/rag-anything/comparison.png",
+  "alt": "RAG-Anything: source image and editable PowerPoint reconstruction",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 534467,
+  "file": "Arinin77__image2editable-ppt.jpg",
+  "still": "Arinin77__image2editable-ppt.jpg"
+ },
  "Changhooo/ppt-image-redraw-skill": {
   "repo": "Changhooo/ppt-image-redraw-skill",
   "url": "https://raw.githubusercontent.com/Changhooo/ppt-image-redraw-skill/HEAD/docs/images/02-segmentation-preview.png",
