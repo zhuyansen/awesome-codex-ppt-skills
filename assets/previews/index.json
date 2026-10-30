@@ -29,6 +29,16 @@
   "file": "ABYR1206__claude-skill-hand-drawn-slides.jpg",
   "still": "ABYR1206__claude-skill-hand-drawn-slides.jpg"
  },
+ "AIPMAndy/LivePPT": {
+  "repo": "AIPMAndy/LivePPT",
+  "url": "https://raw.githubusercontent.com/AIPMAndy/LivePPT/HEAD/skills/public/LivePPT/assets/demo.gif",
+  "alt": "LivePPT Demo",
+  "score": 4.9,
+  "type": "image/gif",
+  "bytes": 1172018,
+  "file": "AIPMAndy__LivePPT.gif",
+  "still": "AIPMAndy__LivePPT.jpg"
+ },
  "AIPMAndy/PPTskill": {
   "repo": "AIPMAndy/PPTskill",
   "url": "https://raw.githubusercontent.com/AIPMAndy/PPTskill/HEAD/docs/assets/screenshots/preview_magazine_garden.png",
@@ -779,6 +789,16 @@
   "file": "kimsh-1__deck-factory.gif",
   "still": "kimsh-1__deck-factory.jpg"
  },
+ "kiselas/every-slide-is-code": {
+  "repo": "kiselas/every-slide-is-code",
+  "url": "https://raw.githubusercontent.com/kiselas/every-slide-is-code/HEAD/examples/demo/teaser.gif",
+  "alt": "Teaser of the demo deck: a scale read-out tares to zero, the camera feeds down a",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 3848989,
+  "file": "kiselas__every-slide-is-code.gif",
+  "still": "kiselas__every-slide-is-code.jpg"
+ },
  "knight6669/knight-imagetopptx-skill": {
   "repo": "knight6669/knight-imagetopptx-skill",
   "url": "https://raw.githubusercontent.com/knight6669/knight-imagetopptx-skill/HEAD/assets/reference-slide-01.png",
@@ -878,6 +898,16 @@
   "bytes": 1558154,
   "file": "ningzimu__image-to-editable-ppt-skill.jpg",
   "still": "ningzimu__image-to-editable-ppt-skill.jpg"
+ },
+ "nugrahalabib/AgentBuff-Presentation-Skills": {
+  "repo": "nugrahalabib/AgentBuff-Presentation-Skills",
+  "url": "https://raw.githubusercontent.com/nugrahalabib/AgentBuff-Presentation-Skills/HEAD/assets/screenshots/block-frame-1.png",
+  "alt": "BlockFrame — slide 1",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 53533,
+  "file": "nugrahalabib__AgentBuff-Presentation-Skills.jpg",
+  "still": "nugrahalabib__AgentBuff-Presentation-Skills.jpg"
  },
  "opitaru-sys/deck-dna": {
   "repo": "opitaru-sys/deck-dna",
