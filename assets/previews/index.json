@@ -509,6 +509,16 @@
   "file": "code-on-sunday__slide-deck-generator.jpg",
   "still": "code-on-sunday__slide-deck-generator.jpg"
  },
+ "codezzzsleep/research-ppt-skill": {
+  "repo": "codezzzsleep/research-ppt-skill",
+  "url": "https://raw.githubusercontent.com/codezzzsleep/research-ppt-skill/HEAD/docs/showcase.png",
+  "alt": "效果预览",
+  "score": 1.9,
+  "type": "image/png",
+  "bytes": 664338,
+  "file": "codezzzsleep__research-ppt-skill.jpg",
+  "still": "codezzzsleep__research-ppt-skill.jpg"
+ },
  "cogine-ai/ai-slide-templates": {
   "repo": "cogine-ai/ai-slide-templates",
   "url": "https://raw.githubusercontent.com/cogine-ai/ai-slide-templates/HEAD/docs/assets/readme/template-gallery-01.png",
