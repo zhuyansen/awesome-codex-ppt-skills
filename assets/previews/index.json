@@ -219,6 +219,16 @@
   "file": "JuneYaooo__gpt-image2-ppt-skills.jpg",
   "still": "JuneYaooo__gpt-image2-ppt-skills.jpg"
  },
+ "JunfengRan/PPTWork": {
+  "repo": "JunfengRan/PPTWork",
+  "url": "https://raw.githubusercontent.com/JunfengRan/PPTWork/HEAD/examples/showcase/showcase-bento.png",
+  "alt": "Two skills bento layout",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 59923,
+  "file": "JunfengRan__PPTWork.jpg",
+  "still": "JunfengRan__PPTWork.jpg"
+ },
  "Kevinyyy1/image-to-editable-pptx-v2": {
   "repo": "Kevinyyy1/image-to-editable-pptx-v2",
   "url": "https://raw.githubusercontent.com/Kevinyyy1/image-to-editable-pptx-v2/HEAD/examples/images/example-1.png",
@@ -358,6 +368,16 @@
   "bytes": 1334609,
   "file": "UniUni2000__slideblocks-skill.jpg",
   "still": "UniUni2000__slideblocks-skill.jpg"
+ },
+ "VangelisHaha/deck-stage": {
+  "repo": "VangelisHaha/deck-stage",
+  "url": "https://raw.githubusercontent.com/VangelisHaha/deck-stage/HEAD/docs/screenshots/library.png",
+  "alt": "稿库",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 112597,
+  "file": "VangelisHaha__deck-stage.jpg",
+  "still": "VangelisHaha__deck-stage.jpg"
  },
  "YingYveltal/bento-ppt-skill": {
   "repo": "YingYveltal/bento-ppt-skill",
@@ -988,6 +1008,16 @@
   "bytes": 1521407,
   "file": "siril9__presentation-skill.jpg",
   "still": "siril9__presentation-skill.jpg"
+ },
+ "smallSheep123/paper-skills": {
+  "repo": "smallSheep123/paper-skills",
+  "url": "https://raw.githubusercontent.com/smallSheep123/paper-skills/HEAD/paper-ppt/styles/domestic/samples/05-method.png",
+  "alt": "",
+  "score": -0.3,
+  "type": "image/png",
+  "bytes": 88400,
+  "file": "smallSheep123__paper-skills.jpg",
+  "still": "smallSheep123__paper-skills.jpg"
  },
  "sujunmin/agy-ppt": {
   "repo": "sujunmin/agy-ppt",
