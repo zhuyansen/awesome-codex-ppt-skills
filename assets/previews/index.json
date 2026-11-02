@@ -639,6 +639,16 @@
   "file": "floflo11__mbb-decks.jpg",
   "still": "floflo11__mbb-decks.jpg"
  },
+ "glukicov/slideops": {
+  "repo": "glukicov/slideops",
+  "url": "https://raw.githubusercontent.com/glukicov/slideops/HEAD/docs/theme-light.png",
+  "alt": "Ledger Light",
+  "score": -0.45,
+  "type": "image/png",
+  "bytes": 187295,
+  "file": "glukicov__slideops.jpg",
+  "still": "glukicov__slideops.jpg"
+ },
  "gnipbao/knowledge-cat-ppt-skill": {
   "repo": "gnipbao/knowledge-cat-ppt-skill",
   "url": "https://raw.githubusercontent.com/gnipbao/knowledge-cat-ppt-skill/HEAD/docs/images/mode-native-pptx.png",
@@ -1168,16 +1178,6 @@
   "bytes": 130976,
   "file": "wp-a__paper2ppt.jpg",
   "still": "wp-a__paper2ppt.jpg"
- },
- "wuyoscar/GPT-Image2-Skill": {
-  "repo": "wuyoscar/GPT-Image2-Skill",
-  "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png",
-  "alt": "ImageGen result generated from the reverse-engineered prompt",
-  "score": 1.55,
-  "type": "image/png",
-  "bytes": 2593838,
-  "file": "wuyoscar__GPT-Image2-Skill.jpg",
-  "still": "wuyoscar__GPT-Image2-Skill.jpg"
  },
  "wwe-dog/ppt-image2-editable-rebuild": {
   "repo": "wwe-dog/ppt-image2-editable-rebuild",
