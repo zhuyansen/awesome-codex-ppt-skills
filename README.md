@@ -2,16 +2,16 @@
 
 [中文](README.zh-CN.md)
 
-Open-source skills and tools that let **Codex, Claude Code and other coding agents make slides**: editable PPTX, image-first decks, web slides, consulting-style decks, documents to slides. 237 repos, each one read and security-graded by [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top).
+Open-source skills and tools that let **Codex, Claude Code and other coding agents make slides**: editable PPTX, image-first decks, web slides, consulting-style decks, documents to slides. 242 repos, each one read and security-graded by [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top).
 
 Live page with filters: **[https://agentskillshub.top/best/ppt-presentation/](https://agentskillshub.top/best/ppt-presentation/)** · refreshed every 8 hours
 
 ## Which one to install
 
-We ran 31 of these end to end (27 gave a result). This is what we would pick; the [full test](#tested) is below.
+We ran 32 of these end to end (28 gave a result). This is what we would pick; the [full test](#tested) is below.
 
 - 🥇 **For a PowerPoint file a colleague will edit: [ppt-master](https://github.com/hugohe3/ppt-master)**  
-  A native, structured PPTX (editability L3) that needed only touch-ups and scored 100% on the content rubric; 11 minutes. For the same in 3 minutes with simpler structure, claude-office-skills (L2, 100%).
+  A native, structured PPTX (editability L3) that needed only touch-ups and scored 100% on the content rubric; 11 minutes. For the same in 3 minutes with simpler structure, claude-office-skills (L2, 100%). Anthropic's own pptx skill made one in 2.4 minutes (L2, 96%).
 - 🥈 **For slides you present yourself, in a browser: [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)**  
   Web slides with native tables and animation (L5), touch-ups only, 100% on content. You edit them in code, not in PowerPoint.
 - 🥉 **For visual impact: [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt)**  
@@ -19,7 +19,7 @@ We ran 31 of these end to end (27 gave a result). This is what we would pick; th
 
 **Not if you will need to change the text:** gpt-image2-ppt-skills (all images, needed substantial rework); codex-ppt-skill (all images, needed substantial rework).
 
-Content was not where decks differed: 10 of 26 scored 100% on the rubric. Pick by whether you can edit the result.
+Content was not where decks differed: 10 of 27 scored 100% on the rubric. Pick by whether you can edit the result.
 
 *Ranked by rework before handing the deck over, then editability level (PEI), then the content rubric.*
 
@@ -28,26 +28,26 @@ Content was not where decks differed: 10 of 26 scored 100% on the rubric. Pick b
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>🧱 Frameworks & toolkits</b><br><sub>24 repos</sub><br><br><a href="https://github.com/StarryKit/starry-slides"><img src="assets/previews/StarryKit__starry-slides.gif" width="260" alt="StarryKit/starry-slides"></a><br><sub>Large toolkits and multi-agent systems that make many kinds of decks.</sub><br><a href="#type-general"><b>View the list →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📝 Editable PPTX</b><br><sub>89 repos</sub><br><br><a href="https://github.com/icip-cas/PPTAgent"><img src="assets/previews/icip-cas__PPTAgent.gif" width="260" alt="icip-cas/PPTAgent"></a><br><sub>Real .pptx files you can open and edit in PowerPoint.</sub><br><a href="#type-pptx"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🧱 Frameworks & toolkits</b><br><sub>25 repos</sub><br><br><a href="https://github.com/StarryKit/starry-slides"><img src="assets/previews/StarryKit__starry-slides.gif" width="260" alt="StarryKit/starry-slides"></a><br><sub>Large toolkits and multi-agent systems that make many kinds of decks.</sub><br><a href="#type-general"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📝 Editable PPTX</b><br><sub>91 repos</sub><br><br><a href="https://github.com/icip-cas/PPTAgent"><img src="assets/previews/icip-cas__PPTAgent.gif" width="260" alt="icip-cas/PPTAgent"></a><br><sub>Real .pptx files you can open and edit in PowerPoint.</sub><br><a href="#type-pptx"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🖼 Image-first decks</b><br><sub>7 repos</sub><br><br><a href="https://github.com/uuoov/ppt-image-share-builder"><img src="assets/previews/uuoov__ppt-image-share-builder.gif" width="260" alt="uuoov/ppt-image-share-builder"></a><br><sub>Each slide is a generated image: striking, but the text is fixed.</sub><br><a href="#type-image"><b>View the list →</b></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="33%"><b>🌐 Web slides</b><br><sub>70 repos</sub><br><br><a href="https://github.com/lewislulu/html-ppt-skill"><img src="assets/previews/lewislulu__html-ppt-skill.gif" width="260" alt="lewislulu/html-ppt-skill"></a><br><sub>Slides as a web page: reveal.js, Slidev, magazine-style decks.</sub><br><a href="#type-html"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🌐 Web slides</b><br><sub>71 repos</sub><br><br><a href="https://github.com/lewislulu/html-ppt-skill"><img src="assets/previews/lewislulu__html-ppt-skill.gif" width="260" alt="lewislulu/html-ppt-skill"></a><br><sub>Slides as a web page: reveal.js, Slidev, magazine-style decks.</sub><br><a href="#type-html"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>💼 Business & consulting</b><br><sub>16 repos</sub><br><br><a href="https://github.com/kgraph57/mckinsey-style-visualization-skill"><img src="assets/previews/kgraph57__mckinsey-style-visualization-skill.gif" width="260" alt="kgraph57/mckinsey-style-visualization-skill"></a><br><sub>Consulting, pitch and report decks.</sub><br><a href="#type-business"><b>View the list →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📄 Docs to slides</b><br><sub>31 repos</sub><br><br><a href="https://github.com/M1n-n9/academic-ppt-master"><img src="assets/previews/M1n-n9__academic-ppt-master.jpg" width="260" alt="M1n-n9/academic-ppt-master"></a><br><sub>Papers, PDFs, articles and Markdown turned into slides.</sub><br><a href="#type-convert"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📄 Docs to slides</b><br><sub>32 repos</sub><br><br><a href="https://github.com/M1n-n9/academic-ppt-master"><img src="assets/previews/M1n-n9__academic-ppt-master.jpg" width="260" alt="M1n-n9/academic-ppt-master"></a><br><sub>Papers, PDFs, articles and Markdown turned into slides.</sub><br><a href="#type-convert"><b>View the list →</b></a></td>
 </tr>
 </table>
 
 ## Contents
 
 - [🧪 Tested end to end](#tested)
-- [🧱 Frameworks & toolkits](#type-general) (24)
-- [📝 Editable PPTX](#type-pptx) (89)
+- [🧱 Frameworks & toolkits](#type-general) (25)
+- [📝 Editable PPTX](#type-pptx) (91)
 - [🖼 Image-first decks](#type-image) (7)
-- [🌐 Web slides](#type-html) (70)
+- [🌐 Web slides](#type-html) (71)
 - [💼 Business & consulting](#type-business) (16)
-- [📄 Docs to slides](#type-convert) (31)
+- [📄 Docs to slides](#type-convert) (32)
 
 ## How a repo gets on the list
 
@@ -61,7 +61,7 @@ The questions are answered by a decision model reading each README, not by hand.
 <a id="tested"></a>
 ## 🧪 Tested end to end
 
-On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the same brief in a throwaway sandbox, driven by Claude Code (Claude Opus 5.5). Editability is a level after SlidesGen-Bench's PEI ([arXiv 2601.09487](https://arxiv.org/abs/2601.09487)), parsed from the file; the content rubric is yes/no items after PresentBench ([arXiv 2603.07244](https://arxiv.org/abs/2603.07244)), checked by gpt-6-astra three times and reviewed by hand. Ranked by rework before handing over, then editability, then the rubric.
+On 2026-10-07 we ran 32 of these skills and 28 ran: each built a deck from the same brief in a throwaway sandbox, driven by Claude Code (Claude Opus 5.5). Editability is a level after SlidesGen-Bench's PEI ([arXiv 2601.09487](https://arxiv.org/abs/2601.09487)), parsed from the file; the content rubric is yes/no items after PresentBench ([arXiv 2603.07244](https://arxiv.org/abs/2603.07244)), checked by gpt-6-astra three times and reviewed by hand. Ranked by rework before handing over, then editability, then the rubric.
 
 [![The same slide from every deck: "205 PPT skills, three routes", with the same numbers in all 26. In the table's order; under each, rework, editability level and content rubric.](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)](https://agentskillshub.top/best-runs/ppt/compare-routes.jpg)
 
@@ -81,25 +81,26 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | 6 | [claude-office-skills](https://github.com/tfriedel/claude-office-skills) | 834 | touch-ups | L2 + shapes | 100% | 3.2 | [evidence](https://agentskillshub.top/best-runs/ppt/tfriedel__claude-office-skills.jpg) |
 | 7 | [PPTAgent](https://github.com/icip-cas/PPTAgent) | 5,089 | touch-ups | L2 + shapes | 100% | 4.6 | [evidence](https://agentskillshub.top/best-runs/ppt/icip-cas__PPTAgent.jpg) |
 | 8 | [ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 904 | touch-ups | L2 + shapes | 96% | 16.2 | [evidence](https://agentskillshub.top/best-runs/ppt/sunbigfly__ppt-agent-skills.jpg) |
-| 9 | [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | touch-ups | L2 + shapes | 92% | 8.3 | [evidence](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
-| 10 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | touch-ups | L1 text | 100% | 6.2 | [evidence](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
-| 11 | [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | touch-ups | L1 text | 97% | 14.0 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
-| 12 | [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | touch-ups | L1 text | 93% | 4.9 | [evidence](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
-| 13 | [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | touch-ups | L1 text | 93% | 6.7 | [evidence](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
-| 14 | [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | touch-ups | L0 nothing editable | 100% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
-| 15 | [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | touch-ups | L0 nothing editable | 93% | 2.8 | [evidence](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
-| 16 | [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | one round | L3 + structure | 94% | 14.3 | [evidence](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
-| 17 | [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | one round | L2 + shapes | 100% | 2.4 | [evidence](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
-| 18 | [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | one round | L2 + shapes | 97% | 2.6 | [evidence](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
-| 19 | [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | one round | L2 + shapes | 93% | 1.9 | [evidence](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
-| 20 | [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | one round | L2 + shapes | 89% | 7.5 | [evidence](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
-| 21 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | one round | L1 text | 96% | 3.9 | [evidence](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
-| 22 | [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | one round | L0 nothing editable | 100% | 8.7 | [evidence](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
-| 23 | [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | one round | L0 nothing editable | 100% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
-| 24 | [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | one round | L0 nothing editable | 96% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
-| 25 | [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | substantial | L0 nothing editable | 96% | 9.6 | [evidence](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
-| 26 | [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | substantial | L0 nothing editable | 93% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
-| 27 | [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | touch-ups | L2 + shapes | 96% | 10.1 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
+| 9 | [skills](https://github.com/anthropics/skills) | 184,498 | touch-ups | L2 + shapes | 96% | 2.4 | [evidence](https://agentskillshub.top/best-runs/ppt/anthropics__skills.jpg) |
+| 10 | [CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1,760 | touch-ups | L2 + shapes | 92% | 8.3 | [evidence](https://agentskillshub.top/best-runs/ppt/crazyykhllc-bit__CyberPPT.jpg) |
+| 11 | [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 30,187 | touch-ups | L1 text | 100% | 6.2 | [evidence](https://agentskillshub.top/best-runs/ppt/zarazhangrui__frontend-slides.jpg) |
+| 12 | [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) | 2,044 | touch-ups | L1 text | 97% | 14.0 | [evidence](https://agentskillshub.top/best-runs/ppt/GordenSun__GordenSuperPPTSkills.jpg) |
+| 13 | [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 413 | touch-ups | L1 text | 93% | 4.9 | [evidence](https://agentskillshub.top/best-runs/ppt/ryanbbrown__revealjs-skill.jpg) |
+| 14 | [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1,855 | touch-ups | L1 text | 93% | 6.7 | [evidence](https://agentskillshub.top/best-runs/ppt/GongRzhe__Office-PowerPoint-MCP-Server.jpg) |
+| 15 | [consulting-pptx-skill](https://github.com/gozen3ji/consulting-pptx-skill) | 1,113 | touch-ups | L0 nothing editable | 100% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/gozen3ji__consulting-pptx-skill.jpg) |
+| 16 | [marp-slides](https://github.com/robonuggets/marp-slides) | 320 | touch-ups | L0 nothing editable | 93% | 2.8 | [evidence](https://agentskillshub.top/best-runs/ppt/robonuggets__marp-slides.jpg) |
+| 17 | [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 9,174 | one round | L3 + structure | 94% | 14.3 | [evidence](https://agentskillshub.top/best-runs/ppt/chuspeeism__dashi-ppt-skill.jpg) |
+| 18 | [academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1,114 | one round | L2 + shapes | 100% | 2.4 | [evidence](https://agentskillshub.top/best-runs/ppt/Gabberflast__academic-pptx-skill.jpg) |
+| 19 | [Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 295 | one round | L2 + shapes | 97% | 2.6 | [evidence](https://agentskillshub.top/best-runs/ppt/likaku__Mck-ppt-design-skill.jpg) |
+| 20 | [mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx) | 594 | one round | L2 + shapes | 93% | 1.9 | [evidence](https://agentskillshub.top/best-runs/ppt/seulee26__mckinsey-pptx.jpg) |
+| 21 | [handdrawn-ppt](https://github.com/moongiadventures-dev/handdrawn-ppt) | 8 | one round | L2 + shapes | 89% | 7.5 | [evidence](https://agentskillshub.top/best-runs/ppt/moongiadventures-dev__handdrawn-ppt.jpg) |
+| 22 | [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 8,588 | one round | L1 text | 96% | 3.9 | [evidence](https://agentskillshub.top/best-runs/ppt/lewislulu__html-ppt-skill.jpg) |
+| 23 | [rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 467 | one round | L0 nothing editable | 100% | 8.7 | [evidence](https://agentskillshub.top/best-runs/ppt/Pikapika260214__rw-consulting-ppt.jpg) |
+| 24 | [visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 390 | one round | L0 nothing editable | 100% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/irenerachel__visual-style-ppt-skill.jpg) |
+| 25 | [ppt-image-first](https://github.com/NyxTides/ppt-image-first) | 1,223 | one round | L0 nothing editable | 96% | 8.1 | [evidence](https://agentskillshub.top/best-runs/ppt/NyxTides__ppt-image-first.jpg) |
+| 26 | [gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1,328 | substantial | L0 nothing editable | 96% | 9.6 | [evidence](https://agentskillshub.top/best-runs/ppt/JuneYaooo__gpt-image2-ppt-skills.jpg) |
+| 27 | [codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill) | 6,354 | substantial | L0 nothing editable | 93% | 4.5 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__codex-ppt-skill.jpg) |
+| 28 | [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill) | 2,781 | touch-ups | L2 + shapes | 96% | 10.1 | [evidence](https://agentskillshub.top/best-runs/ppt/ningzimu__image-to-editable-ppt-skill.jpg) |
 
 **Could not run:** NanoBanana-PPT-Skills (Needs a Google Gemini image key; not attempted.); open-kimi-ppt-skill (Repository emptied by its author for copyright reasons; only a README is left.); codex-ppt (Codex only: needs Codex's built-in image tool.); MultiAgentPPT (A standalone web app whose agents need their own LLM API key; not a Claude Code skill.)
 
@@ -142,6 +143,7 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [dingjq1216/PPT-Knowledge-Skill](https://github.com/dingjq1216/PPT-Knowledge-Skill) | 5 |  | [SAFE](https://agentskillshub.top/skill/dingjq1216/PPT-Knowledge-Skill/) |
 | [josezuma/yc-pitch-deck-max](https://github.com/josezuma/yc-pitch-deck-max) | 5 | The super-skill for startup pitch decks. Combines YC content frameworks, 30+ design styles, PPTX/HTML/Marp output, investor intelligence, and deck an… | [SAFE](https://agentskillshub.top/skill/josezuma/yc-pitch-deck-max/) |
 | [kiselas/every-slide-is-code](https://github.com/kiselas/every-slide-is-code) | 5 | Every slide is code: an Agent Skill for Claude Code, Codex and ChatGPT that builds presentations as one HTML file. Animated charts and diagrams, cine… | [SAFE](https://agentskillshub.top/skill/kiselas/every-slide-is-code/) |
+| [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | 5 | Slides and charts that look designed by a person, not generated by AI. Agent skills for Claude Code, Codex and Cursor. | [SAFE](https://agentskillshub.top/skill/taufiquebuilds/nopurple/) |
 
 <a id="type-pptx"></a>
 ## 📝 Editable PPTX
@@ -165,28 +167,28 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1.4k | Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. \| 把任何 .pptx 模板"抄"成你的 PPT：gpt-i… | [SAFE](https://agentskillshub.top/skill/JuneYaooo/gpt-image2-ppt-skills/) |
 | [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 919 | A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。 | [SAFE](https://agentskillshub.top/skill/sunbigfly/ppt-agent-skills/) |
 | [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) | 648 | Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click… | [SAFE](https://agentskillshub.top/skill/addsumtech/slides_maker/) |
+| [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 477 | Precision PPT design skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect Build Mode control, AI image generation, and fully edit… | [SAFE](https://agentskillshub.top/skill/sunchaokun/PPT-Design-Skill/) |
 | [AI272/speaker](https://github.com/AI272/speaker) | 474 | Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering,… | [SAFE](https://agentskillshub.top/skill/AI272/speaker/) |
-| [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 466 | Precision PPT design skill for OpenCode/Claude Code/Codex, with 40,000+ styles, pixel-perfect Build Mode control, AI image generation, and fully edit… | [SAFE](https://agentskillshub.top/skill/sunchaokun/PPT-Design-Skill/) |
-| [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | 443 | 生成和美化可编辑原生 PPT 的 Agent Skill | [SAFE](https://agentskillshub.top/skill/zhouwei713/luobo-ppt/) |
+| [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | 447 | 生成和美化可编辑原生 PPT 的 Agent Skill | [SAFE](https://agentskillshub.top/skill/zhouwei713/luobo-ppt/) |
 | [barun-saha/slide-deck-ai](https://github.com/barun-saha/slide-deck-ai) | 377 | Co-create PowerPoint slide decks with AI | [SAFE](https://agentskillshub.top/skill/barun-saha/slide-deck-ai/) |
-| [zouchenzhen/thesis-defense-pptx-skill](https://github.com/zouchenzhen/thesis-defense-pptx-skill) | 281 | Codex / Claude Skill for editable thesis-defense PPTX from PDF or LaTeX while preserving a PowerPoint template. 从论文 PDF / LaTeX 生成可编辑答辩 PPTX，并保留指定 PP… | [SAFE](https://agentskillshub.top/skill/zouchenzhen/thesis-defense-pptx-skill/) |
+| [zouchenzhen/thesis-defense-pptx-skill](https://github.com/zouchenzhen/thesis-defense-pptx-skill) | 280 | Codex / Claude Skill for editable thesis-defense PPTX from PDF or LaTeX while preserving a PowerPoint template. 从论文 PDF / LaTeX 生成可编辑答辩 PPTX，并保留指定 PP… | [SAFE](https://agentskillshub.top/skill/zouchenzhen/thesis-defense-pptx-skill/) |
 | [thePlannerIvan/planners-ppt-hell](https://github.com/thePlannerIvan/planners-ppt-hell) | 244 | A PPT Skill for Planners. | [SAFE](https://agentskillshub.top/skill/thePlannerIvan/planners-ppt-hell/) |
 | [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) | 223 | Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as… | [SAFE](https://agentskillshub.top/skill/EveryInc/hands-on-deck/) |
 | [wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild) | 204 | 一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论条等可编辑元素。 | [SAFE](https://agentskillshub.top/skill/wwe-dog/ppt-image2-editable-rebuild/) |
 | [w1163222589-coder/slide-image-to-editable-pptx](https://github.com/w1163222589-coder/slide-image-to-editable-pptx) | 197 | A Codex skill for converting slide screenshots into editable PowerPoint decks. | [SAFE](https://agentskillshub.top/skill/w1163222589-coder/slide-image-to-editable-pptx/) |
+| [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) | 175 | 🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that tu… | [SAFE](https://agentskillshub.top/skill/Akxan/ppt-agent-skill/) |
 | [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | 175 | A Codex Skill for converting Beamer PDFs into editable PowerPoint decks with native equations. | [SAFE](https://agentskillshub.top/skill/xdmlxdml/beamer2pptx/) |
-| [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) | 174 | 🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that tu… | [SAFE](https://agentskillshub.top/skill/Akxan/ppt-agent-skill/) |
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 170 | Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor | [SAFE](https://agentskillshub.top/skill/jinwyp/open-ppt-skill/) |
-| [knight6669/knight-imagetopptx-skill](https://github.com/knight6669/knight-imagetopptx-skill) | 139 | Semantic slide image to editable PPTX Codex skill | [SAFE](https://agentskillshub.top/skill/knight6669/knight-imagetopptx-skill/) |
-| [Noi1r/powerpoint-skill](https://github.com/Noi1r/powerpoint-skill) | 130 | AI coding assistant skill for creating visually rich PowerPoint (.pptx) presentations with native OMML math, LaTeX formulas, and Graphviz/Mermaid/Tik… | [SAFE](https://agentskillshub.top/skill/Noi1r/powerpoint-skill/) |
-| [Ayushmaniar/powerpoint-mcp](https://github.com/Ayushmaniar/powerpoint-mcp) | 124 | Open Source Model Context Protocol server for PowerPoint automation on Windows via pywin32 | [SAFE](https://agentskillshub.top/skill/Ayushmaniar/powerpoint-mcp/) |
-| [henryhyw/slidepoise](https://github.com/henryhyw/slidepoise) | 97 | Open-source agentic slide generation with free-form visual design and editable PowerPoint output. | [SAFE](https://agentskillshub.top/skill/henryhyw/slidepoise/) |
+| [knight6669/knight-imagetopptx-skill](https://github.com/knight6669/knight-imagetopptx-skill) | 138 | Semantic slide image to editable PPTX Codex skill | [SAFE](https://agentskillshub.top/skill/knight6669/knight-imagetopptx-skill/) |
+| [Noi1r/powerpoint-skill](https://github.com/Noi1r/powerpoint-skill) | 131 | AI coding assistant skill for creating visually rich PowerPoint (.pptx) presentations with native OMML math, LaTeX formulas, and Graphviz/Mermaid/Tik… | [SAFE](https://agentskillshub.top/skill/Noi1r/powerpoint-skill/) |
+| [Ayushmaniar/powerpoint-mcp](https://github.com/Ayushmaniar/powerpoint-mcp) | 125 | Open Source Model Context Protocol server for PowerPoint automation on Windows via pywin32 | [SAFE](https://agentskillshub.top/skill/Ayushmaniar/powerpoint-mcp/) |
+| [henryhyw/slidepoise](https://github.com/henryhyw/slidepoise) | 98 | Open-source agentic slide generation with free-form visual design and editable PowerPoint output. | [SAFE](https://agentskillshub.top/skill/henryhyw/slidepoise/) |
 | [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) | 94 | Convert HTML slide decks to truly editable PPT / .pptx - text stays native PowerPoint textboxes, not screenshots. Agent Skill (Claude Code / Cursor /… | [SAFE](https://agentskillshub.top/skill/Hasasasa/html-to-editable-pptx/) |
 | [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) | 91 | PPT Master Plus skill: editable PPTX generation, beautification, speaker notes, live preview, and templates | [SAFE](https://agentskillshub.top/skill/gnuhpc/ppt-master-plus/) |
-| [siril9/presentation-skill](https://github.com/siril9/presentation-skill) | 90 | MIT-licensed agent skill and Codex plugin for content-led, editable PowerPoint decks. Rebuild from JSON; native charts, tables, and rendered visual Q… | [SAFE](https://agentskillshub.top/skill/siril9/presentation-skill/) |
+| [siril9/presentation-skill](https://github.com/siril9/presentation-skill) | 91 | MIT-licensed agent skill and Codex plugin for content-led, editable PowerPoint decks. Rebuild from JSON; native charts, tables, and rendered visual Q… | [SAFE](https://agentskillshub.top/skill/siril9/presentation-skill/) |
+| [Arinin77/image2editable-ppt](https://github.com/Arinin77/image2editable-ppt) | 84 | A Codex skill that rebuilds images, diagrams and paper figures into element-level editable PowerPoint, with attributed examples and visual checks. | [SAFE](https://agentskillshub.top/skill/Arinin77/image2editable-ppt/) |
 | [ACTAshui/sjtu-ppt-template-skill](https://github.com/ACTAshui/sjtu-ppt-template-skill) | 83 | Codex skill for creating editable Shanghai Jiao Tong University style PowerPoint decks | [SAFE](https://agentskillshub.top/skill/ACTAshui/sjtu-ppt-template-skill/) |
 | [wiltonesten-web/codeximage-to-editable-ppt-v2-1](https://github.com/wiltonesten-web/codeximage-to-editable-ppt-v2-1) | 80 | 能将基于图片的 PPT/PPTX 幻灯片，精准还原为忠于原版的可编辑演示文稿。该技能支持语义化元素分离，生成可编辑的文本与原生形状，具备裁切与背景审查、渲染幻灯片质检，以及‘遇错即止’的交付验证功能。属于v2高精度版，搭配GPT6 Astra 轻度，效果足以。 | [CAUTION](https://agentskillshub.top/skill/wiltonesten-web/codeximage-to-editable-ppt-v2-1/) |
-| [Arinin77/image2editable-ppt](https://github.com/Arinin77/image2editable-ppt) | 71 | A Codex skill that rebuilds images, diagrams and paper figures into element-level editable PowerPoint, with attributed examples and visual checks. | [SAFE](https://agentskillshub.top/skill/Arinin77/image2editable-ppt/) |
 | [NeekChaw/mcp-server-okppt](https://github.com/NeekChaw/mcp-server-okppt) | 68 | 这个项目是一个基于MCP (Model Context Protocol) 的服务器工具，名为 "MCP OKPPT Server"。它的核心功能是允许大型语言模型（如Claude、GPT等）通过生成SVG图像来间接设计和创建PowerPoint演示文稿。工具负责将这些SVG图像高质量地插入到PP… | [SAFE](https://agentskillshub.top/skill/NeekChaw/mcp-server-okppt/) |
 | [DSY-Xueai/image2editable](https://github.com/DSY-Xueai/image2editable) | 60 | A skill tool for Codex and Claude Code that converts images, PDFs, and image-based PPTX files into editable PowerPoint presentations. | [SAFE](https://agentskillshub.top/skill/DSY-Xueai/image2editable/) |
 | [AIPMAndy/PPTskill](https://github.com/AIPMAndy/PPTskill) | 57 | AI 生成原生可编辑 PPTX 的 Skill：Claude Code/Codex/Cursor 一句话出 PPT，形状文字都能直接改｜AI PowerPoint generator (editable .pptx) | [CAUTION](https://agentskillshub.top/skill/AIPMAndy/PPTskill/) |
@@ -197,21 +199,21 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [opitaru-sys/deck-dna](https://github.com/opitaru-sys/deck-dna) | 47 | A Claude skill that builds PPTX decks matching your real designer decks: extracted design DNA, measured word budget, render-QA loop. | [SAFE](https://agentskillshub.top/skill/opitaru-sys/deck-dna/) |
 | [riteouschris-max/journal-club-ppt](https://github.com/riteouschris-max/journal-club-ppt) | 47 | Reusable skill for creating clear, evidence-based journal club presentations from research papers. | [SAFE](https://agentskillshub.top/skill/riteouschris-max/journal-club-ppt/) |
 | [kongzhecn/image-svg-pptx-pro-skill](https://github.com/kongzhecn/image-svg-pptx-pro-skill) | 39 |  | [SAFE](https://agentskillshub.top/skill/kongzhecn/image-svg-pptx-pro-skill/) |
-| [HututuWorks/sci-diagram-pptx](https://github.com/HututuWorks/sci-diagram-pptx) | 36 | Reconstruct scientific frameworks, mechanisms, and flow diagrams as native editable PowerPoint—with provenance-bound, fail-closed QA for Codex. | [CAUTION](https://agentskillshub.top/skill/HututuWorks/sci-diagram-pptx/) |
-| [ewkzcz/bili-2-ppt](https://github.com/ewkzcz/bili-2-ppt) | 35 | bili-2-ppt：这是一个可以把一条 B 站视频做成 PPT 等文档的 Skill。你只需提供一条 B 站视频链接，AI 可以帮你通过 PPT 还原出视频内容和原始画面 | [SAFE](https://agentskillshub.top/skill/ewkzcz/bili-2-ppt/) |
+| [HututuWorks/sci-diagram-pptx](https://github.com/HututuWorks/sci-diagram-pptx) | 37 | Reconstruct scientific frameworks, mechanisms, and flow diagrams as native editable PowerPoint—with provenance-bound, fail-closed QA for Codex. | [CAUTION](https://agentskillshub.top/skill/HututuWorks/sci-diagram-pptx/) |
+| [ewkzcz/bili-2-ppt](https://github.com/ewkzcz/bili-2-ppt) | 36 | bili-2-ppt：这是一个可以把一条 B 站视频做成 PPT 等文档的 Skill。你只需提供一条 B 站视频链接，AI 可以帮你通过 PPT 还原出视频内容和原始画面 | [SAFE](https://agentskillshub.top/skill/ewkzcz/bili-2-ppt/) |
 | [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) | 34 | The MCP Server for 2slides. AI agent for PPT/Presentation/Slides generation. | [SAFE](https://agentskillshub.top/skill/2slides/mcp-2slides/) |
 | [zairuilab/consulting-deck](https://github.com/zairuilab/consulting-deck) | 30 | Turn complex sources into evidence-traceable, layout-safe, natively editable McKinsey-style PowerPoint — 45 semantic page contracts and verified char… | [SAFE](https://agentskillshub.top/skill/zairuilab/consulting-deck/) |
 | [jiadizhunine/deepPPT](https://github.com/jiadizhunine/deepPPT) | 29 | Lightweight agent framework for research PowerPoint generation, editable PPTX delivery, and rendered QA | [CAUTION](https://agentskillshub.top/skill/jiadizhunine/deepPPT/) |
 | [liustack/pptwise](https://github.com/liustack/pptwise) | 27 | A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent skill + DSH plugin, no account… | [SAFE](https://agentskillshub.top/skill/liustack/pptwise/) |
 | [LearnAIHubC/LearnDeck](https://github.com/LearnAIHubC/LearnDeck) | 26 | LearnDeck: AI PPT generator for Codex that turns topics, notes, course material, and outlines into polished, editable PowerPoint decks. | [SAFE](https://agentskillshub.top/skill/LearnAIHubC/LearnDeck/) |
-| [ziqihe10-droid/shuike-pptskill](https://github.com/ziqihe10-droid/shuike-pptskill) | 25 | 水课PPT——大学生的救命稻草。给个课题，直接出双稿。明天要上台？忘了准备？小组甩锅？打开Claude Code说一句"帮我做个XX的PPT"，分分钟后桌面躺着presentation.pptx和speech.docx。图表自动生成，每页排版不重样，五种风格自动匹配，水课可以水 PPT不能水。 | [SAFE](https://agentskillshub.top/skill/ziqihe10-droid/shuike-pptskill/) |
+| [ziqihe10-droid/shuike-pptskill](https://github.com/ziqihe10-droid/shuike-pptskill) | 26 | 水课PPT——大学生的救命稻草。给个课题，直接出双稿。明天要上台？忘了准备？小组甩锅？打开Claude Code说一句"帮我做个XX的PPT"，分分钟后桌面躺着presentation.pptx和speech.docx。图表自动生成，每页排版不重样，五种风格自动匹配，水课可以水 PPT不能水。 | [SAFE](https://agentskillshub.top/skill/ziqihe10-droid/shuike-pptskill/) |
 | [Mr-Q526/PPTMaker-skill](https://github.com/Mr-Q526/PPTMaker-skill) | 24 | 根据一句话主题、Markdown 或已有文稿生成结构化 PPT，并支持自然语言修改页面与组件后导出为可编辑 PPT。适用于需要生成大纲、创建逐页布局、维护 deck.json、渲染 HTML 预览和导出 .pptx 的场景。 | [SAFE](https://agentskillshub.top/skill/Mr-Q526/PPTMaker-skill/) |
 | [zsc58/ustc-ppt-template](https://github.com/zsc58/ustc-ppt-template) | 21 | USTC 中国科学技术大学 蓝色学术 PPT 模版 \| 15页骨架 · 全套跳转导航 · LaTeX公式管线 · Claude Code skills | [UNSAFE](https://agentskillshub.top/skill/zsc58/ustc-ppt-template/) |
 | [gonta223/japanese-corporate-pptx-skill](https://github.com/gonta223/japanese-corporate-pptx-skill) | 20 |  | [SAFE](https://agentskillshub.top/skill/gonta223/japanese-corporate-pptx-skill/) |
 | [mathruffian-dot/soil-motion-deck](https://github.com/mathruffian-dot/soil-motion-deck) | 19 | SOIL 教學簡報 × 解說動畫：一次製作，產出關鍵頁嵌入動畫的 .pptx 與同內容的配音字幕解說影片（Claude Code skill） | [SAFE](https://agentskillshub.top/skill/mathruffian-dot/soil-motion-deck/) |
 | [mpuig/agent-slides](https://github.com/mpuig/agent-slides) | 17 | Agent skill for generating professional PowerPoint decks. 7 composable skills and a purpose-built CLI. | [SAFE](https://agentskillshub.top/skill/mpuig/agent-slides/) |
+| [ABYR1206/claude-skill-hand-drawn-slides](https://github.com/ABYR1206/claude-skill-hand-drawn-slides) | 14 | Claude Skill: generate hand-drawn doodle-style PowerPoint chapter divider slides — muted backgrounds, serif titles, 40-illustration SVG library | [SAFE](https://agentskillshub.top/skill/ABYR1206/claude-skill-hand-drawn-slides/) |
 | [fengting124/paper-figure-pptx-skill](https://github.com/fengting124/paper-figure-pptx-skill) | 14 | Codex skill for reconstructing academic paper figures into editable, LibreOffice-validated PPTX slides | [SAFE](https://agentskillshub.top/skill/fengting124/paper-figure-pptx-skill/) |
-| [ABYR1206/claude-skill-hand-drawn-slides](https://github.com/ABYR1206/claude-skill-hand-drawn-slides) | 13 | Claude Skill: generate hand-drawn doodle-style PowerPoint chapter divider slides — muted backgrounds, serif titles, 40-illustration SVG library | [SAFE](https://agentskillshub.top/skill/ABYR1206/claude-skill-hand-drawn-slides/) |
 | [algerchen2024/image-to-editable-pptx](https://github.com/algerchen2024/image-to-editable-pptx) | 13 | ChatGPT Skill + portable PageIR/PptxGenJS workflow for rebuilding flattened slide images into source-faithful editable PowerPoint files. | [SAFE](https://agentskillshub.top/skill/algerchen2024/image-to-editable-pptx/) |
 | [bvb6417/ppt-studio](https://github.com/bvb6417/ppt-studio) | 13 | 科研风AI-PPT，固化了claude的审美，参照了公开的美观科研风PPT排版 | [SAFE](https://agentskillshub.top/skill/bvb6417/ppt-studio/) |
 | [Changhooo/ppt-image-redraw-skill](https://github.com/Changhooo/ppt-image-redraw-skill) | 12 | Codex skill for fidelity-checked editable PowerPoint redraws from research figures | [SAFE](https://agentskillshub.top/skill/Changhooo/ppt-image-redraw-skill/) |
@@ -241,10 +243,12 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [JunfengRan/PPTWork](https://github.com/JunfengRan/PPTWork) | 5 | PPTWork has two portable Anthropic-style Skills for AI agents to plan, author, and export PowerPoint decks. Both work in OpenCode, Claude Code, Curso… | [SAFE](https://agentskillshub.top/skill/JunfengRan/PPTWork/) |
 | [Kevinyyy1/image-to-editable-pptx-v2](https://github.com/Kevinyyy1/image-to-editable-pptx-v2) | 5 | A Codex skill for reconstructing slide images as high-fidelity, native-editable PowerPoint files with scene decomposition and script-first QA. | [SAFE](https://agentskillshub.top/skill/Kevinyyy1/image-to-editable-pptx-v2/) |
 | [Liuguanyi2125/editable-pptx-skill](https://github.com/Liuguanyi2125/editable-pptx-skill) | 5 | 生成分层可编辑 PowerPoint 的 Codex/Claude skill 和 Node.js 工具集 | [SAFE](https://agentskillshub.top/skill/Liuguanyi2125/editable-pptx-skill/) |
+| [PeterKalmstrom/claude-powerpoint-skill](https://github.com/PeterKalmstrom/claude-powerpoint-skill) | 5 | Claude Code skill for building production-quality PowerPoint decks on Windows via MCP + COM automation | [SAFE](https://agentskillshub.top/skill/PeterKalmstrom/claude-powerpoint-skill/) |
 | [chenyu896235554-boop/lapian-storyboard](https://github.com/chenyu896235554-boop/lapian-storyboard) | 5 | Codex skill：视频拉片、分镜抽帧和横版故事板 PPT 生成 | [SAFE](https://agentskillshub.top/skill/chenyu896235554-boop/lapian-storyboard/) |
 | [concertoy/glissando](https://github.com/concertoy/glissando) | 5 | Slide decks as code, built for AI agents. | [SAFE](https://agentskillshub.top/skill/concertoy/glissando/) |
 | [gtoxlili/deckforge](https://github.com/gtoxlili/deckforge) | 5 | deckforge — agent 可自行安装调用的 PPT 生成 CLI | [UNSAFE](https://agentskillshub.top/skill/gtoxlili/deckforge/) |
 | [qianmo-qp/zjlab-academic-pptx-sklls](https://github.com/qianmo-qp/zjlab-academic-pptx-sklls) | 5 | 用于生成实验室技术或学术汇报PPTX的SKILLS | [SAFE](https://agentskillshub.top/skill/qianmo-qp/zjlab-academic-pptx-sklls/) |
+| [pptx](https://github.com/anthropics/skills/tree/HEAD/skills/pptx) | in anthropics/skills: 187.0k | Anthropic's own PowerPoint skill, from anthropics/skills: creates, reads and edits .pptx and .potx files, including templates, layouts, speaker notes… | [SAFE](https://agentskillshub.top/skill/anthropics/skills/) |
 
 <a id="type-image"></a>
 ## 🖼 Image-first decks
@@ -280,11 +284,11 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31.7k | Create beautiful slides on the web using a coding agent's frontend skills | [SAFE](https://agentskillshub.top/skill/zarazhangrui/frontend-slides/) |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31.8k | Create beautiful slides on the web using a coding agent's frontend skills | [SAFE](https://agentskillshub.top/skill/zarazhangrui/frontend-slides/) |
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 29.2k | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power pr… | [SAFE](https://agentskillshub.top/skill/op7418/guizang-ppt-skill/) |
 | [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 9.0k | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations | [SAFE](https://agentskillshub.top/skill/lewislulu/html-ppt-skill/) |
 | [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 547 | Editable HTML presentation skill for Codex/Claude Code with drag-resize editing, slide reordering, local save/export, and PPTX-to-web conversion. Sho… | [SAFE](https://agentskillshub.top/skill/archlizheng/frontend-slides-editable/) |
-| [ryanbbrown/revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 417 | Coding agent skill for making reveal.js presentations | [SAFE](https://agentskillshub.top/skill/ryanbbrown/revealjs-skill/) |
+| [ryanbbrown/revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 419 | Coding agent skill for making reveal.js presentations | [SAFE](https://agentskillshub.top/skill/ryanbbrown/revealjs-skill/) |
 | [robonuggets/marp-slides](https://github.com/robonuggets/marp-slides) | 332 | MARP presentation skill for Claude Code — 22 curated example decks, SVG charts, dark/light themes, dashboard components | [SAFE](https://agentskillshub.top/skill/robonuggets/marp-slides/) |
 | [mujingquan835/Dawang-ppt](https://github.com/mujingquan835/Dawang-ppt) | 192 | Dawang-PPT：内容驱动的中文演示技能，融合场景规划、风格构图、浏览器编辑与本地可编辑 PPTX 导出（实验版） | [SAFE](https://agentskillshub.top/skill/mujingquan835/Dawang-ppt/) |
 | [daniel-style/magic-slide](https://github.com/daniel-style/magic-slide) | 172 | A skill that generates polished self-contained HTML presentations with smooth Magic Move-style slide transitions. | [SAFE](https://agentskillshub.top/skill/daniel-style/magic-slide/) |
@@ -319,16 +323,16 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [caikankan/cyberbin-ppt-skill](https://github.com/caikankan/cyberbin-ppt-skill) | 14 | CyberBin PPT Skill for generating local HTML slide decks | [SAFE](https://agentskillshub.top/skill/caikankan/cyberbin-ppt-skill/) |
 | [andyluu98/slidefly](https://github.com/andyluu98/slidefly) | 13 | SlideFly: slide biết bay. Claude Code skill for single-file HTML decks with PowerPoint-Morph-like transitions, 47 styles, Vietnamese-ready | [SAFE](https://agentskillshub.top/skill/andyluu98/slidefly/) |
 | [andyqiu847-ai/high-quality-slides](https://github.com/andyqiu847-ai/high-quality-slides) | 13 | A Claude Code skill that produces presentations worth sending — research-first, narrative-driven 5-phase workflow inspired by Genspark AI Slides. | [SAFE](https://agentskillshub.top/skill/andyqiu847-ai/high-quality-slides/) |
+| [tjxj/dsh-wanghong-handwritten-ppt](https://github.com/tjxj/dsh-wanghong-handwritten-ppt) | 13 | 王虹学术手写风 PPT Skill for DeepSeek Harness · Notability-style HTML slides and PNG export | [SAFE](https://agentskillshub.top/skill/tjxj/dsh-wanghong-handwritten-ppt/) |
 | [icytra/fudan-html-ppt-template](https://github.com/icytra/fudan-html-ppt-template) | 12 | 复旦大学PPT模版skill | [SAFE](https://agentskillshub.top/skill/icytra/fudan-html-ppt-template/) |
 | [lainshao/modern-ppt](https://github.com/lainshao/modern-ppt) | 12 | Agent Skill for polished single-file HTML presentations / 现代投屏网页 PPT：12 layouts, 3 themes, interactive charts and motion; works with Claude Code, Cod… | [SAFE](https://agentskillshub.top/skill/lainshao/modern-ppt/) |
 | [lanceli93/aws-html-slides](https://github.com/lanceli93/aws-html-slides) | 12 | An agent skill for creating animation-rich HTML presentations from scratch or by converting PowerPoint files | [SAFE](https://agentskillshub.top/skill/lanceli93/aws-html-slides/) |
-| [tjxj/dsh-wanghong-handwritten-ppt](https://github.com/tjxj/dsh-wanghong-handwritten-ppt) | 12 | 王虹学术手写风 PPT Skill for DeepSeek Harness · Notability-style HTML slides and PNG export | [SAFE](https://agentskillshub.top/skill/tjxj/dsh-wanghong-handwritten-ppt/) |
 | [Watermelon4000/sketch-note-ppt](https://github.com/Watermelon4000/sketch-note-ppt) | 11 | AI skill that turns 'make a PPT about X' into a Sketch Notes–style deck: one self-contained HTML file, no build step. | [SAFE](https://agentskillshub.top/skill/Watermelon4000/sketch-note-ppt/) |
 | [alingowangxr/guizang-ppt-skill](https://github.com/alingowangxr/guizang-ppt-skill) | 11 | 歸藏 PPT Skill：網頁 PPT / 配圖 / 常用社群平台封面生成（支援繁簡中文） | [SAFE](https://agentskillshub.top/skill/alingowangxr/guizang-ppt-skill/) |
 | [cogine-ai/ai-slide-templates](https://github.com/cogine-ai/ai-slide-templates) | 11 | Self-contained HTML slide templates with metadata and AGENTS.md instructions for AI agents to create finished presentation decks. | [SAFE](https://agentskillshub.top/skill/cogine-ai/ai-slide-templates/) |
-| [thmsgo18/presentation-forge](https://github.com/thmsgo18/presentation-forge) | 11 | Portable Claude skill to build beautiful, self-contained HTML presentations: author slides and import brand themes (PowerPoint, image, or description… | [SAFE](https://agentskillshub.top/skill/thmsgo18/presentation-forge/) |
 | [Chris-yoo80/ppt-to-html-agent](https://github.com/Chris-yoo80/ppt-to-html-agent) | 10 | Excel & PPT to interactive HTML: presentations, analysis, charts, slicers and video-like motion. Agent skill for Claude Code and Codex. | [SAFE](https://agentskillshub.top/skill/Chris-yoo80/ppt-to-html-agent/) |
 | [RDDcat/maro-ppt](https://github.com/RDDcat/maro-ppt) | 10 | 몸값 올리는 PPT 제작 스킬 — 인터뷰로 받아 설득 구조로 펼치는 단일 HTML 발표 덱 (Claude Code skill) | [SAFE](https://agentskillshub.top/skill/RDDcat/maro-ppt/) |
+| [thmsgo18/presentation-forge](https://github.com/thmsgo18/presentation-forge) | 10 | Portable Claude skill to build beautiful, self-contained HTML presentations: author slides and import brand themes (PowerPoint, image, or description… | [SAFE](https://agentskillshub.top/skill/thmsgo18/presentation-forge/) |
 | [w1ndys/html-ppt-academic-skill](https://github.com/w1ndys/html-ppt-academic-skill) | 10 | 一个面向大学生、研究生和高校教师的 HTML PPT Skill，用于生成论文答辩、开题报告、中期答辩、预答辩、组会汇报和学术演讲风格的静态 HTML 幻灯片。 | [SAFE](https://agentskillshub.top/skill/w1ndys/html-ppt-academic-skill/) |
 | [alfredo-hs/quarto-talks](https://github.com/alfredo-hs/quarto-talks) | 9 | An agentic skill for making RevealJS slides with Quarto | [SAFE](https://agentskillshub.top/skill/alfredo-hs/quarto-talks/) |
 | [embabel/decker](https://github.com/embabel/decker) | 9 | Agent to create slide decks | [SAFE](https://agentskillshub.top/skill/embabel/decker/) |
@@ -342,10 +346,11 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [VangelisHaha/deck-stage](https://github.com/VangelisHaha/deck-stage) | 6 | 让 Agent 写演示稿，让放映像发布会：HTML 演示稿的 macOS 放映壳（双屏、演讲者视图、手机遥控、投屏友好） | [SAFE](https://agentskillshub.top/skill/VangelisHaha/deck-stage/) |
 | [alohays/paper2pr](https://github.com/alohays/paper2pr) | 6 | AI/ML Paper → Presentation-ready Beamer + Quarto slides via Claude Code multi-agent workflow | [SAFE](https://agentskillshub.top/skill/alohays/paper2pr/) |
 | [ancarmona/keystone](https://github.com/ancarmona/keystone) | 6 | Local HTML deck tool for technical talks: presenter, editor, style library, feedback sessions with Claude Code, publishing | [SAFE](https://agentskillshub.top/skill/ancarmona/keystone/) |
-| [calumhrmurray/lectern](https://github.com/calumhrmurray/lectern) | 6 | Visual drag-and-drop editor for AI-generated slide decks. Ask Claude, ChatGPT or any coding agent for a presentation, then fix the layout yourself —… | [SAFE](https://agentskillshub.top/skill/calumhrmurray/lectern/) |
 | [Codagent-AI/and-scene](https://github.com/Codagent-AI/and-scene) | 5 | An Agent Skill that builds animated, morphing slide presentations | [SAFE](https://agentskillshub.top/skill/Codagent-AI/and-scene/) |
+| [calumhrmurray/lectern](https://github.com/calumhrmurray/lectern) | 5 | Visual drag-and-drop editor for AI-generated slide decks. Ask Claude, ChatGPT or any coding agent for a presentation, then fix the layout yourself —… | [SAFE](https://agentskillshub.top/skill/calumhrmurray/lectern/) |
 | [chengzi2333/html-report-skill](https://github.com/chengzi2333/html-report-skill) | 5 | Agent Skill for turning Markdown and PowerPoint into polished, interactive, browser-ready HTML reports.将 Markdown 与 PPT 转为精美、可交互、浏览器即开的 HTML 汇报的 Agen… | [SAFE](https://agentskillshub.top/skill/chengzi2333/html-report-skill/) |
 | [cskwork/pptx-to-html-updated](https://github.com/cskwork/pptx-to-html-updated) | 5 | Convert PowerPoint .pptx into faithful HTML bundles - live Chart.js charts, SVG shapes, embedded fonts, animations. Python agent skill. | [SAFE](https://agentskillshub.top/skill/cskwork/pptx-to-html-updated/) |
+| [grunion-ai/decklet](https://github.com/grunion-ai/decklet) | 5 | AI slide generator for coding agents: a Claude Code and Codex skill plus CLI that turns any content into one self-contained, editable HTML slide deck… | [SAFE](https://agentskillshub.top/skill/grunion-ai/decklet/) |
 | [joelbarmettlerUZH/slidev-mcp](https://github.com/joelbarmettlerUZH/slidev-mcp) | 5 | MCP server for generating, rendering, and hosting Slidev presentations | [SAFE](https://agentskillshub.top/skill/joelbarmettlerUZH/slidev-mcp/) |
 | [sharptoolbox/code-walkthrough-ppt-video](https://github.com/sharptoolbox/code-walkthrough-ppt-video) | 5 | 基于源代码生成产品讲解 HTML PPT 或中文讲解视频的 Agent Skill | [SAFE](https://agentskillshub.top/skill/sharptoolbox/code-walkthrough-ppt-video/) |
 | [tanglele110-hash/zhongguose-ppt-skill](https://github.com/tanglele110-hash/zhongguose-ppt-skill) | 5 | 中国色汇报演示 Agent Skill | [SAFE](https://agentskillshub.top/skill/tanglele110-hash/zhongguose-ppt-skill/) |
@@ -365,10 +370,10 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
 | [carnot-tech/jinba-consulting-pptx-skill](https://github.com/carnot-tech/jinba-consulting-pptx-skill) | 1.5k | AIにまじなPPTXを作らせる Claude Code / Codex スキル | [SAFE](https://agentskillshub.top/skill/carnot-tech/jinba-consulting-pptx-skill/) |
-| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 533 | Consulting deck skill with editable options for Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
-| [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 328 | Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。 | [SAFE](https://agentskillshub.top/skill/likaku/Mck-ppt-design-skill/) |
+| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 537 | Consulting deck skill with editable options for Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
+| [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 329 | Consulting firm-style PowerPoint design system for AI agents. 70 layout patterns, flat design, python-pptx. 麦麸风格PPT设计系统。 | [SAFE](https://agentskillshub.top/skill/likaku/Mck-ppt-design-skill/) |
 | [Ronnie2025/codex-ppt-skill](https://github.com/Ronnie2025/codex-ppt-skill) | 222 | 面向中文 toB 商业汇报的 Codex PPT 生图、元素重组与 SVG 拆解工作流 | [SAFE](https://agentskillshub.top/skill/Ronnie2025/codex-ppt-skill/) |
-| [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 163 | Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation. | [SAFE](https://agentskillshub.top/skill/kgraph57/mckinsey-style-visualization-skill/) |
+| [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 164 | Agent Skill that turns messy notes into rendered strategy-consulting visuals, with SVG examples and validation. | [SAFE](https://agentskillshub.top/skill/kgraph57/mckinsey-style-visualization-skill/) |
 | [SenseTime-Copilot/raccoon-ppt-skill](https://github.com/SenseTime-Copilot/raccoon-ppt-skill) | 148 |  | [SAFE](https://agentskillshub.top/skill/SenseTime-Copilot/raccoon-ppt-skill/) |
 | [kimsh-1/deck-factory](https://github.com/kimsh-1/deck-factory) | 78 | One line of intent → a presentation-grade, dark-editorial HTML deck. A Claude Code skill. | [SAFE](https://agentskillshub.top/skill/kimsh-1/deck-factory/) |
 | [abxxvrv/spacex-ppt-skill](https://github.com/abxxvrv/spacex-ppt-skill) | 33 |  | [SAFE](https://agentskillshub.top/skill/abxxvrv/spacex-ppt-skill/) |
@@ -394,19 +399,19 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 
 | Repo | Stars | What it does | Security |
 |---|---:|---|---|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 72.6k | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on dema… | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/) |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 73.0k | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on dema… | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/) |
 | [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.3k | An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX. | [SAFE](https://agentskillshub.top/skill/chuspeeism/dashi-ppt-skill/) |
 | [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) | 3.3k | NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放 | [CAUTION](https://agentskillshub.top/skill/op7418/NanoBanana-PPT-Skills/) |
-| [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1.8k | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 | [SAFE](https://agentskillshub.top/skill/crazyykhllc-bit/CyberPPT/) |
+| [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1.9k | 一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 | [SAFE](https://agentskillshub.top/skill/crazyykhllc-bit/CyberPPT/) |
 | [Gabberflast/academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1.4k | A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, stru… | [SAFE](https://agentskillshub.top/skill/Gabberflast/academic-pptx-skill/) |
 | [irenerachel/visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 395 | 【Skill】视觉风格 PPT 生成工作流 | [SAFE](https://agentskillshub.top/skill/irenerachel/visual-style-ppt-skill/) |
 | [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) | 370 | A Claude Code skill for creating, compiling, reviewing, and polishing academic Beamer LaTeX presentations. Full lifecycle workflow with quality scori… | [SAFE](https://agentskillshub.top/skill/Noi1r/beamer-skill/) |
 | [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 328 | 一键从论文生成高质量学术答辩PPT \| AI-powered thesis defense slides generator \| Claude Code & Codex Skill | [SAFE](https://agentskillshub.top/skill/Faust-Donf/beamer-academic/) |
-| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 288 | Turn papers into editable academic PPTX decks | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/) |
+| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 291 | Turn papers into editable academic PPTX decks | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/) |
 | [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) | 262 | ppt-svg-generator 是一个 Skill，帮助你将 Markdown 文稿快速转化PPT 或 PDF，并支持多种预设风格选择，效果美观且可控。 使用流程参考公众号：懂点儿 AI 👇 | [SAFE](https://agentskillshub.top/skill/vigorX777/ppt-svg-generator/) |
-| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 180 | 视觉优先的 AI PPT Skill｜竞赛答辩与路演：挑战杯（大挑/小挑）、创新大赛、计算机设计、软件杯、集创赛、机创赛、化工设计、结构设计、交科赛、三创赛、正大杯、MPA/MPAcc 案例赛、iGEM、教学创新大赛、世校赛等｜含数模校内与省赛答辩｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/) |
+| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 184 | 视觉优先的 AI PPT Skill｜竞赛答辩与路演：挑战杯（大挑/小挑）、创新大赛、计算机设计、软件杯、集创赛、机创赛、化工设计、结构设计、交科赛、三创赛、正大杯、MPA/MPAcc 案例赛、iGEM、教学创新大赛、世校赛等｜含数模校内与省赛答辩｜4 套风格 → 高质量幻灯片 → 可编辑 PPTX | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/) |
 | [fangyuanopus/literature-report-ppt-builder](https://github.com/fangyuanopus/literature-report-ppt-builder) | 121 | Open-source Codex skill for academic literature-report PPT generation | [SAFE](https://agentskillshub.top/skill/fangyuanopus/literature-report-ppt-builder/) |
-| [deathcats4/scholar-ppt-cn](https://github.com/deathcats4/scholar-ppt-cn) | 57 | AI academic PPT workflow skill for Codex / ChatGPT: paper-to-editable PowerPoint, planning table, mockup family, and PPTX generation. | [SAFE](https://agentskillshub.top/skill/deathcats4/scholar-ppt-cn/) |
+| [deathcats4/scholar-ppt-cn](https://github.com/deathcats4/scholar-ppt-cn) | 58 | AI academic PPT workflow skill for Codex / ChatGPT: paper-to-editable PowerPoint, planning table, mockup family, and PPTX generation. | [SAFE](https://agentskillshub.top/skill/deathcats4/scholar-ppt-cn/) |
 | [joeseesun/qiaomu-ppt](https://github.com/joeseesun/qiaomu-ppt) | 37 | 中文优先的 PPT 生成工作流：URL/PDF/NotebookLM/HTML Deck 到可编辑、可验证演示文稿 \| Chinese-first source-to-slide workflow. | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-ppt/) |
 | [hanlulong/econ-slides-skill](https://github.com/hanlulong/econ-slides-skill) | 26 | Turn an economics paper into a seminar-ready Beamer talk with a timed speaker script — conference, job-market and discussant slides. Agent Skill for… | [SAFE](https://agentskillshub.top/skill/hanlulong/econ-slides-skill/) |
 | [icgma/slide-skill](https://github.com/icgma/slide-skill) | 14 | SVG-first slide generation toolkit with intelligent content planning and domain-specific layouts | [SAFE](https://agentskillshub.top/skill/icgma/slide-skill/) |
@@ -419,12 +424,13 @@ On 2026-10-07 we ran 31 of these skills and 27 ran: each built a deck from the s
 | [FA-T-T/codex-skill-academic-slides](https://github.com/FA-T-T/codex-skill-academic-slides) | 8 | Codex skill for academic slides, posters, proofsheets, and architecture diagrams via GPT Image 2 | [SAFE](https://agentskillshub.top/skill/FA-T-T/codex-skill-academic-slides/) |
 | [SkillMelody/PPT-Smith](https://github.com/SkillMelody/PPT-Smith) | 8 | MeowClaw PPT Smith — model-agnostic presentation compiler skill | [SAFE](https://agentskillshub.top/skill/SkillMelody/PPT-Smith/) |
 | [ficooooo/Paper2ScholarSlides](https://github.com/ficooooo/Paper2ScholarSlides) | 8 | 面向学术综述的高质量 PPT 生成 Skill，可将综述初稿、论文资料与模板转化为结构严谨、引用清晰、图表公式可解释、并经过导出校验的学术汇报稿。 | [SAFE](https://agentskillshub.top/skill/ficooooo/Paper2ScholarSlides/) |
+| [codezzzsleep/research-ppt-skill](https://github.com/codezzzsleep/research-ppt-skill) | 6 | 研究组风格中文学术汇报 PPT Skill（Agent Skill）：论文精读 / 文献汇报 / 组会汇报 / 综述，生成 .pptx，含排版库与渲染检查 | [SAFE](https://agentskillshub.top/skill/codezzzsleep/research-ppt-skill/) |
 | [demoolight/academic-image-ppt](https://github.com/demoolight/academic-image-ppt) | 6 | Codex Skill for generating academic image-based PPT decks. | [SAFE](https://agentskillshub.top/skill/demoolight/academic-image-ppt/) |
 | [smallSheep123/paper-skills](https://github.com/smallSheep123/paper-skills) | 6 | 学术组会汇报 PPT 的 agent skills | [SAFE](https://agentskillshub.top/skill/smallSheep123/paper-skills/) |
 | [sujunmin/agy-ppt](https://github.com/sujunmin/agy-ppt) | 6 | Turn reports into PowerPoint decks without the AI-slop look. An agent skill purpose-built for the Antigravity + Kiro + Codex pipeline — GPT-image ren… | [SAFE](https://agentskillshub.top/skill/sujunmin/agy-ppt/) |
 | [2654400439/Paper2Seminar](https://github.com/2654400439/Paper2Seminar) | 5 | An Agent Skill for turning research papers into complete, editable, seminar-ready PPTX decks. | [SAFE](https://agentskillshub.top/skill/2654400439/Paper2Seminar/) |
 | [MURMURE11118586/codex-xkppt-skill](https://github.com/MURMURE11118586/codex-xkppt-skill) | 5 | codex-ppt-skill 是一个面向 Codex 的 PPT 制作 Skill，支持从主题、文档、PDF、Markdown 或已有 PPT 生成可编辑演示文稿，并提供参考风格、单页修改、模板套用、PDF/PNG 导出和 QA 检查流程。 | [SAFE](https://agentskillshub.top/skill/MURMURE11118586/codex-xkppt-skill/) |
-| [codezzzsleep/research-ppt-skill](https://github.com/codezzzsleep/research-ppt-skill) | 5 | 研究组风格中文学术汇报 PPT Skill（Agent Skill）：论文精读 / 文献汇报 / 组会汇报 / 综述，生成 .pptx，含排版库与渲染检查 | [SAFE](https://agentskillshub.top/skill/codezzzsleep/research-ppt-skill/) |
+| [MaximeRumpler/Make_PPTX](https://github.com/MaximeRumpler/Make_PPTX) | 5 | Make PPTX: agent skills that turn your notes into a finished PowerPoint deck. Make Clean PPTX for the form; Make Style PPTX for the look and Make Col… | [*pending*](https://agentskillshub.top/skill/MaximeRumpler/Make_PPTX/) |
 
 **Security** is the grade of the repo's README and install steps on Agent Skills Hub. *pending* means the catalog has not graded it yet.
 
@@ -440,4 +446,4 @@ Open an issue with the GitHub URL. It goes through the same review as every entr
 
 ---
 
-Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-11-02.
+Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-11-03.

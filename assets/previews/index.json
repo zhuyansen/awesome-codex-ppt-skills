@@ -289,6 +289,16 @@
   "file": "NyxTides__ppt-image-first.jpg",
   "still": "NyxTides__ppt-image-first.jpg"
  },
+ "PeterKalmstrom/claude-powerpoint-skill": {
+  "repo": "PeterKalmstrom/claude-powerpoint-skill",
+  "url": "https://raw.githubusercontent.com/PeterKalmstrom/claude-powerpoint-skill/HEAD/examples/powerpoint-live.gif",
+  "alt": "PowerPoint Live: change highlights, before/after, lint checks, sorter, storyline",
+  "score": 2.9,
+  "type": "image/gif",
+  "bytes": 446644,
+  "file": "PeterKalmstrom__claude-powerpoint-skill.gif",
+  "still": "PeterKalmstrom__claude-powerpoint-skill.jpg"
+ },
  "Pikapika260214/rw-consulting-ppt": {
   "repo": "Pikapika260214/rw-consulting-ppt",
   "url": "https://raw.githubusercontent.com/Pikapika260214/rw-consulting-ppt/HEAD/skills/rw-consulting-ppt/assets/readme-hero.png",
@@ -679,6 +689,16 @@
   "file": "gonta223__japanese-corporate-pptx-skill.jpg",
   "still": "gonta223__japanese-corporate-pptx-skill.jpg"
  },
+ "grunion-ai/decklet": {
+  "repo": "grunion-ai/decklet",
+  "url": "https://raw.githubusercontent.com/grunion-ai/decklet/HEAD/brand/assets/decklet-loader-light.gif",
+  "alt": "",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 36296,
+  "file": "grunion-ai__decklet.gif",
+  "still": "grunion-ai__decklet.jpg"
+ },
  "hanlulong/econ-slides-skill": {
   "repo": "hanlulong/econ-slides-skill",
   "url": "https://raw.githubusercontent.com/hanlulong/econ-slides-skill/HEAD/docs/images/sample-punchline.png",
@@ -1058,6 +1078,16 @@
   "bytes": 56470,
   "file": "tanglele110-hash__zhongguose-ppt-skill.jpg",
   "still": "tanglele110-hash__zhongguose-ppt-skill.jpg"
+ },
+ "taufiquebuilds/nopurple": {
+  "repo": "taufiquebuilds/nopurple",
+  "url": "https://raw.githubusercontent.com/taufiquebuilds/nopurple/HEAD/docs/themes.png",
+  "alt": "Six themes: paper, ink, swiss, forest, sand and mono",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 163366,
+  "file": "taufiquebuilds__nopurple.jpg",
+  "still": "taufiquebuilds__nopurple.jpg"
  },
  "theolundqvist/justshowme": {
   "repo": "theolundqvist/justshowme",
