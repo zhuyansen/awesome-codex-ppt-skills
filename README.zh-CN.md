@@ -123,7 +123,7 @@
 | [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) | 652 | 渐进式交互式 PPT 生成 skill | [SAFE](https://agentskillshub.top/skill/mucsbr/ppt-agent-workflow-san/) |
 | [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills) | 642 | 138个双语AI营销skill（69越南+69全球），适用于Claude Code、OpenCode、Codex、VS Code；含4类角色SOP及策略等。配… | [SAFE](https://agentskillshub.top/skill/minhnv0807/ai-business-skills/) |
 | [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) | 413 | 用于用 Marp 制作演讲幻灯片的故事、图示、设计平衡技能集，以及黑色背景主题和检查工具 | [SAFE](https://agentskillshub.top/skill/minorun365/minorun-marp-skill/) |
-| [rsrohan99/presenter](https://github.com/rsrohan99/presenter) | 186 | 多智能体 AI 工具，可创建带配音的演示文稿 | [SAFE](https://agentskillshub.top/skill/rsrohan99/presenter/) |
+| [rsrohan99/presenter](https://github.com/rsrohan99/presenter) | 187 | 多智能体 AI 工具，可创建带配音的演示文稿 | [SAFE](https://agentskillshub.top/skill/rsrohan99/presenter/) |
 | [Sven-LI-sankyuu/presentation-skills](https://github.com/Sven-LI-sankyuu/presentation-skills) | 178 | Codex CLI 的演示工作流 skill 集合，涵盖可编辑 PPT 图示协作和网页 demo 视频合成。 | [SAFE](https://agentskillshub.top/skill/Sven-LI-sankyuu/presentation-skills/) |
 | [StarryKit/starry-slides](https://github.com/StarryKit/starry-slides) | 102 | AI 幻灯片与演示文稿编辑器。Agent 幻灯片与演示文稿 skill。HTML 编辑器。 | [SAFE](https://agentskillshub.top/skill/StarryKit/starry-slides/) |
 | [gnipbao/knowledge-cat-ppt-skill](https://github.com/gnipbao/knowledge-cat-ppt-skill) | 94 | 以故事为先的 Agent skill，用于创建、路由和质检 PPT、HTML 及图像优先的演示文稿 | [SAFE](https://agentskillshub.top/skill/gnipbao/knowledge-cat-ppt-skill/) |
@@ -140,10 +140,10 @@
 | [xukp20/build-beamer-slides](https://github.com/xukp20/build-beamer-slides) | 8 | 用于设计、渲染和视觉审查 Beamer 幻灯片的 Codex skill。 | [SAFE](https://agentskillshub.top/skill/xukp20/build-beamer-slides/) |
 | [chunyifish/soil-teaching-slides](https://github.com/chunyifish/soil-teaching-slides) | 6 | SOIL 风格教学幻灯片 skill，适用于 PPTX、NotebookLM 和离线 HTML 演示文稿 | [SAFE](https://agentskillshub.top/skill/chunyifish/soil-teaching-slides/) |
 | [nugrahalabib/AgentBuff-Presentation-Skills](https://github.com/nugrahalabib/AgentBuff-Presentation-Skills) | 6 | 通用 skill：创建演示文稿并导出为 HTML、PDF、PNG/JPG 或 PPTX（像素级一致），支持 Claude Code、Codex、Hermes… | [SAFE](https://agentskillshub.top/skill/nugrahalabib/AgentBuff-Presentation-Skills/) |
+| [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | 6 | 像人设计而非 AI 生成的幻灯片和图表。适用于 Claude Code、Codex 和 Cursor 的 agent skill。 | [SAFE](https://agentskillshub.top/skill/taufiquebuilds/nopurple/) |
 | [dingjq1216/PPT-Knowledge-Skill](https://github.com/dingjq1216/PPT-Knowledge-Skill) | 5 | PPT-Knowledge-Skill：ppt-illustrator 用 python-pptx 生成可编辑 PPTX，含四角色流程。 | [SAFE](https://agentskillshub.top/skill/dingjq1216/PPT-Knowledge-Skill/) |
 | [josezuma/yc-pitch-deck-max](https://github.com/josezuma/yc-pitch-deck-max) | 5 | The super-skill for startup pitch decks. Combines YC content frameworks, 30+ design styles, PPTX/HTML/Marp output, investor intelligence, and deck an… | [SAFE](https://agentskillshub.top/skill/josezuma/yc-pitch-deck-max/) |
 | [kiselas/every-slide-is-code](https://github.com/kiselas/every-slide-is-code) | 5 | Claude Code、Codex 和 ChatGPT 的 Agent Skill：以单个 HTML 文件生成演示文稿，支持图表、图示、转场、演讲者视图及 P… | [SAFE](https://agentskillshub.top/skill/kiselas/every-slide-is-code/) |
-| [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | 5 | 像人设计而非 AI 生成的幻灯片和图表。适用于 Claude Code、Codex 和 Cursor 的 agent skill。 | [SAFE](https://agentskillshub.top/skill/taufiquebuilds/nopurple/) |
 
 <a id="type-pptx"></a>
 ## 📝 可编辑 PPTX
@@ -166,43 +166,43 @@
 | [johnson7788/MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT) | 1.6k | MultiAgentPPT 是集成 A2A、MCP 和 ADK 架构的演示文稿生成系统，支持多智能体协作和流式并发。 | [SAFE](https://agentskillshub.top/skill/johnson7788/MultiAgentPPT/) |
 | [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) | 1.4k | 将任意 .pptx 复刻为自己的演示文稿：OpenAI gpt-image-2 模仿版式，你提供内容。含 10 套风格。Claude Code / OpenC… | [SAFE](https://agentskillshub.top/skill/JuneYaooo/gpt-image2-ppt-skills/) |
 | [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills) | 919 | 代码驱动的演示文稿生成框架，像构建软件工程一样生成演示文稿。 | [SAFE](https://agentskillshub.top/skill/sunbigfly/ppt-agent-skills/) |
-| [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) | 648 | 在 Codex / Claude Code 中，将论文、代码和文档转为可演示、原生可编辑的 PPTX，支持原生图表、公式、演讲者备注、点击构建动画，并经独立… | [SAFE](https://agentskillshub.top/skill/addsumtech/slides_maker/) |
-| [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 477 | 面向 OpenCode/Claude Code/Codex 的 PPT 设计 skill，支持 Build Mode、AI 生图和可编辑 PPTX，涵盖需求分… | [SAFE](https://agentskillshub.top/skill/sunchaokun/PPT-Design-Skill/) |
+| [addsumtech/slides_maker](https://github.com/addsumtech/slides_maker) | 649 | 在 Codex / Claude Code 中，将论文、代码和文档转为可演示、原生可编辑的 PPTX，支持原生图表、公式、演讲者备注、点击构建动画，并经独立… | [SAFE](https://agentskillshub.top/skill/addsumtech/slides_maker/) |
+| [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 479 | 面向 OpenCode/Claude Code/Codex 的 PPT 设计 skill，支持 Build Mode、AI 生图和可编辑 PPTX，涵盖需求分… | [SAFE](https://agentskillshub.top/skill/sunchaokun/PPT-Design-Skill/) |
 | [AI272/speaker](https://github.com/AI272/speaker) | 474 | Speaker 是学术演示 Codex skill：读取 real.pptx，结合文本提取、PPTX解析、逐页渲染、OCR和视觉检查生成讲稿，并写入Power… | [SAFE](https://agentskillshub.top/skill/AI272/speaker/) |
-| [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | 447 | 生成和美化可编辑原生 PPT 的 Agent Skill | [SAFE](https://agentskillshub.top/skill/zhouwei713/luobo-ppt/) |
-| [barun-saha/slide-deck-ai](https://github.com/barun-saha/slide-deck-ai) | 377 | 与 AI 协作制作 PowerPoint 幻灯片演示文稿 | [SAFE](https://agentskillshub.top/skill/barun-saha/slide-deck-ai/) |
+| [zhouwei713/luobo-ppt](https://github.com/zhouwei713/luobo-ppt) | 450 | 生成和美化可编辑原生 PPT 的 Agent Skill | [SAFE](https://agentskillshub.top/skill/zhouwei713/luobo-ppt/) |
+| [barun-saha/slide-deck-ai](https://github.com/barun-saha/slide-deck-ai) | 378 | 与 AI 协作制作 PowerPoint 幻灯片演示文稿 | [SAFE](https://agentskillshub.top/skill/barun-saha/slide-deck-ai/) |
 | [zouchenzhen/thesis-defense-pptx-skill](https://github.com/zouchenzhen/thesis-defense-pptx-skill) | 280 | Codex / Claude skill：从论文 PDF 或 LaTeX 生成可编辑答辩 PPTX，保留 PowerPoint 模板风格 | [SAFE](https://agentskillshub.top/skill/zouchenzhen/thesis-defense-pptx-skill/) |
 | [thePlannerIvan/planners-ppt-hell](https://github.com/thePlannerIvan/planners-ppt-hell) | 244 | 面向规划人员的 PPT skill。 | [SAFE](https://agentskillshub.top/skill/thePlannerIvan/planners-ppt-hell/) |
 | [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) | 223 | 面向 agent 的 PowerPoint 操作工具：通过 CLI 和原子 JSON 补丁检查、编辑、创建并验证 .pptx 文件，以 Agent Skill… | [SAFE](https://agentskillshub.top/skill/EveryInc/hands-on-deck/) |
 | [wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild) | 204 | 基于截图/参考图重建可编辑PPT的Codex skill：用image2/imagegen生成参考图，以局部截图保留视觉资产并重建可编辑元素。 | [SAFE](https://agentskillshub.top/skill/wwe-dog/ppt-image2-editable-rebuild/) |
 | [w1163222589-coder/slide-image-to-editable-pptx](https://github.com/w1163222589-coder/slide-image-to-editable-pptx) | 197 | 将幻灯片截图转换为可编辑 PowerPoint 演示文稿的 Codex skill。 | [SAFE](https://agentskillshub.top/skill/w1163222589-coder/slide-image-to-editable-pptx/) |
-| [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) | 175 | AI演示文稿生成器，支持26种风格和18种图表；Claude Code Skill将一句话生成HTML和可编辑PPTX演示文稿 | [SAFE](https://agentskillshub.top/skill/Akxan/ppt-agent-skill/) |
-| [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | 175 | 将 Beamer PDF 转换为含原生公式的可编辑 PowerPoint 演示文稿的 Codex Skill。 | [SAFE](https://agentskillshub.top/skill/xdmlxdml/beamer2pptx/) |
+| [Akxan/ppt-agent-skill](https://github.com/Akxan/ppt-agent-skill) | 177 | AI演示文稿生成器，支持26种风格和18种图表；Claude Code Skill将一句话生成HTML和可编辑PPTX演示文稿 | [SAFE](https://agentskillshub.top/skill/Akxan/ppt-agent-skill/) |
+| [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | 174 | 将 Beamer PDF 转换为含原生公式的可编辑 PowerPoint 演示文稿的 Codex Skill。 | [SAFE](https://agentskillshub.top/skill/xdmlxdml/beamer2pptx/) |
 | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | 170 | Slides Skill：让 AI Agent 生成可编辑 PPTD、PPTX，并配备本地浏览器编辑器 | [SAFE](https://agentskillshub.top/skill/jinwyp/open-ppt-skill/) |
 | [knight6669/knight-imagetopptx-skill](https://github.com/knight6669/knight-imagetopptx-skill) | 138 | 将语义幻灯片图像转换为可编辑 PPTX 的 Codex skill | [SAFE](https://agentskillshub.top/skill/knight6669/knight-imagetopptx-skill/) |
 | [Noi1r/powerpoint-skill](https://github.com/Noi1r/powerpoint-skill) | 131 | 用于创建 PowerPoint (.pptx) 演示文稿的 AI coding assistant skill，支持原生 OMML、LaTeX 公式及 Gra… | [SAFE](https://agentskillshub.top/skill/Noi1r/powerpoint-skill/) |
 | [Ayushmaniar/powerpoint-mcp](https://github.com/Ayushmaniar/powerpoint-mcp) | 125 | 用于 Windows 上 PowerPoint 自动化的开源 Model Context Protocol 服务器，基于 pywin32 | [SAFE](https://agentskillshub.top/skill/Ayushmaniar/powerpoint-mcp/) |
-| [henryhyw/slidepoise](https://github.com/henryhyw/slidepoise) | 98 | 开源的智能体幻灯片生成工具，支持自由形式视觉设计和可编辑的 PowerPoint 输出。 | [SAFE](https://agentskillshub.top/skill/henryhyw/slidepoise/) |
-| [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) | 94 | 将 HTML 幻灯片转换为可编辑 PPT/.pptx，文本保留为 PowerPoint 原生文本框。支持 Agent skill（Claude Code、Cu… | [SAFE](https://agentskillshub.top/skill/Hasasasa/html-to-editable-pptx/) |
-| [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) | 91 | PPT Master Plus skill：可编辑PPTX生成、美化、演讲者备注、实时预览和模板 | [SAFE](https://agentskillshub.top/skill/gnuhpc/ppt-master-plus/) |
-| [siril9/presentation-skill](https://github.com/siril9/presentation-skill) | 91 | MIT许可的agent skill和Codex插件，用于内容驱动、可编辑的PowerPoint演示文稿。基于JSON重建；支持原生图表、表格和渲染视觉质检。 | [SAFE](https://agentskillshub.top/skill/siril9/presentation-skill/) |
-| [Arinin77/image2editable-ppt](https://github.com/Arinin77/image2editable-ppt) | 84 | 一个 Codex skill，将图像、示意图和论文图表重建为元素级可编辑的 PowerPoint，附带注明来源的示例和视觉检查。 | [SAFE](https://agentskillshub.top/skill/Arinin77/image2editable-ppt/) |
-| [ACTAshui/sjtu-ppt-template-skill](https://github.com/ACTAshui/sjtu-ppt-template-skill) | 83 | 用于创建可编辑的上海交通大学风格 PowerPoint 演示文稿的 Codex skill | [SAFE](https://agentskillshub.top/skill/ACTAshui/sjtu-ppt-template-skill/) |
+| [Arinin77/image2editable-ppt](https://github.com/Arinin77/image2editable-ppt) | 106 | 一个 Codex skill，将图像、示意图和论文图表重建为元素级可编辑的 PowerPoint，附带注明来源的示例和视觉检查。 | [SAFE](https://agentskillshub.top/skill/Arinin77/image2editable-ppt/) |
+| [henryhyw/slidepoise](https://github.com/henryhyw/slidepoise) | 97 | 开源的智能体幻灯片生成工具，支持自由形式视觉设计和可编辑的 PowerPoint 输出。 | [SAFE](https://agentskillshub.top/skill/henryhyw/slidepoise/) |
+| [Hasasasa/html-to-editable-pptx](https://github.com/Hasasasa/html-to-editable-pptx) | 95 | 将 HTML 幻灯片转换为可编辑 PPT/.pptx，文本保留为 PowerPoint 原生文本框。支持 Agent skill（Claude Code、Cu… | [SAFE](https://agentskillshub.top/skill/Hasasasa/html-to-editable-pptx/) |
+| [gnuhpc/ppt-master-plus](https://github.com/gnuhpc/ppt-master-plus) | 95 | PPT Master Plus skill：可编辑PPTX生成、美化、演讲者备注、实时预览和模板 | [SAFE](https://agentskillshub.top/skill/gnuhpc/ppt-master-plus/) |
+| [siril9/presentation-skill](https://github.com/siril9/presentation-skill) | 93 | MIT许可的agent skill和Codex插件，用于内容驱动、可编辑的PowerPoint演示文稿。基于JSON重建；支持原生图表、表格和渲染视觉质检。 | [SAFE](https://agentskillshub.top/skill/siril9/presentation-skill/) |
+| [ACTAshui/sjtu-ppt-template-skill](https://github.com/ACTAshui/sjtu-ppt-template-skill) | 84 | 用于创建可编辑的上海交通大学风格 PowerPoint 演示文稿的 Codex skill | [SAFE](https://agentskillshub.top/skill/ACTAshui/sjtu-ppt-template-skill/) |
 | [wiltonesten-web/codeximage-to-editable-ppt-v2-1](https://github.com/wiltonesten-web/codeximage-to-editable-ppt-v2-1) | 80 | 高级 Codex skill：将图像PPT/PPTX忠实还原为可编辑演示文稿，支持语义分层、可编辑文本、原生形状、裁剪与背景审查、渲染质检及交付验证 | [CAUTION](https://agentskillshub.top/skill/wiltonesten-web/codeximage-to-editable-ppt-v2-1/) |
 | [NeekChaw/mcp-server-okppt](https://github.com/NeekChaw/mcp-server-okppt) | 68 | MCP OKPPT Server 基于 MCP，让 Claude、GPT 通过 SVG 创建 PowerPoint 并保留矢量特性 | [SAFE](https://agentskillshub.top/skill/NeekChaw/mcp-server-okppt/) |
-| [DSY-Xueai/image2editable](https://github.com/DSY-Xueai/image2editable) | 60 | 用于 Codex 和 Claude Code 的 skill 工具，将图像、PDF 和图像型 PPTX 转为可编辑的 PowerPoint 演示文稿。 | [SAFE](https://agentskillshub.top/skill/DSY-Xueai/image2editable/) |
+| [DSY-Xueai/image2editable](https://github.com/DSY-Xueai/image2editable) | 61 | 用于 Codex 和 Claude Code 的 skill 工具，将图像、PDF 和图像型 PPTX 转为可编辑的 PowerPoint 演示文稿。 | [SAFE](https://agentskillshub.top/skill/DSY-Xueai/image2editable/) |
 | [AIPMAndy/PPTskill](https://github.com/AIPMAndy/PPTskill) | 57 | AI 生成原生可编辑 PPTX | [CAUTION](https://agentskillshub.top/skill/AIPMAndy/PPTskill/) |
 | [wiltonesten-web/codeximage-to-editable-ppt-v1](https://github.com/wiltonesten-web/codeximage-to-editable-ppt-v1) | 53 | 用于将图片型 PPT/PPTX 幻灯片重建为可编辑 PowerPoint 文稿的 Codex skill | [CAUTION](https://agentskillshub.top/skill/wiltonesten-web/codeximage-to-editable-ppt-v1/) |
 | [qybaihe/codex-ppt](https://github.com/qybaihe/codex-ppt) | 50 | Codex PPT 是用于制作16:9演示文稿的 Codex skill，支持图片模式和可编辑PPTX模式：先生成幻灯片图片，再重建为可编辑文字和可移动图层。 | [SAFE](https://agentskillshub.top/skill/qybaihe/codex-ppt/) |
+| [TianLin0509/img2ppt-lite](https://github.com/TianLin0509/img2ppt-lite) | 49 | 将幻灯片示意图转为可编辑PPTX：原生文本、可拖动语义精灵和修复背景，适用于Claude Code、Codex及任意CLI agent的Agent-as-VL… | [SAFE](https://agentskillshub.top/skill/TianLin0509/img2ppt-lite/) |
 | [huashu996/PPT-Framework-Skill](https://github.com/huashu996/PPT-Framework-Skill) | 49 | 面向 Codex 的可编辑学术框图 PowerPoint skill，支持参考图复刻、内容生成技术路线图和系统框图，输出可编辑原生对象及公式。 | [SAFE](https://agentskillshub.top/skill/huashu996/PPT-Framework-Skill/) |
-| [TianLin0509/img2ppt-lite](https://github.com/TianLin0509/img2ppt-lite) | 48 | 将幻灯片示意图转为可编辑PPTX：原生文本、可拖动语义精灵和修复背景，适用于Claude Code、Codex及任意CLI agent的Agent-as-VL… | [SAFE](https://agentskillshub.top/skill/TianLin0509/img2ppt-lite/) |
 | [opitaru-sys/deck-dna](https://github.com/opitaru-sys/deck-dna) | 47 | 一个 Claude skill，制作匹配真实设计师演示文稿的 PPTX：提取设计 DNA、测算文字量、渲染质检闭环。 | [SAFE](https://agentskillshub.top/skill/opitaru-sys/deck-dna/) |
 | [riteouschris-max/journal-club-ppt](https://github.com/riteouschris-max/journal-club-ppt) | 47 | 可复用 skill：根据研究论文制作清晰、基于证据的文献研讨会演示文稿。 | [SAFE](https://agentskillshub.top/skill/riteouschris-max/journal-club-ppt/) |
 | [kongzhecn/image-svg-pptx-pro-skill](https://github.com/kongzhecn/image-svg-pptx-pro-skill) | 39 | 将光栅PPT截图或AI生成的幻灯片图像转换为高保真SVG和可编辑PPT的Codex/agent skill | [SAFE](https://agentskillshub.top/skill/kongzhecn/image-svg-pptx-pro-skill/) |
 | [HututuWorks/sci-diagram-pptx](https://github.com/HututuWorks/sci-diagram-pptx) | 37 | 将科学框架、机制和流程图重构为原生可编辑 PowerPoint，为 Codex 提供基于来源、失败即停的 QA。 | [CAUTION](https://agentskillshub.top/skill/HututuWorks/sci-diagram-pptx/) |
-| [ewkzcz/bili-2-ppt](https://github.com/ewkzcz/bili-2-ppt) | 36 | bili-2-ppt：将 B 站视频转换为学习笔记、PPT 等格式文档的 skill | [SAFE](https://agentskillshub.top/skill/ewkzcz/bili-2-ppt/) |
+| [ewkzcz/bili-2-ppt](https://github.com/ewkzcz/bili-2-ppt) | 37 | bili-2-ppt：将 B 站视频转换为学习笔记、PPT 等格式文档的 skill | [SAFE](https://agentskillshub.top/skill/ewkzcz/bili-2-ppt/) |
 | [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) | 34 | 2slides 的 MCP Server，用于生成 PPT、演示文稿和幻灯片的 AI agent | [SAFE](https://agentskillshub.top/skill/2slides/mcp-2slides/) |
-| [zairuilab/consulting-deck](https://github.com/zairuilab/consulting-deck) | 30 | 将复杂资料转为证据可追溯、版式稳妥、原生可编辑的 McKinsey 风格 PowerPoint，含45个语义页面契约和经验证的图表数据。 | [SAFE](https://agentskillshub.top/skill/zairuilab/consulting-deck/) |
+| [zairuilab/consulting-deck](https://github.com/zairuilab/consulting-deck) | 31 | 将复杂资料转为证据可追溯、版式稳妥、原生可编辑的 McKinsey 风格 PowerPoint，含45个语义页面契约和经验证的图表数据。 | [SAFE](https://agentskillshub.top/skill/zairuilab/consulting-deck/) |
 | [jiadizhunine/deepPPT](https://github.com/jiadizhunine/deepPPT) | 29 | 面向学术演示文稿的研究型 PowerPoint 生成与质量检查 skill | [CAUTION](https://agentskillshub.top/skill/jiadizhunine/deepPPT/) |
 | [liustack/pptwise](https://github.com/liustack/pptwise) | 27 | pptwise 根据 AI 指定内容在本机生成可编辑 PPT，支持 Agent skill 和 DSH 插件，无需账号或 API key。 | [SAFE](https://agentskillshub.top/skill/liustack/pptwise/) |
 | [LearnAIHubC/LearnDeck](https://github.com/LearnAIHubC/LearnDeck) | 26 | LearnDeck：适用于 Codex 的 AI PPT 生成器，可将主题、笔记、课程资料和大纲转换为可编辑的 PowerPoint 演示文稿。 | [SAFE](https://agentskillshub.top/skill/LearnAIHubC/LearnDeck/) |
@@ -210,9 +210,9 @@
 | [Mr-Q526/PPTMaker-skill](https://github.com/Mr-Q526/PPTMaker-skill) | 24 | 根据主题或文稿生成结构化 PPT，支持自然语言修改页面和组件并导出可编辑 PPT。 | [SAFE](https://agentskillshub.top/skill/Mr-Q526/PPTMaker-skill/) |
 | [zsc58/ustc-ppt-template](https://github.com/zsc58/ustc-ppt-template) | 21 | USTC 中国科学技术大学蓝色学术 PPT 模版，15页骨架、跳转导航、LaTeX公式管线、Claude Code skills | [UNSAFE](https://agentskillshub.top/skill/zsc58/ustc-ppt-template/) |
 | [gonta223/japanese-corporate-pptx-skill](https://github.com/gonta223/japanese-corporate-pptx-skill) | 20 | Japanese Corporate PPTX Agent Skill：制作日本企业风格可编辑PowerPoint一页图，含15种布局。 | [SAFE](https://agentskillshub.top/skill/gonta223/japanese-corporate-pptx-skill/) |
-| [mathruffian-dot/soil-motion-deck](https://github.com/mathruffian-dot/soil-motion-deck) | 19 | SOIL 教学演示文稿与解说动画：一次制作，生成关键页嵌入动画的 .pptx 和配音字幕解说视频（Claude Code skill） | [SAFE](https://agentskillshub.top/skill/mathruffian-dot/soil-motion-deck/) |
+| [mathruffian-dot/soil-motion-deck](https://github.com/mathruffian-dot/soil-motion-deck) | 20 | SOIL 教学演示文稿与解说动画：一次制作，生成关键页嵌入动画的 .pptx 和配音字幕解说视频（Claude Code skill） | [SAFE](https://agentskillshub.top/skill/mathruffian-dot/soil-motion-deck/) |
 | [mpuig/agent-slides](https://github.com/mpuig/agent-slides) | 17 | 用于生成 PowerPoint 演示文稿的 agent skill，包含 7 个可组合 skill 和专用 CLI。 | [SAFE](https://agentskillshub.top/skill/mpuig/agent-slides/) |
-| [ABYR1206/claude-skill-hand-drawn-slides](https://github.com/ABYR1206/claude-skill-hand-drawn-slides) | 14 | Claude Skill：生成手绘涂鸦风格的 PowerPoint 章节分隔页，含低饱和背景、衬线标题和 40 幅插画 SVG 库 | [SAFE](https://agentskillshub.top/skill/ABYR1206/claude-skill-hand-drawn-slides/) |
+| [ABYR1206/claude-skill-hand-drawn-slides](https://github.com/ABYR1206/claude-skill-hand-drawn-slides) | 15 | Claude Skill：生成手绘涂鸦风格的 PowerPoint 章节分隔页，含低饱和背景、衬线标题和 40 幅插画 SVG 库 | [SAFE](https://agentskillshub.top/skill/ABYR1206/claude-skill-hand-drawn-slides/) |
 | [fengting124/paper-figure-pptx-skill](https://github.com/fengting124/paper-figure-pptx-skill) | 14 | 将学术论文图表重构为可编辑且经 LibreOffice 验证的 PPTX 幻灯片的 Codex skill | [SAFE](https://agentskillshub.top/skill/fengting124/paper-figure-pptx-skill/) |
 | [algerchen2024/image-to-editable-pptx](https://github.com/algerchen2024/image-to-editable-pptx) | 13 | ChatGPT skill+可移植的PageIR/PptxGenJS工作流，将扁平幻灯片图像还原为可编辑PowerPoint文件。 | [SAFE](https://agentskillshub.top/skill/algerchen2024/image-to-editable-pptx/) |
 | [bvb6417/ppt-studio](https://github.com/bvb6417/ppt-studio) | 13 | 科研风AI-PPT，固化Claude审美，参考公开科研风PPT排版 | [SAFE](https://agentskillshub.top/skill/bvb6417/ppt-studio/) |
@@ -248,7 +248,7 @@
 | [concertoy/glissando](https://github.com/concertoy/glissando) | 5 | 用代码构建幻灯片，供 AI agent 使用。 | [SAFE](https://agentskillshub.top/skill/concertoy/glissando/) |
 | [gtoxlili/deckforge](https://github.com/gtoxlili/deckforge) | 5 | deckforge — agent 可安装并调用的 PPT 生成 CLI | [UNSAFE](https://agentskillshub.top/skill/gtoxlili/deckforge/) |
 | [qianmo-qp/zjlab-academic-pptx-sklls](https://github.com/qianmo-qp/zjlab-academic-pptx-sklls) | 5 | 生成实验室技术与学术汇报PPTX的 skill | [SAFE](https://agentskillshub.top/skill/qianmo-qp/zjlab-academic-pptx-sklls/) |
-| [pptx](https://github.com/anthropics/skills/tree/HEAD/skills/pptx) | 所在仓库 anthropics/skills: 187.0k | Anthropic's own PowerPoint skill, from anthropics/skills: creates, reads and edits .pptx and .potx files, including templates, layouts, speaker notes… | [SAFE](https://agentskillshub.top/skill/anthropics/skills/) |
+| [pptx](https://github.com/anthropics/skills/tree/HEAD/skills/pptx) | 所在仓库 anthropics/skills: 187.3k | Anthropic's own PowerPoint skill, from anthropics/skills: creates, reads and edits .pptx and .potx files, including templates, layouts, speaker notes… | [SAFE](https://agentskillshub.top/skill/anthropics/skills/) |
 
 <a id="type-image"></a>
 ## 🖼 图片式 PPT
@@ -284,33 +284,33 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31.8k | 使用 coding agent 的前端技能创建网页幻灯片 | [SAFE](https://agentskillshub.top/skill/zarazhangrui/frontend-slides/) |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 29.2k | 用于生成 HTML 幻灯片的 AI-agent Skill：编辑杂志与瑞士风格布局、图像提示词、社交媒体封面及 WebGL/低功耗演示运行时 | [SAFE](https://agentskillshub.top/skill/op7418/guizang-ppt-skill/) |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 31.9k | 使用 coding agent 的前端技能创建网页幻灯片 | [SAFE](https://agentskillshub.top/skill/zarazhangrui/frontend-slides/) |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 29.3k | 用于生成 HTML 幻灯片的 AI-agent Skill：编辑杂志与瑞士风格布局、图像提示词、社交媒体封面及 WebGL/低功耗演示运行时 | [SAFE](https://agentskillshub.top/skill/op7418/guizang-ppt-skill/) |
 | [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | 9.0k | HTML PPT Studio——包含24种主题、31种布局和20多种动画的AgentSkill，用于制作HTML演示文稿 | [SAFE](https://agentskillshub.top/skill/lewislulu/html-ppt-skill/) |
-| [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 547 | 适用于 Codex/Claude Code 的可编辑 HTML 演示文稿 skill，支持拖拽缩放、幻灯片排序、本地保存导出及 PPTX 转网页。致谢 @za… | [SAFE](https://agentskillshub.top/skill/archlizheng/frontend-slides-editable/) |
+| [archlizheng/frontend-slides-editable](https://github.com/archlizheng/frontend-slides-editable) | 548 | 适用于 Codex/Claude Code 的可编辑 HTML 演示文稿 skill，支持拖拽缩放、幻灯片排序、本地保存导出及 PPTX 转网页。致谢 @za… | [SAFE](https://agentskillshub.top/skill/archlizheng/frontend-slides-editable/) |
 | [ryanbbrown/revealjs-skill](https://github.com/ryanbbrown/revealjs-skill) | 419 | 用于制作 reveal.js 演示文稿的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/ryanbbrown/revealjs-skill/) |
 | [robonuggets/marp-slides](https://github.com/robonuggets/marp-slides) | 332 | Claude Code 的 MARP 演示 skill：22 个示例、SVG 图表、明暗主题、仪表盘组件 | [SAFE](https://agentskillshub.top/skill/robonuggets/marp-slides/) |
 | [mujingquan835/Dawang-ppt](https://github.com/mujingquan835/Dawang-ppt) | 192 | Dawang-PPT：内容驱动的中文演示 skill，支持场景规划、风格构图、浏览器编辑和 PPTX 导出（实验版） | [SAFE](https://agentskillshub.top/skill/mujingquan835/Dawang-ppt/) |
+| [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) | 188 | 演讲按节拍而非幻灯片：固定1920×1080 React舞台，一次点击一个节拍，支持离线、确定性、演讲者视图和Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/borjaperfra/beatdeck/) |
 | [daniel-style/magic-slide](https://github.com/daniel-style/magic-slide) | 172 | 生成独立 HTML 演示文稿，支持流畅的 Magic Move 风格幻灯片过渡。 | [SAFE](https://agentskillshub.top/skill/daniel-style/magic-slide/) |
 | [code-on-sunday/slide-deck-generator](https://github.com/code-on-sunday/slide-deck-generator) | 154 | 为 coding agents 提供的 AI skill，使用 React + Vite + Framer Motion 创建可用于生产的浏览器演示文稿幻灯片 | [SAFE](https://agentskillshub.top/skill/code-on-sunday/slide-deck-generator/) |
 | [Kuneosu/make-slide](https://github.com/Kuneosu/make-slide) | 139 | 用于生成独立 HTML 幻灯片演示文稿的通用 AI skill | [SAFE](https://agentskillshub.top/skill/Kuneosu/make-slide/) |
-| [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) | 127 | 使用独立的 qiaomu-bento-ppt skill，根据简报、笔记等创建或编辑 qiaomu 风格演示文稿，输出自包含的 .bento.html 文件 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-bento-ppt/) |
-| [gongnyang/awesome-html-scrolline-deck](https://github.com/gongnyang/awesome-html-scrolline-deck) | 102 | Scrolline Deck：Claude Code skill，滚动驱动 HTML 演示，含 12 种场景技法、进出编排和 10 个滚轮关卡。 | [SAFE](https://agentskillshub.top/skill/gongnyang/awesome-html-scrolline-deck/) |
-| [borjaperfra/beatdeck](https://github.com/borjaperfra/beatdeck) | 101 | 演讲按节拍而非幻灯片：固定1920×1080 React舞台，一次点击一个节拍，支持离线、确定性、演讲者视图和Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/borjaperfra/beatdeck/) |
+| [joeseesun/qiaomu-bento-ppt](https://github.com/joeseesun/qiaomu-bento-ppt) | 126 | 使用独立的 qiaomu-bento-ppt skill，根据简报、笔记等创建或编辑 qiaomu 风格演示文稿，输出自包含的 .bento.html 文件 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-bento-ppt/) |
+| [gongnyang/awesome-html-scrolline-deck](https://github.com/gongnyang/awesome-html-scrolline-deck) | 103 | Scrolline Deck：Claude Code skill，滚动驱动 HTML 演示，含 12 种场景技法、进出编排和 10 个滚轮关卡。 | [SAFE](https://agentskillshub.top/skill/gongnyang/awesome-html-scrolline-deck/) |
 | [AIPMAndy/LivePPT](https://github.com/AIPMAndy/LivePPT) | 84 | Markdown 一键转可翻页、可分享的 HTML 演示页（Claude Code skill） | [SAFE](https://agentskillshub.top/skill/AIPMAndy/LivePPT/) |
-| [UniUni2000/slideblocks-skill](https://github.com/UniUni2000/slideblocks-skill) | 81 | 用于创建和改进 Slidev 演示文稿的 SlideBlocks agent skill | [SAFE](https://agentskillshub.top/skill/UniUni2000/slideblocks-skill/) |
+| [UniUni2000/slideblocks-skill](https://github.com/UniUni2000/slideblocks-skill) | 82 | 用于创建和改进 Slidev 演示文稿的 SlideBlocks agent skill | [SAFE](https://agentskillshub.top/skill/UniUni2000/slideblocks-skill/) |
 | [pakco77/pakco-html](https://github.com/pakco77/pakco-html) | 76 | 60+种风格，演示与纵向页面，taste 图文，复制 Prompt | [SAFE](https://agentskillshub.top/skill/pakco77/pakco-html/) |
-| [arifszn/slide-wright](https://github.com/arifszn/slide-wright) | 66 | 使用 AI agent skill 生成 reveal.js 幻灯片，每次提示采用新设计。 | [SAFE](https://agentskillshub.top/skill/arifszn/slide-wright/) |
+| [arifszn/slide-wright](https://github.com/arifszn/slide-wright) | 67 | 使用 AI agent skill 生成 reveal.js 幻灯片，每次提示采用新设计。 | [SAFE](https://agentskillshub.top/skill/arifszn/slide-wright/) |
 | [kaisersong/slide-creator](https://github.com/kaisersong/slide-creator) | 57 | 用于 AI 规划、风格探索并导出 PPTX 的 HTML 演示文稿生成 Claude Code skill | [SAFE](https://agentskillshub.top/skill/kaisersong/slide-creator/) |
-| [glukicov/slideops](https://github.com/glukicov/slideops) | 50 | 将代码仓库转换为幻灯片，并提示何时与代码不一致 | [SAFE](https://agentskillshub.top/skill/glukicov/slideops/) |
+| [glukicov/slideops](https://github.com/glukicov/slideops) | 51 | 将代码仓库转换为幻灯片，并提示何时与代码不一致 | [SAFE](https://agentskillshub.top/skill/glukicov/slideops/) |
 | [whiteg2030-alt/BWC-XIXI-PPT-HTML](https://github.com/whiteg2030-alt/BWC-XIXI-PPT-HTML) | 49 | 细瘦风格PPT，HTML形式，内置白无常原创字体，可免费商用。调用此skill生成HTML和PPT两份，PPT文字可修改。 | [SAFE](https://agentskillshub.top/skill/whiteg2030-alt/BWC-XIXI-PPT-HTML/) |
 | [FeeiCN/slide-writer](https://github.com/FeeiCN/slide-writer) | 44 | 用于根据想法、大纲、文档和演讲稿生成企业级 HTML 演示文稿的 slide-writing skill。 | [SAFE](https://agentskillshub.top/skill/FeeiCN/slide-writer/) |
 | [OrangeViolin/presentation-skill](https://github.com/OrangeViolin/presentation-skill) | 35 | 演讲脚本和PPT生成器，支持62种设计风格，基于 awesome-design-md，输入主题生成HTML幻灯片。 | [SAFE](https://agentskillshub.top/skill/OrangeViolin/presentation-skill/) |
 | [keanu77/htmlpptskill](https://github.com/keanu77/htmlpptskill) | 35 | reveal.js Agent Skill：离线、QR、PPTX/PDF；Claude Code、Codex CLI、Gemini CLI、Grok Build | [SAFE](https://agentskillshub.top/skill/keanu77/htmlpptskill/) |
 | [SlideSpeak/slide-design-skill](https://github.com/SlideSpeak/slide-design-skill) | 34 | AI演示引擎：描述内容与风格，生成HTML幻灯片；Agent skill：npx skills add SlideSpeak/slide-design-ski… | [SAFE](https://agentskillshub.top/skill/SlideSpeak/slide-design-skill/) |
 | [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) | 33 | 5万多个独特 HTML 演示设计。零依赖。拒绝 AI 垃圾风。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/nghiahsgs/skills-slides/) |
+| [sharptoolbox/consulting-html-ppt](https://github.com/sharptoolbox/consulting-html-ppt) | 33 | 咨询风格 HTML + SVG 演示页生成 skill：McKinsey/BCG 风格、三形态判定、双模板库、ECharts | [SAFE](https://agentskillshub.top/skill/sharptoolbox/consulting-html-ppt/) |
 | [dososo/blcaptain-ppt-skill](https://github.com/dososo/blcaptain-ppt-skill) | 32 | AI 原生单文件 HTML 演示 skill：7 套设计体系视觉风格，机器强制执行 WCAG、间距、32 维审计与反伪造规则，零依赖。 | [SAFE](https://agentskillshub.top/skill/dososo/blcaptain-ppt-skill/) |
-| [sharptoolbox/consulting-html-ppt](https://github.com/sharptoolbox/consulting-html-ppt) | 32 | 咨询风格 HTML + SVG 演示页生成 skill：McKinsey/BCG 风格、三形态判定、双模板库、ECharts | [SAFE](https://agentskillshub.top/skill/sharptoolbox/consulting-html-ppt/) |
 | [dakjdakd/PPT-Design-DNA](https://github.com/dakjdakd/PPT-Design-DNA) | 30 | PPT-Design-DNA：将参考图转为可复用视觉系统，保存为 Design Profiles，并应用于 HTML 演示文稿的 skill。 | [SAFE](https://agentskillshub.top/skill/dakjdakd/PPT-Design-DNA/) |
 | [jxshow/Jingge-PPT-skill](https://github.com/jxshow/Jingge-PPT-skill) | 25 | 鲸格PPT：17种视觉风格的可编辑HTML演示文稿、汇报、讲堂和发布模板。 | [SAFE](https://agentskillshub.top/skill/jxshow/Jingge-PPT-skill/) |
 | [zhenwusw/orca-ppt-skill](https://github.com/zhenwusw/orca-ppt-skill) | 24 | orca-ppt-skill：供 AI Agent（Claude Code）生成页间连续运动的 HTML 演示稿，浏览器直接播放。 | [SAFE](https://agentskillshub.top/skill/zhenwusw/orca-ppt-skill/) |
@@ -320,9 +320,9 @@
 | [BigSweetPotatoStudio/ai-ppt-tutorial](https://github.com/BigSweetPotatoStudio/ai-ppt-tutorial) | 15 | Claude Code AI PPT 教程 | [SAFE](https://agentskillshub.top/skill/BigSweetPotatoStudio/ai-ppt-tutorial/) |
 | [masaki39/marp-mcp](https://github.com/masaki39/marp-mcp) | 15 | 让 AI agents 通过结构化工具创建和编辑 Marp 幻灯片的 MCP server。 | [SAFE](https://agentskillshub.top/skill/masaki39/marp-mcp/) |
 | [shawnzam/keynot](https://github.com/shawnzam/keynot) | 15 | Claude Code skill，将任意提示词转换为独立的 HTML 幻灯片，无需 Keynote 或 PowerPoint。 | [SAFE](https://agentskillshub.top/skill/shawnzam/keynot/) |
+| [andyqiu847-ai/high-quality-slides](https://github.com/andyqiu847-ai/high-quality-slides) | 14 | Claude Code skill，采用研究优先、叙事驱动的5阶段流程制作演示文稿，灵感来自 Genspark AI Slides。 | [SAFE](https://agentskillshub.top/skill/andyqiu847-ai/high-quality-slides/) |
 | [caikankan/cyberbin-ppt-skill](https://github.com/caikankan/cyberbin-ppt-skill) | 14 | 用于生成本地 HTML 幻灯片的 CyberBin PPT skill | [SAFE](https://agentskillshub.top/skill/caikankan/cyberbin-ppt-skill/) |
 | [andyluu98/slidefly](https://github.com/andyluu98/slidefly) | 13 | SlideFly：用于生成单文件 HTML 幻灯片的 Claude Code skill，含 PowerPoint-Morph 式过渡、47 种样式，支持越南语 | [SAFE](https://agentskillshub.top/skill/andyluu98/slidefly/) |
-| [andyqiu847-ai/high-quality-slides](https://github.com/andyqiu847-ai/high-quality-slides) | 13 | Claude Code skill，采用研究优先、叙事驱动的5阶段流程制作演示文稿，灵感来自 Genspark AI Slides。 | [SAFE](https://agentskillshub.top/skill/andyqiu847-ai/high-quality-slides/) |
 | [tjxj/dsh-wanghong-handwritten-ppt](https://github.com/tjxj/dsh-wanghong-handwritten-ppt) | 13 | 王虹学术手写风 PPT Skill for DeepSeek Harness，Notability 风格 HTML 幻灯片和 PNG 导出 | [SAFE](https://agentskillshub.top/skill/tjxj/dsh-wanghong-handwritten-ppt/) |
 | [icytra/fudan-html-ppt-template](https://github.com/icytra/fudan-html-ppt-template) | 12 | 复旦大学 PPT 模板 skill | [SAFE](https://agentskillshub.top/skill/icytra/fudan-html-ppt-template/) |
 | [lainshao/modern-ppt](https://github.com/lainshao/modern-ppt) | 12 | 单文件 HTML 演示文稿 Agent Skill：12 种布局、3 个主题、交互式图表和动画，支持 Claude Code、Codex CLI、Gemini… | [SAFE](https://agentskillshub.top/skill/lainshao/modern-ppt/) |
@@ -370,16 +370,16 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [carnot-tech/jinba-consulting-pptx-skill](https://github.com/carnot-tech/jinba-consulting-pptx-skill) | 1.5k | 让 AI 制作正经 PPTX 的 Claude Code / Codex skill | [SAFE](https://agentskillshub.top/skill/carnot-tech/jinba-consulting-pptx-skill/) |
-| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 537 | 带可编辑选项的咨询演示文稿 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
-| [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 329 | 面向 AI agent 的咨询公司风格 PowerPoint 设计系统，含 70 种布局模式，扁平设计，基于 python-pptx。 | [SAFE](https://agentskillshub.top/skill/likaku/Mck-ppt-design-skill/) |
+| [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | 540 | 带可编辑选项的咨询演示文稿 skill，适用于 Codex | [SAFE](https://agentskillshub.top/skill/Pikapika260214/rw-consulting-ppt/) |
+| [likaku/Mck-ppt-design-skill](https://github.com/likaku/Mck-ppt-design-skill) | 332 | 面向 AI agent 的咨询公司风格 PowerPoint 设计系统，含 70 种布局模式，扁平设计，基于 python-pptx。 | [SAFE](https://agentskillshub.top/skill/likaku/Mck-ppt-design-skill/) |
 | [Ronnie2025/codex-ppt-skill](https://github.com/Ronnie2025/codex-ppt-skill) | 222 | 中文 toB 商业汇报的 Codex PPT 生图、元素重组与 SVG 拆解工作流 | [SAFE](https://agentskillshub.top/skill/Ronnie2025/codex-ppt-skill/) |
-| [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 164 | 将杂乱笔记转为战略咨询视觉图，提供 SVG 示例和验证的 skill | [SAFE](https://agentskillshub.top/skill/kgraph57/mckinsey-style-visualization-skill/) |
+| [kgraph57/mckinsey-style-visualization-skill](https://github.com/kgraph57/mckinsey-style-visualization-skill) | 168 | 将杂乱笔记转为战略咨询视觉图，提供 SVG 示例和验证的 skill | [SAFE](https://agentskillshub.top/skill/kgraph57/mckinsey-style-visualization-skill/) |
 | [SenseTime-Copilot/raccoon-ppt-skill](https://github.com/SenseTime-Copilot/raccoon-ppt-skill) | 148 | 为 OpenClaw 提供远程 PPT 生成 skill，支持创建、续接任务、轮询和下载。 | [SAFE](https://agentskillshub.top/skill/SenseTime-Copilot/raccoon-ppt-skill/) |
 | [kimsh-1/deck-factory](https://github.com/kimsh-1/deck-factory) | 78 | 一行意图 → 一份演示级深色编辑风 HTML 演示文稿。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/kimsh-1/deck-factory/) |
 | [abxxvrv/spacex-ppt-skill](https://github.com/abxxvrv/spacex-ppt-skill) | 33 | 用于生成 SpaceX 路演风格演示文稿的 AI skill，支持导出 PDF 和 PNG。 | [SAFE](https://agentskillshub.top/skill/abxxvrv/spacex-ppt-skill/) |
 | [FW1201/visual-presentation-production](https://github.com/FW1201/visual-presentation-production) | 32 | 适用于 Codex 和 ChatGPT Work 的便携式 16:9 图片演示制作 skill | [SAFE](https://agentskillshub.top/skill/FW1201/visual-presentation-production/) |
 | [shenxiaofeng-pro/jiarui-svg-skills](https://github.com/shenxiaofeng-pro/jiarui-svg-skills) | 31 | 伽睿风格PPT图片制作技能包：生成含公司Logo、主色和清晰结构的SVG图片，可取消组合后编辑为PPT图片 | [SAFE](https://agentskillshub.top/skill/shenxiaofeng-pro/jiarui-svg-skills/) |
-| [floflo11/mbb-decks](https://github.com/floflo11/mbb-decks) | 21 | 适用于 Claude 的 MBB 风格咨询演示文稿 skill：行动标题式叙事、MECE 要点、公司徽标作项目符号、输出真实 .pptx 文件。 | [SAFE](https://agentskillshub.top/skill/floflo11/mbb-decks/) |
+| [floflo11/mbb-decks](https://github.com/floflo11/mbb-decks) | 22 | 适用于 Claude 的 MBB 风格咨询演示文稿 skill：行动标题式叙事、MECE 要点、公司徽标作项目符号、输出真实 .pptx 文件。 | [SAFE](https://agentskillshub.top/skill/floflo11/mbb-decks/) |
 | [NomiciAI/mbb-page-maker](https://github.com/NomiciAI/mbb-page-maker) | 10 | 使用静态 HTML/CSS/JS 创建咨询风格演示文稿的 AgentSkill。 | [SAFE](https://agentskillshub.top/skill/NomiciAI/mbb-page-maker/) |
 | [GZPengyuyan/PengyuyanPPT](https://github.com/GZPengyuyan/PengyuyanPPT) | 9 | 生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查 | [SAFE](https://agentskillshub.top/skill/GZPengyuyan/PengyuyanPPT/) |
 | [marcusnelson/presentation-writing-claude-skill](https://github.com/marcusnelson/presentation-writing-claude-skill) | 6 | 用于撰写有说服力演示文稿的 Claude skill，将笔记、文档和数据转为逐页叙事大纲，适用于路演、董事会演示、主题演讲和销售会议，注重论证结构和故事叙述，… | [SAFE](https://agentskillshub.top/skill/marcusnelson/presentation-writing-claude-skill/) |
@@ -399,22 +399,22 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 73.0k | AI 将文档或主题生成 PowerPoint 演示文稿，支持原生形状、转场、动画、按需数据图表与表格、备注转音频旁白及自定义 .pptx 模板。Hugo He | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/) |
-| [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.3k | AI-agent skill，从多种视觉主题生成可在浏览器编辑的演示文稿，并导出为 HTML、PDF 和 PPTX。 | [SAFE](https://agentskillshub.top/skill/chuspeeism/dashi-ppt-skill/) |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 73.4k | AI 将文档或主题生成 PowerPoint 演示文稿，支持原生形状、转场、动画、按需数据图表与表格、备注转音频旁白及自定义 .pptx 模板。Hugo He | [SAFE](https://agentskillshub.top/skill/hugohe3/ppt-master/) |
+| [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) | 10.4k | AI-agent skill，从多种视觉主题生成可在浏览器编辑的演示文稿，并导出为 HTML、PDF 和 PPTX。 | [SAFE](https://agentskillshub.top/skill/chuspeeism/dashi-ppt-skill/) |
 | [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) | 3.3k | NanoBanana PPT Skills：用 AI 生成 PPT 图片和视频，支持转场和交互式播放 | [CAUTION](https://agentskillshub.top/skill/op7418/NanoBanana-PPT-Skills/) |
 | [crazyykhllc-bit/CyberPPT](https://github.com/crazyykhllc-bit/CyberPPT) | 1.9k | 生成高密度、可编辑咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。 | [SAFE](https://agentskillshub.top/skill/crazyykhllc-bit/CyberPPT/) |
 | [Gabberflast/academic-pptx-skill](https://github.com/Gabberflast/academic-pptx-skill) | 1.4k | Claude skill：学术演示文稿制作，规范行动标题、论证、图表和引用，强调沟通优先；支持 Anthropic 内置 PPTX skill。 | [SAFE](https://agentskillshub.top/skill/Gabberflast/academic-pptx-skill/) |
-| [irenerachel/visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 395 | 【Skill】视觉风格 PPT 生成工作流 | [SAFE](https://agentskillshub.top/skill/irenerachel/visual-style-ppt-skill/) |
+| [irenerachel/visual-style-ppt-skill](https://github.com/irenerachel/visual-style-ppt-skill) | 396 | 【Skill】视觉风格 PPT 生成工作流 | [SAFE](https://agentskillshub.top/skill/irenerachel/visual-style-ppt-skill/) |
 | [Noi1r/beamer-skill](https://github.com/Noi1r/beamer-skill) | 370 | 用于创建、编译、审阅和完善学术 Beamer LaTeX 演示文稿的 Claude Code skill，涵盖质量评分、教学审阅和 TikZ 检查等流程。 | [SAFE](https://agentskillshub.top/skill/Noi1r/beamer-skill/) |
-| [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 328 | 根据论文生成学术答辩PPT，Claude Code & Codex Skill | [SAFE](https://agentskillshub.top/skill/Faust-Donf/beamer-academic/) |
-| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 291 | 将论文转换为可编辑的学术 PPTX 演示文稿 | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/) |
+| [Faust-Donf/beamer-academic](https://github.com/Faust-Donf/beamer-academic) | 329 | 根据论文生成学术答辩PPT，Claude Code & Codex Skill | [SAFE](https://agentskillshub.top/skill/Faust-Donf/beamer-academic/) |
+| [M1n-n9/academic-ppt-master](https://github.com/M1n-n9/academic-ppt-master) | 294 | 将论文转换为可编辑的学术 PPTX 演示文稿 | [SAFE](https://agentskillshub.top/skill/M1n-n9/academic-ppt-master/) |
 | [vigorX777/ppt-svg-generator](https://github.com/vigorX777/ppt-svg-generator) | 262 | ppt-svg-generator 是一个 skill，可将 Markdown 转为 PPT 或 PDF，支持预设风格。 | [SAFE](https://agentskillshub.top/skill/vigorX777/ppt-svg-generator/) |
-| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 184 | 视觉优先的 AI PPT skill，支持4套风格，生成可编辑 PPTX，适用于竞赛、汇报、答辩、路演和课程展示 | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/) |
+| [helloo1568/slidemuse](https://github.com/helloo1568/slidemuse) | 188 | 视觉优先的 AI PPT skill，支持4套风格，生成可编辑 PPTX，适用于竞赛、汇报、答辩、路演和课程展示 | [SAFE](https://agentskillshub.top/skill/helloo1568/slidemuse/) |
 | [fangyuanopus/literature-report-ppt-builder](https://github.com/fangyuanopus/literature-report-ppt-builder) | 121 | 用于生成学术文献报告 PPT 的开源 Codex skill | [SAFE](https://agentskillshub.top/skill/fangyuanopus/literature-report-ppt-builder/) |
 | [deathcats4/scholar-ppt-cn](https://github.com/deathcats4/scholar-ppt-cn) | 58 | Codex / ChatGPT 的 AI 学术 PPT 工作流 skill：将论文转为可编辑 PowerPoint，生成规划表、mockup 系列和 PPTX | [SAFE](https://agentskillshub.top/skill/deathcats4/scholar-ppt-cn/) |
 | [joeseesun/qiaomu-ppt](https://github.com/joeseesun/qiaomu-ppt) | 37 | 中文优先的演示文稿工作流：将 URL/PDF/NotebookLM/HTML Deck 转为可编辑、可验证的 PPT | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-ppt/) |
 | [hanlulong/econ-slides-skill](https://github.com/hanlulong/econ-slides-skill) | 26 | 将经济学论文转为 Beamer 演示文稿，配定时讲稿，含会议、求职市场和讨论人幻灯片。适用于 Claude Code 和 Codex 的 Agent Skil… | [SAFE](https://agentskillshub.top/skill/hanlulong/econ-slides-skill/) |
-| [icgma/slide-skill](https://github.com/icgma/slide-skill) | 14 | 以 SVG 为先的幻灯片生成工具包，支持智能内容规划和领域专用布局 | [SAFE](https://agentskillshub.top/skill/icgma/slide-skill/) |
+| [icgma/slide-skill](https://github.com/icgma/slide-skill) | 15 | 以 SVG 为先的幻灯片生成工具包，支持智能内容规划和领域专用布局 | [SAFE](https://agentskillshub.top/skill/icgma/slide-skill/) |
 | [DAIBird-0/pdf2ppt_skill](https://github.com/DAIBird-0/pdf2ppt_skill) | 12 | pdf2ppt_skill：将论文 PDF 制作为可编辑组会 PPT 的 Codex Skill，先确认方案，再输出 PPT、讲稿和预览。 | [SAFE](https://agentskillshub.top/skill/DAIBird-0/pdf2ppt_skill/) |
 | [moyoo0/paper-to-latex-ppt](https://github.com/moyoo0/paper-to-latex-ppt) | 12 | 输入论文，输出适合组会汇报并附讲稿的PPT。 | [CAUTION](https://agentskillshub.top/skill/moyoo0/paper-to-latex-ppt/) |
 | [SHALINS428/Academic-PPT-Skill](https://github.com/SHALINS428/Academic-PPT-Skill) | 11 | 开源 skill：将论文材料整理为严谨、可编辑的学术答辩 PPT，支持规划、验证和基于来源生成幻灯片。 | [SAFE](https://agentskillshub.top/skill/SHALINS428/Academic-PPT-Skill/) |
@@ -424,13 +424,13 @@
 | [FA-T-T/codex-skill-academic-slides](https://github.com/FA-T-T/codex-skill-academic-slides) | 8 | 使用 GPT Image 2 制作学术幻灯片、海报、校样和架构图的 Codex skill | [SAFE](https://agentskillshub.top/skill/FA-T-T/codex-skill-academic-slides/) |
 | [SkillMelody/PPT-Smith](https://github.com/SkillMelody/PPT-Smith) | 8 | MeowClaw PPT Smith — 与模型无关的演示文稿编译器 skill | [SAFE](https://agentskillshub.top/skill/SkillMelody/PPT-Smith/) |
 | [ficooooo/Paper2ScholarSlides](https://github.com/ficooooo/Paper2ScholarSlides) | 8 | 面向学术综述的PPT生成skill，将初稿、论文资料和模板转为结构严谨、引用清晰、图表公式可解释并经导出校验的汇报稿。 | [SAFE](https://agentskillshub.top/skill/ficooooo/Paper2ScholarSlides/) |
+| [smallSheep123/paper-skills](https://github.com/smallSheep123/paper-skills) | 8 | 学术组会汇报 PPT 的 agent skills | [SAFE](https://agentskillshub.top/skill/smallSheep123/paper-skills/) |
 | [codezzzsleep/research-ppt-skill](https://github.com/codezzzsleep/research-ppt-skill) | 6 | 研究组风格中文学术汇报PPT Skill（Agent Skill）：论文精读、文献/组会汇报与综述，生成.pptx，含排版库和渲染检查 | [SAFE](https://agentskillshub.top/skill/codezzzsleep/research-ppt-skill/) |
 | [demoolight/academic-image-ppt](https://github.com/demoolight/academic-image-ppt) | 6 | 用于生成学术图片型 PPT 的 Codex skill | [SAFE](https://agentskillshub.top/skill/demoolight/academic-image-ppt/) |
-| [smallSheep123/paper-skills](https://github.com/smallSheep123/paper-skills) | 6 | 学术组会汇报 PPT 的 agent skills | [SAFE](https://agentskillshub.top/skill/smallSheep123/paper-skills/) |
 | [sujunmin/agy-ppt](https://github.com/sujunmin/agy-ppt) | 6 | Turn reports into PowerPoint decks without the AI-slop look. An agent skill purpose-built for the Antigravity + Kiro + Codex pipeline — GPT-image ren… | [SAFE](https://agentskillshub.top/skill/sujunmin/agy-ppt/) |
 | [2654400439/Paper2Seminar](https://github.com/2654400439/Paper2Seminar) | 5 | 将研究论文转为完整、可编辑、适合研讨会的 PPTX 演示文稿的 Agent Skill | [SAFE](https://agentskillshub.top/skill/2654400439/Paper2Seminar/) |
 | [MURMURE11118586/codex-xkppt-skill](https://github.com/MURMURE11118586/codex-xkppt-skill) | 5 | 面向 Codex 的 PPT 制作 skill，支持从主题、文档、PDF、Markdown 或 PPT 生成演示文稿，并提供模板、导出和 QA 检查。 | [SAFE](https://agentskillshub.top/skill/MURMURE11118586/codex-xkppt-skill/) |
-| [MaximeRumpler/Make_PPTX](https://github.com/MaximeRumpler/Make_PPTX) | 5 | Make PPTX：笔记转PowerPoint；Make Clean PPTX版式、Make Style PPTX外观、Make Colors PPTX配色，… | [*待评级*](https://agentskillshub.top/skill/MaximeRumpler/Make_PPTX/) |
+| [MaximeRumpler/Make_PPTX](https://github.com/MaximeRumpler/Make_PPTX) | 5 | Make PPTX：笔记转PowerPoint；Make Clean PPTX版式、Make Style PPTX外观、Make Colors PPTX配色，… | [SAFE](https://agentskillshub.top/skill/MaximeRumpler/Make_PPTX/) |
 
 **安全评级**是 Agent Skills Hub 对仓库 README 和安装步骤的评级。*待评级*表示目录还没评到它。
 
@@ -446,4 +446,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-03。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-04。
