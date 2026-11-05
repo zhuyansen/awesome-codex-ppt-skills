@@ -1239,6 +1239,16 @@
   "file": "xukp20__build-beamer-slides.jpg",
   "still": "xukp20__build-beamer-slides.jpg"
  },
+ "xxxd666/special-achievement-report": {
+  "repo": "xxxd666/special-achievement-report",
+  "url": "https://raw.githubusercontent.com/xxxd666/special-achievement-report/HEAD/docs/screenshots/02-palette.jpeg",
+  "alt": "配色总览",
+  "score": -0.3,
+  "type": "image/jpeg",
+  "bytes": 690345,
+  "file": "xxxd666__special-achievement-report.jpg",
+  "still": "xxxd666__special-achievement-report.jpg"
+ },
  "zarazhangrui/frontend-slides": {
   "repo": "zarazhangrui/frontend-slides",
   "url": "https://img.youtube.com/vi/372Iksaz8b0/maxresdefault.jpg",
