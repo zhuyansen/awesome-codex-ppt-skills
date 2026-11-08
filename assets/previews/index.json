@@ -199,6 +199,16 @@
   "file": "Hasasasa__html-to-editable-pptx.jpg",
   "still": "Hasasasa__html-to-editable-pptx.jpg"
  },
+ "HeiGeAi/HeiGe-PPT": {
+  "repo": "HeiGeAi/HeiGe-PPT",
+  "url": "https://raw.githubusercontent.com/HeiGeAi/HeiGe-PPT/HEAD/assets/previews/heige-pitch.webp",
+  "alt": "HeiGe-PPT · 演讲锻造系统",
+  "score": -0.15,
+  "type": "image/webp",
+  "bytes": 18580,
+  "file": "HeiGeAi__HeiGe-PPT.jpg",
+  "still": "HeiGeAi__HeiGe-PPT.jpg"
+ },
  "HututuWorks/sci-diagram-pptx": {
   "repo": "HututuWorks/sci-diagram-pptx",
   "url": "https://raw.githubusercontent.com/HututuWorks/sci-diagram-pptx/HEAD/docs/cases/municipal-solid-waste-ghg-accounting-framework.png",
@@ -749,6 +759,16 @@
   "file": "huhuhu301__ppt-image-rebuilder.jpg",
   "still": "huhuhu301__ppt-image-rebuilder.jpg"
  },
+ "hustcer/pptx-nova": {
+  "repo": "hustcer/pptx-nova",
+  "url": "https://raw.githubusercontent.com/hustcer/pptx-nova/HEAD/docs/images/copper-motion-playback.gif",
+  "alt": "Copper Motion — native PPTX playback",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 1416259,
+  "file": "hustcer__pptx-nova.gif",
+  "still": "hustcer__pptx-nova.jpg"
+ },
  "icgma/slide-skill": {
   "repo": "icgma/slide-skill",
   "url": "https://raw.githubusercontent.com/icgma/slide-skill/HEAD/examples/thesis-sample/02-outline.png",
@@ -1208,6 +1228,16 @@
   "bytes": 130976,
   "file": "wp-a__paper2ppt.jpg",
   "still": "wp-a__paper2ppt.jpg"
+ },
+ "wuyoscar/GPT-Image2-Skill": {
+  "repo": "wuyoscar/GPT-Image2-Skill",
+  "url": "https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png",
+  "alt": "ImageGen result generated from the reverse-engineered prompt",
+  "score": 1.55,
+  "type": "image/png",
+  "bytes": 2593838,
+  "file": "wuyoscar__GPT-Image2-Skill.jpg",
+  "still": "wuyoscar__GPT-Image2-Skill.jpg"
  },
  "wwe-dog/ppt-image2-editable-rebuild": {
   "repo": "wwe-dog/ppt-image2-editable-rebuild",
