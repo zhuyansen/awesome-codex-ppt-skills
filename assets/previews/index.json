@@ -109,6 +109,16 @@
   "file": "Codagent-AI__and-scene.gif",
   "still": "Codagent-AI__and-scene.jpg"
  },
+ "CodingFeng101/slide-alchemy": {
+  "repo": "CodingFeng101/slide-alchemy",
+  "url": "https://raw.githubusercontent.com/CodingFeng101/slide-alchemy/HEAD/examples/01-smart-campus/editable-selected-textboxes.png",
+  "alt": "Smart campus editable PPTX",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 1432292,
+  "file": "CodingFeng101__slide-alchemy.jpg",
+  "still": "CodingFeng101__slide-alchemy.jpg"
+ },
  "ConnorRX56/presentation-delivery-skills": {
   "repo": "ConnorRX56/presentation-delivery-skills",
   "url": "https://raw.githubusercontent.com/ConnorRX56/presentation-delivery-skills/HEAD/demos/agent-skill-harness-hermes/previews/01-cover.png",
