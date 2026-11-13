@@ -89,6 +89,16 @@
   "file": "Arinin77__image2editable-ppt.jpg",
   "still": "Arinin77__image2editable-ppt.jpg"
  },
+ "Cennyk-learner/ppt-cinematic-animation": {
+  "repo": "Cennyk-learner/ppt-cinematic-animation",
+  "url": "https://raw.githubusercontent.com/Cennyk-learner/ppt-cinematic-animation/HEAD/assets/lighthouse.webp",
+  "alt": "灯塔演示页：雨夜光束扫过、推近、雾转场到清晨、航线画出",
+  "score": 1.75,
+  "type": "image/webp",
+  "bytes": 3715664,
+  "file": "Cennyk-learner__ppt-cinematic-animation.jpg",
+  "still": "Cennyk-learner__ppt-cinematic-animation.jpg"
+ },
  "Changhooo/ppt-image-redraw-skill": {
   "repo": "Changhooo/ppt-image-redraw-skill",
   "url": "https://raw.githubusercontent.com/Changhooo/ppt-image-redraw-skill/HEAD/docs/images/02-segmentation-preview.png",
@@ -218,6 +228,16 @@
   "bytes": 18580,
   "file": "HeiGeAi__HeiGe-PPT.jpg",
   "still": "HeiGeAi__HeiGe-PPT.jpg"
+ },
+ "HututuWorks/journal-club-ppt": {
+  "repo": "HututuWorks/journal-club-ppt",
+  "url": "https://raw.githubusercontent.com/HututuWorks/journal-club-ppt/HEAD/assets/readme/journal-club-ppt-banner.png",
+  "alt": "Journal Club PPT：从科研论文到可编辑的中文组会汇报，支持单篇精读、多篇比较与原文证据整理",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 1026106,
+  "file": "HututuWorks__journal-club-ppt.jpg",
+  "still": "HututuWorks__journal-club-ppt.jpg"
  },
  "HututuWorks/sci-diagram-pptx": {
   "repo": "HututuWorks/sci-diagram-pptx",
