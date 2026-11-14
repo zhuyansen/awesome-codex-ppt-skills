@@ -489,16 +489,6 @@
   "file": "ancarmona__keystone.jpg",
   "still": "ancarmona__keystone.jpg"
  },
- "andyluu98/slidefly": {
-  "repo": "andyluu98/slidefly",
-  "url": "https://raw.githubusercontent.com/andyluu98/slidefly/HEAD/docs/gallery.jpg",
-  "alt": "Thư viện style",
-  "score": 2.0,
-  "type": "image/jpeg",
-  "bytes": 161552,
-  "file": "andyluu98__slidefly.jpg",
-  "still": "andyluu98__slidefly.jpg"
- },
  "archlizheng/frontend-slides-editable": {
   "repo": "archlizheng/frontend-slides-editable",
   "url": "https://raw.githubusercontent.com/archlizheng/frontend-slides-editable/HEAD/docs/preset-previews/block-frame-mid.png",
