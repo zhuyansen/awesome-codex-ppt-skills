@@ -829,6 +829,16 @@
   "file": "icytra__fudan-html-ppt-template.jpg",
   "still": "icytra__fudan-html-ppt-template.jpg"
  },
+ "jernejk/talk-deck-template": {
+  "repo": "jernejk/talk-deck-template",
+  "url": "https://raw.githubusercontent.com/jernejk/talk-deck-template/HEAD/docs/scooter.jpg",
+  "alt": "A pixel-art rider on an e-scooter at dusk while a checklist ticks off a tighter ",
+  "score": 1.9,
+  "type": "image/jpeg",
+  "bytes": 325073,
+  "file": "jernejk__talk-deck-template.jpg",
+  "still": "jernejk__talk-deck-template.jpg"
+ },
  "jiadizhunine/deepPPT": {
   "repo": "jiadizhunine/deepPPT",
   "url": "https://raw.githubusercontent.com/jiadizhunine/deepPPT/HEAD/assets/previews/deepPPT_intro_zh_contact_sheet.png",
