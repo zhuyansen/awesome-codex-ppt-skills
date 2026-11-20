@@ -829,6 +829,16 @@
   "file": "icytra__fudan-html-ppt-template.jpg",
   "still": "icytra__fudan-html-ppt-template.jpg"
  },
+ "isatimur/presentation-md": {
+  "repo": "isatimur/presentation-md",
+  "url": "https://raw.githubusercontent.com/isatimur/presentation-md/HEAD/docs/hero-demo.gif",
+  "alt": "Six decks the pack rendered — pitch, brand, pricing, keynote — cycling to show t",
+  "score": 2.25,
+  "type": "image/gif",
+  "bytes": 330791,
+  "file": "isatimur__presentation-md.gif",
+  "still": "isatimur__presentation-md.jpg"
+ },
  "jernejk/talk-deck-template": {
   "repo": "jernejk/talk-deck-template",
   "url": "https://raw.githubusercontent.com/jernejk/talk-deck-template/HEAD/docs/scooter.jpg",
@@ -1138,16 +1148,6 @@
   "bytes": 56470,
   "file": "tanglele110-hash__zhongguose-ppt-skill.jpg",
   "still": "tanglele110-hash__zhongguose-ppt-skill.jpg"
- },
- "taufiquebuilds/nopurple": {
-  "repo": "taufiquebuilds/nopurple",
-  "url": "https://raw.githubusercontent.com/taufiquebuilds/nopurple/HEAD/docs/themes.png",
-  "alt": "Six themes: paper, ink, swiss, forest, sand and mono",
-  "score": -0.15,
-  "type": "image/png",
-  "bytes": 163366,
-  "file": "taufiquebuilds__nopurple.jpg",
-  "still": "taufiquebuilds__nopurple.jpg"
  },
  "theolundqvist/justshowme": {
   "repo": "theolundqvist/justshowme",
