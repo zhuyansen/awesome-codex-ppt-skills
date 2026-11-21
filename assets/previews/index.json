@@ -909,6 +909,16 @@
   "file": "kgraph57__mckinsey-style-visualization-skill.gif",
   "still": "kgraph57__mckinsey-style-visualization-skill.jpg"
  },
+ "khalil-wu/academic-image-to-editable-ppt": {
+  "repo": "khalil-wu/academic-image-to-editable-ppt",
+  "url": "https://raw.githubusercontent.com/khalil-wu/academic-image-to-editable-ppt/HEAD/examples/live/preview.png",
+  "alt": "Live 原图",
+  "score": 1.9,
+  "type": "image/png",
+  "bytes": 720034,
+  "file": "khalil-wu__academic-image-to-editable-ppt.jpg",
+  "still": "khalil-wu__academic-image-to-editable-ppt.jpg"
+ },
  "kimsh-1/deck-factory": {
   "repo": "kimsh-1/deck-factory",
   "url": "https://raw.githubusercontent.com/kimsh-1/deck-factory/HEAD/docs/media/hero.gif",
@@ -1148,6 +1158,16 @@
   "bytes": 56470,
   "file": "tanglele110-hash__zhongguose-ppt-skill.jpg",
   "still": "tanglele110-hash__zhongguose-ppt-skill.jpg"
+ },
+ "techwithtk/nopurple": {
+  "repo": "techwithtk/nopurple",
+  "url": "https://raw.githubusercontent.com/techwithtk/nopurple/HEAD/docs/themes.png",
+  "alt": "Six themes: paper, ink, swiss, forest, sand and mono",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 163366,
+  "file": "techwithtk__nopurple.jpg",
+  "still": "techwithtk__nopurple.jpg"
  },
  "theolundqvist/justshowme": {
   "repo": "theolundqvist/justshowme",
