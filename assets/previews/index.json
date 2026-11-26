@@ -989,6 +989,16 @@
   "file": "lirunjie0510__ppt-visual-reconstruction.jpg",
   "still": "lirunjie0510__ppt-visual-reconstruction.jpg"
  },
+ "marekkirejczyk/skills": {
+  "repo": "marekkirejczyk/skills",
+  "url": "https://raw.githubusercontent.com/marekkirejczyk/skills/HEAD/docs/media/explain-with-video-demo.gif",
+  "alt": "explain-with-video explaining this repository: four build stages appearing one b",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 305272,
+  "file": "marekkirejczyk__skills.gif",
+  "still": "marekkirejczyk__skills.jpg"
+ },
  "mathruffian-dot/soil-motion-deck": {
   "repo": "mathruffian-dot/soil-motion-deck",
   "url": "https://raw.githubusercontent.com/mathruffian-dot/soil-motion-deck/HEAD/docs/film-sheet.png",
@@ -1058,6 +1068,16 @@
   "bytes": 53533,
   "file": "nugrahalabib__AgentBuff-Presentation-Skills.jpg",
   "still": "nugrahalabib__AgentBuff-Presentation-Skills.jpg"
+ },
+ "oil-oil/oil-ppt": {
+  "repo": "oil-oil/oil-ppt",
+  "url": "https://raw.githubusercontent.com/oil-oil/oil-ppt/HEAD/assets/readme/readme-showcase.png",
+  "alt": "01 先看效果：oil-ppt 生成的四套不同配色演示文稿，共十五张页面",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 895062,
+  "file": "oil-oil__oil-ppt.jpg",
+  "still": "oil-oil__oil-ppt.jpg"
  },
  "opitaru-sys/deck-dna": {
   "repo": "opitaru-sys/deck-dna",
