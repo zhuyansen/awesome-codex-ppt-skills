@@ -1,4 +1,14 @@
 {
+ "123zhaozheng/SlideForge": {
+  "repo": "123zhaozheng/SlideForge",
+  "url": "https://raw.githubusercontent.com/123zhaozheng/SlideForge/HEAD/docs/assets/example-1-strategy-house.jpg",
+  "alt": "Example 1 rendered",
+  "score": 1.7,
+  "type": "image/jpeg",
+  "bytes": 246765,
+  "file": "123zhaozheng__SlideForge.jpg",
+  "still": "123zhaozheng__SlideForge.jpg"
+ },
  "2654400439/Paper2Seminar": {
   "repo": "2654400439/Paper2Seminar",
   "url": "https://raw.githubusercontent.com/2654400439/Paper2Seminar/HEAD/examples/gallery/beyond-rtt-results.png",
@@ -849,6 +859,16 @@
   "file": "isatimur__presentation-md.gif",
   "still": "isatimur__presentation-md.jpg"
  },
+ "jeonghun-app/pptx-deck-skill": {
+  "repo": "jeonghun-app/pptx-deck-skill",
+  "url": "https://raw.githubusercontent.com/jeonghun-app/pptx-deck-skill/HEAD/docs/images/sample-neutral-contact.png",
+  "alt": "Sample deck, neutral default brand",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 266626,
+  "file": "jeonghun-app__pptx-deck-skill.jpg",
+  "still": "jeonghun-app__pptx-deck-skill.jpg"
+ },
  "jernejk/talk-deck-template": {
   "repo": "jernejk/talk-deck-template",
   "url": "https://raw.githubusercontent.com/jernejk/talk-deck-template/HEAD/docs/scooter.jpg",
@@ -1109,6 +1129,16 @@
   "file": "qybaihe__codex-ppt.jpg",
   "still": "qybaihe__codex-ppt.jpg"
  },
+ "realihang/academic-ppt-skill": {
+  "repo": "realihang/academic-ppt-skill",
+  "url": "https://raw.githubusercontent.com/realihang/academic-ppt-skill/HEAD/asset/layout-selection.png",
+  "alt": "版式选择：没有精炼概括句用版式1，一行概括用版式2，两行概括用版式3",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 108351,
+  "file": "realihang__academic-ppt-skill.jpg",
+  "still": "realihang__academic-ppt-skill.jpg"
+ },
  "rocsgh/ppt-zen": {
   "repo": "rocsgh/ppt-zen",
   "url": "https://raw.githubusercontent.com/rocsgh/ppt-zen/HEAD/assets/hero-portolan.jpg",
@@ -1348,6 +1378,16 @@
   "bytes": 140889,
   "file": "xdmlxdml__beamer2pptx.jpg",
   "still": "xdmlxdml__beamer2pptx.jpg"
+ },
+ "xiaoli1999/li-talk-skills": {
+  "repo": "xiaoli1999/li-talk-skills",
+  "url": "https://raw.githubusercontent.com/xiaoli1999/li-talk-skills/HEAD/docs/images/edit.jpg",
+  "alt": "在线编辑：双击路牌上的「投茶」进入改字，旁边浮出字号、颜色、对齐工具条，顶部是改动数、撤销重做和「通知 AI 修改」",
+  "score": -0.7,
+  "type": "image/jpeg",
+  "bytes": 178603,
+  "file": "xiaoli1999__li-talk-skills.jpg",
+  "still": "xiaoli1999__li-talk-skills.jpg"
  },
  "xukp20/build-beamer-slides": {
   "repo": "xukp20/build-beamer-slides",

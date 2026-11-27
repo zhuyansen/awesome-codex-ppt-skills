@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `123zhaozheng__SlideForge.jpg` | [123zhaozheng/SlideForge](https://github.com/123zhaozheng/SlideForge) | MIT | [source](https://raw.githubusercontent.com/123zhaozheng/SlideForge/HEAD/docs/assets/example-1-strategy-house.jpg) |
 | `2654400439__Paper2Seminar.jpg` | [2654400439/Paper2Seminar](https://github.com/2654400439/Paper2Seminar) | MIT | [source](https://raw.githubusercontent.com/2654400439/Paper2Seminar/HEAD/examples/gallery/beyond-rtt-results.png) |
 | `2slides__mcp-2slides.jpg` | [2slides/mcp-2slides](https://github.com/2slides/mcp-2slides) | MIT | [source](https://2slides.com/images/og_2slides.webp) |
 | `ABYR1206__claude-skill-hand-drawn-slides.jpg` | [ABYR1206/claude-skill-hand-drawn-slides](https://github.com/ABYR1206/claude-skill-hand-drawn-slides) | MIT | [source](https://raw.githubusercontent.com/ABYR1206/claude-skill-hand-drawn-slides/HEAD/examples/preview.png) |
@@ -71,6 +72,7 @@ authors and stay under the license of the project they come from. To have one re
 | `icytra__fudan-html-ppt-template.jpg` | [icytra/fudan-html-ppt-template](https://github.com/icytra/fudan-html-ppt-template) | MIT | [source](https://raw.githubusercontent.com/icytra/fudan-html-ppt-template/HEAD/docs/screenshots/slide_01.jpg) |
 | `IpinZhu__es-ppt-skill.jpg` | [IpinZhu/es-ppt-skill](https://github.com/IpinZhu/es-ppt-skill) | MIT | [source](https://raw.githubusercontent.com/IpinZhu/es-ppt-skill/HEAD/imgs/README/image-20260526210205294.png) |
 | `isatimur__presentation-md.gif` | [isatimur/presentation-md](https://github.com/isatimur/presentation-md) | MIT | [source](https://raw.githubusercontent.com/isatimur/presentation-md/HEAD/docs/hero-demo.gif) |
+| `jeonghun-app__pptx-deck-skill.jpg` | [jeonghun-app/pptx-deck-skill](https://github.com/jeonghun-app/pptx-deck-skill) | MIT | [source](https://raw.githubusercontent.com/jeonghun-app/pptx-deck-skill/HEAD/docs/images/sample-neutral-contact.png) |
 | `jernejk__talk-deck-template.jpg` | [jernejk/talk-deck-template](https://github.com/jernejk/talk-deck-template) | MIT | [source](https://raw.githubusercontent.com/jernejk/talk-deck-template/HEAD/docs/scooter.jpg) |
 | `jiadizhunine__deepPPT.jpg` | [jiadizhunine/deepPPT](https://github.com/jiadizhunine/deepPPT) | MIT | [source](https://raw.githubusercontent.com/jiadizhunine/deepPPT/HEAD/assets/previews/deepPPT_intro_zh_contact_sheet.png) |
 | `jinwyp__open-ppt-skill.jpg` | [jinwyp/open-ppt-skill](https://github.com/jinwyp/open-ppt-skill) | MIT | [source](https://raw.githubusercontent.com/jinwyp/open-ppt-skill/HEAD/docs/images/example-yu7-pptx.png) |
@@ -108,6 +110,7 @@ authors and stay under the license of the project they come from. To have one re
 | `Pikapika260214__rw-consulting-ppt.jpg` | [Pikapika260214/rw-consulting-ppt](https://github.com/Pikapika260214/rw-consulting-ppt) | MIT | [source](https://raw.githubusercontent.com/Pikapika260214/rw-consulting-ppt/HEAD/skills/rw-consulting-ppt/assets/readme-hero.png) |
 | `prodigeproject__pradaslides.jpg` | [prodigeproject/pradaslides](https://github.com/prodigeproject/pradaslides) | MIT | [source](https://raw.githubusercontent.com/prodigeproject/pradaslides/HEAD/assets/benchmark/pradaslides-tuned-v2-media.png) |
 | `qybaihe__codex-ppt.jpg` | [qybaihe/codex-ppt](https://github.com/qybaihe/codex-ppt) | MIT | [source](https://raw.githubusercontent.com/qybaihe/codex-ppt/HEAD/examples/shit-app-memphis-pitch/slides/slide-03-product-idea.png) |
+| `realihang__academic-ppt-skill.jpg` | [realihang/academic-ppt-skill](https://github.com/realihang/academic-ppt-skill) | MIT | [source](https://raw.githubusercontent.com/realihang/academic-ppt-skill/HEAD/asset/layout-selection.png) |
 | `rocsgh__ppt-zen.jpg` | [rocsgh/ppt-zen](https://github.com/rocsgh/ppt-zen) | Apache-2.0 | [source](https://raw.githubusercontent.com/rocsgh/ppt-zen/HEAD/assets/hero-portolan.jpg) |
 | `Ronnie2025__codex-ppt-skill.jpg` | [Ronnie2025/codex-ppt-skill](https://github.com/Ronnie2025/codex-ppt-skill) | MIT | [source](https://raw.githubusercontent.com/Ronnie2025/codex-ppt-skill/HEAD/assets/examples/02-risk-framework.png) |
 | `SHALINS428__Academic-PPT-Skill.jpg` | [SHALINS428/Academic-PPT-Skill](https://github.com/SHALINS428/Academic-PPT-Skill) | MIT | [source](https://raw.githubusercontent.com/SHALINS428/Academic-PPT-Skill/HEAD/examples/twibot20/montage.png) |
@@ -140,6 +143,7 @@ authors and stay under the license of the project they come from. To have one re
 | `wuyoscar__GPT-Image2-Skill.jpg` | [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | MIT | [source](https://raw.githubusercontent.com/wuyoscar/GPT-Image2-Skill/HEAD/docs/illustration/get-prompt-from-image-result.png) |
 | `wwe-dog__ppt-image2-editable-rebuild.jpg` | [wwe-dog/ppt-image2-editable-rebuild](https://github.com/wwe-dog/ppt-image2-editable-rebuild) | Unlicense | [source](https://raw.githubusercontent.com/wwe-dog/ppt-image2-editable-rebuild/HEAD/examples/reference-images/slide04_reference.png) |
 | `xdmlxdml__beamer2pptx.jpg` | [xdmlxdml/beamer2pptx](https://github.com/xdmlxdml/beamer2pptx) | MIT | [source](https://raw.githubusercontent.com/xdmlxdml/beamer2pptx/HEAD/docs/pdf-vs-pptx.png) |
+| `xiaoli1999__li-talk-skills.jpg` | [xiaoli1999/li-talk-skills](https://github.com/xiaoli1999/li-talk-skills) | Apache-2.0 | [source](https://raw.githubusercontent.com/xiaoli1999/li-talk-skills/HEAD/docs/images/edit.jpg) |
 | `xukp20__build-beamer-slides.jpg` | [xukp20/build-beamer-slides](https://github.com/xukp20/build-beamer-slides) | MIT | [source](https://raw.githubusercontent.com/xukp20/build-beamer-slides/HEAD/gallery/experiment.png) |
 | `xxxd666__special-achievement-report.jpg` | [xxxd666/special-achievement-report](https://github.com/xxxd666/special-achievement-report) | MIT | [source](https://raw.githubusercontent.com/xxxd666/special-achievement-report/HEAD/docs/screenshots/02-palette.jpeg) |
 | `YingYveltal__bento-ppt-skill.jpg` | [YingYveltal/bento-ppt-skill](https://github.com/YingYveltal/bento-ppt-skill) | MIT | [source](https://raw.githubusercontent.com/YingYveltal/bento-ppt-skill/HEAD/examples/dify-intro/shots/01-cover.png) |
