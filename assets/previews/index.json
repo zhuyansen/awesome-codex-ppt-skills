@@ -769,6 +769,16 @@
   "file": "hanlulong__econ-slides-skill.jpg",
   "still": "hanlulong__econ-slides-skill.jpg"
  },
+ "hassaanua01-cpu/build-html-ppt-skill": {
+  "repo": "hassaanua01-cpu/build-html-ppt-skill",
+  "url": "https://raw.githubusercontent.com/hassaanua01-cpu/build-html-ppt-skill/HEAD/files/preview.png",
+  "alt": "",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 221242,
+  "file": "hassaanua01-cpu__build-html-ppt-skill.jpg",
+  "still": "hassaanua01-cpu__build-html-ppt-skill.jpg"
+ },
  "helloo1568/slidemuse": {
   "repo": "helloo1568/slidemuse",
   "url": "https://raw.githubusercontent.com/helloo1568/slidemuse/HEAD/showcase/preview/snowline-watch-01.webp",
@@ -1088,16 +1098,6 @@
   "bytes": 53533,
   "file": "nugrahalabib__AgentBuff-Presentation-Skills.jpg",
   "still": "nugrahalabib__AgentBuff-Presentation-Skills.jpg"
- },
- "oil-oil/oil-ppt": {
-  "repo": "oil-oil/oil-ppt",
-  "url": "https://raw.githubusercontent.com/oil-oil/oil-ppt/HEAD/assets/readme/readme-showcase.png",
-  "alt": "01 先看效果：oil-ppt 生成的四套不同配色演示文稿，共十五张页面",
-  "score": 1.95,
-  "type": "image/png",
-  "bytes": 895062,
-  "file": "oil-oil__oil-ppt.jpg",
-  "still": "oil-oil__oil-ppt.jpg"
  },
  "opitaru-sys/deck-dna": {
   "repo": "opitaru-sys/deck-dna",
